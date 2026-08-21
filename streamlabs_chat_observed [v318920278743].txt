@@ -1,0 +1,35 @@
+Streamlabs observed chat log started 2026-08-20 22:02:43
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-20 22:09:55] FalterXV: !rules
+[2026-08-20 22:09:56] FalterXV: !guides
+[2026-08-20 22:09:58] FalterXV: !loadout
+[2026-08-20 22:10:38] FalterXV: Chaos Divers responsible for the 10k (8) of them stalking me for 4+ months on the behalf of @CreateMyUniverse after his failed impersonation attempt on r/Helldiversunfiltered and u/huntingroguehelldivers resulted in that account's PSN network ban. _ https://www.psntools.com/psn/checker/musashi_the_fox PSN. ^ Discord ID: 559561431687626762 (Silver (pop diver, AI enjoyer) silver_the_cpop_diver KA52 attack helicopter) _ Steward "Wild Dog" Jeff washington117 ID: 1260081461512507512
+[2026-08-20 22:18:17] FalterXV: I'm getting some water then we'll be good
+[2026-08-20 22:18:21] FalterXV: my throat hurts a lot
+[2026-08-20 22:21:14] SirGameWatch_PYROSHRIMP: yeyeye get water and snacks and everything
+[2026-08-20 22:21:21] FalterXV: my fever is bad
+[2026-08-20 23:06:52] Monetta_TheDoll: hellos
+[2026-08-20 23:07:11] Z0_3_AM6: Bweh, no raid message allowed lol
+[2026-08-20 23:07:28] FalterXV: !so @Monetta_TheDoll
+[2026-08-20 23:07:33] Monetta_TheDoll: yea I saw the your sick hope you feel better
+[2026-08-20 23:07:37] Monetta_TheDoll: also banger music
+[2026-08-20 23:07:48] Z0_3_AM6: Mona you gotta make your raid message shorter, apparently
+[2026-08-20 23:07:51] Monetta_TheDoll: I'm good we where also hell diving
+[2026-08-20 23:09:43] Monetta_TheDoll: I'll be raiding out those I hope you have a lovely nights
+[2026-08-20 23:14:53] SirGameWatch_PYROSHRIMP: oh no take care of you 🥺
+[2026-08-20 23:39:40] dosseem_diver: WHY IS CALYPSO GONE FROM THE MAP
+[2026-08-20 23:40:01] dosseem_diver: Also either ite me or you, but strean is lagging BAD
+[2026-08-20 23:40:45] dosseem_diver: Stream*
+[2026-08-20 23:41:16] dosseem_diver: Ok well I gotta leave this stream, it keeps freezing
+[2026-08-20 23:45:30] dosseem_diver: THE BOTS ARE KILLING FOR ME AAGGHHHHHHH
+[2026-08-20 23:45:44] dosseem_diver: TWITCH
+[2026-08-20 23:45:55] dosseem_diver: EVEN RESTARTING DIDNT WORK
+[2026-08-20 23:46:00] dosseem_diver: Sure
+[2026-08-20 23:54:21] big_man_benny: Oh I played with you the other day. Believe you kicked me cause I said to chill after you crashed out on a random in the same mission. Just wanted you to know we all beat that mission you kicked us from. Have a good night and may you find God's Grace
+[2026-08-21 00:01:16] SirGameWatch_PYROSHRIMP: !lurk awa 💕💕
+[2026-08-21 00:04:39] chunkyturbojet: !rules
