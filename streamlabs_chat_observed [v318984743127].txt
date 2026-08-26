@@ -1,0 +1,163 @@
+Streamlabs observed chat log started 2026-08-25 22:00:58
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-25 22:05:10] FalterXV: !rules
+[2026-08-25 22:05:11] FalterXV: !guides
+[2026-08-25 22:05:12] FalterXV: !loadout
+[2026-08-25 22:05:14] FalterXV: !commands
+[2026-08-25 22:05:16] FalterXV: !rudediver
+[2026-08-25 22:05:17] FalterXV: !politediver
+[2026-08-25 22:31:04] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-08-25 23:01:19] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-08-25 23:02:10] under_ratedcinema: do you plan on posting about Spirit of The West
+[2026-08-25 23:03:26] UnhingedNW: Set your game to private if you are just going to kick people if they join. Thanks.
+[2026-08-25 23:03:27] under_ratedcinema: you ran into him before
+[2026-08-25 23:03:31] UnhingedNW: Please*
+[2026-08-25 23:04:22] under_ratedcinema: you said he tried to tk you and that you was going to post all the evidence
+[2026-08-25 23:30:21] SirGameWatch_PYROSHRIMP: !lurk here spiritually or mentally or idk fancy HEWWO 💕💕
+[2026-08-26 00:43:38] S3ntinal_: Wassuh
+[2026-08-26 00:43:57] S3ntinal_: Love your model looks really cool
+[2026-08-26 00:44:08] S3ntinal_: I'm doing great how about you
+[2026-08-26 00:44:27] S3ntinal_: It's still Tuesday for me close to Wednesday
+[2026-08-26 00:44:57] S3ntinal_: Haven't dived today
+[2026-08-26 00:45:19] S3ntinal_: I'm a helljumper so hell yeah
+[2026-08-26 00:45:33] S3ntinal_: For super earth and manage democracy
+[2026-08-26 00:45:53] S3ntinal_: Well it depends on the faction I'm fighting
+[2026-08-26 00:46:14] S3ntinal_: I switch it up
+[2026-08-26 00:48:19] S3ntinal_: For all around I'd have to got with the double freedom shotgun with the senator and the siege ready armor with quasar cannon and portable hellbomb
+[2026-08-26 00:48:46] S3ntinal_: No not really
+[2026-08-26 00:48:56] S3ntinal_: I usually squad up
+[2026-08-26 00:49:17] S3ntinal_: I usually prefer the eat launcher
+[2026-08-26 00:49:51] S3ntinal_: I'm an m.o diver but I prefer bugs and squids the most sometimes bots but not always
+[2026-08-26 00:50:50] S3ntinal_: I'm not crazy enough nor skilled enough for solo super helldive
+[2026-08-26 00:51:13] S3ntinal_: I prefer the double freedom on bots I usually like light pen on bugs
+[2026-08-26 00:52:18] S3ntinal_: I prefer the liberator commando with the viper commando armor on bugs
+[2026-08-26 00:52:34] S3ntinal_: I I'm a light and medium armor kinda guy
+[2026-08-26 00:52:49] S3ntinal_: Fast fire rate
+[2026-08-26 00:53:03] S3ntinal_: Really good on bugs especially with the stalwart
+[2026-08-26 00:54:00] S3ntinal_: When I was fighting in the void I used the oxygenator and warp pack was the trydant and laser cannon or grenade launcher
+[2026-08-26 00:54:34] S3ntinal_: I don't really use medium pen on bugs since light feels just as good maybe better in my opinion
+[2026-08-26 00:55:09] S3ntinal_: I use light pen a lot on squid front too
+[2026-08-26 00:55:16] S3ntinal_: I love fire for bugs
+[2026-08-26 00:55:24] S3ntinal_: The cookout is fun
+[2026-08-26 00:55:39] S3ntinal_: I like the verdict it's nice
+[2026-08-26 00:55:59] S3ntinal_: I also used the ultimatum during the void attack
+[2026-08-26 00:56:38] S3ntinal_: Cookout is good for stalkers it just stuns em really well
+[2026-08-26 00:59:07] S3ntinal_: I love using arc for squids, blitzer, k9 and de escalator is good for crowds I found out that you can actually kill harvesters with the de escalator
+[2026-08-26 00:59:34] S3ntinal_: Whenever I bring arc I warn my team that if they wanna not die then they should stay clear from me
+[2026-08-26 01:00:09] S3ntinal_: What armor do you rock
+[2026-08-26 01:01:42] S3ntinal_: You haven't gotten hit with a bug breach yet
+[2026-08-26 01:01:58] S3ntinal_: I would've been hit by one on drop
+[2026-08-26 01:02:12] S3ntinal_: Even with stealth I just suck lol
+[2026-08-26 01:02:20] S3ntinal_: Oh yeah they're blind
+[2026-08-26 01:03:26] S3ntinal_: Hold on why don't you put your lobbies to private or friends only so you don't get randoms
+[2026-08-26 01:04:04] S3ntinal_: Btw your model is giving anime vibes
+[2026-08-26 01:08:08] S3ntinal_: I know why you're model gives anime vibes it reminds me of shizu from the anime overlord
+[2026-08-26 01:09:00] S3ntinal_: She's the robot soldier maid
+[2026-08-26 01:09:37] S3ntinal_: Well of course everyone knows albeto because of those sights lol
+[2026-08-26 01:09:55] S3ntinal_: Who?
+[2026-08-26 01:10:28] S3ntinal_: I don't watch much anime so I wouldn't know
+[2026-08-26 01:11:46] S3ntinal_: Have you heard of the anime called 86 eighty six it has I think a little over 20 episodes really good id recommend
+[2026-08-26 01:12:27] S3ntinal_: The ending was perfect
+[2026-08-26 01:12:52] S3ntinal_: Have you seen akame ga kill
+[2026-08-26 01:13:35] S3ntinal_: The one death in the anime that was such bs has to be leone
+[2026-08-26 01:14:20] S3ntinal_: Like how TF does a flintlock shoot like ten times really pissed me off when that happened
+[2026-08-26 01:15:04] S3ntinal_: Mines death was sad
+[2026-08-26 01:15:48] S3ntinal_: Sheele and lubbocks death broke me
+[2026-08-26 01:16:34] S3ntinal_: Sheele was the first one to go because that one gal had so many modifications including a gun in her mouth like wtf man
+[2026-08-26 01:17:28] S3ntinal_: Lubbocks is what just hurt me the most since he was my favorite character he died from falling and being impaled by spears
+[2026-08-26 01:18:07] S3ntinal_: She was a cool character I like her too
+[2026-08-26 01:19:24] S3ntinal_: What's your favorite halo game
+[2026-08-26 01:19:35] S3ntinal_: Mines reach
+[2026-08-26 01:19:51] S3ntinal_: I'm ready how about you
+[2026-08-26 01:20:25] S3ntinal_: George died believing he saved reach
+[2026-08-26 01:23:17] S3ntinal_: So what's with the turret on your shoulder
+[2026-08-26 01:25:10] S3ntinal_: How hard are stealth dives
+[2026-08-26 01:25:50] S3ntinal_: Double breech
+[2026-08-26 01:26:10] S3ntinal_: Triple?!
+[2026-08-26 01:26:21] S3ntinal_: They want you dead
+[2026-08-26 01:31:36] S3ntinal_: I return from ads once more
+[2026-08-26 01:32:12] S3ntinal_: Banger music
+[2026-08-26 01:34:41] S3ntinal_: When it comes to it who's your favorite character from reach
+[2026-08-26 01:35:18] S3ntinal_: Emile is my favorite character
+[2026-08-26 01:35:55] S3ntinal_: I heard those bile titan steps and had a feeling something bad was gonna happen
+[2026-08-26 01:35:55] under_ratedcinema: message deleted by a moderator.
+[2026-08-26 01:36:04] UnhingedNW: message deleted by a moderator.
+[2026-08-26 01:36:25] S3ntinal_: How do you know what they bring?
+[2026-08-26 01:39:50] S3ntinal_: Turrets on a super helldive is a weird choice, it won't help much due to it being a swamp map I can see turrets being more effective in open maps but either way it's a lvl 10 mission so it won't provide much help unless it was a defense mission
+[2026-08-26 01:40:39] S3ntinal_: Mortars are pain
+[2026-08-26 01:40:53] S3ntinal_: They do more damage to you than the enemy
+[2026-08-26 01:41:33] S3ntinal_: The amount of times I've died to mortars mid combat is annoying
+[2026-08-26 01:42:21] S3ntinal_: The only turret I usually bring on bugs is flame turret but I put it next to me near a choke point since I'm holding off bugs with the creamator
+[2026-08-26 01:44:04] SirGameWatch_PYROSHRIMP: !lurk here spiritually or mentally or idk fancy HEWWO
+[2026-08-26 01:48:08] S3ntinal_: Usually when I fight bugs I sometimes wanna get caught but only when I'm using fire since I can burn em all, I love fire it's fun
+[2026-08-26 01:50:08] S3ntinal_: Fire turret helps me hold my ground in tight corners of the cities, just my way of saying no I'm safe until I'm out of fuel
+[2026-08-26 01:51:25] S3ntinal_: I do like the fire dog but I just like the feel of the cremator it's just been my go to since it came out
+[2026-08-26 01:52:07] S3ntinal_: Creamator*
+[2026-08-26 01:54:37] S3ntinal_: Melee is fun on bugs in my opinion but on a super helldive, at that point you're just saying you want to drag the team down
+[2026-08-26 01:55:49] S3ntinal_: I usually would bring melee and light armor with light pen weapons on difficulty 7 missions and it's usually with friends
+[2026-08-26 01:57:47] S3ntinal_: When I'm in difficulty 8 and higher I'm bringing fire since it's good at clearing groups and keeping enemies at bay since it's my job to burn every last bug
+[2026-08-26 01:58:41] S3ntinal_: Oh yeah that's actually annoying tbh
+[2026-08-26 01:59:04] S3ntinal_: Makes respawning a lot harder since it can cause them to get more buddies
+[2026-08-26 02:02:33] S3ntinal_: Out of curiosity how many ad breaks are there, I don't mind em just hard to know what's happening since I'm using twitch mobile since I don't have a pc and mobile twitch kinda just sucks
+[2026-08-26 02:04:04] S3ntinal_: I've just been getting hit with em like every 10 maybe 15 minutes, but hey it's not the end of the world if I get ads
+[2026-08-26 02:05:01] S3ntinal_: Was that anti personal mines or fire mines?!
+[2026-08-26 02:05:15] S3ntinal_: Oh god why
+[2026-08-26 02:05:41] S3ntinal_: Anti personal is just the ultimate team kill support
+[2026-08-26 02:07:02] S3ntinal_: Have you ever had a bile titans corpse fly at you and pin you to a wall killing you in the process
+[2026-08-26 02:07:35] S3ntinal_: If I saw the loadout you were bringing I would probably just bring fire since it's my favorite thing to use against bugs
+[2026-08-26 02:08:10] S3ntinal_: I wish fire could blow up gas, would make for some really cool moments
+[2026-08-26 02:12:10] S3ntinal_: Mines on a swamp planet is a no go same for turret since both are very ineffective and the mines are gonna fly is weird spots where you won't even notice em when running around the map
+[2026-08-26 02:13:25] S3ntinal_: On defense I can let mortar turrets slide if it's ems and or gas mortars since the normal ones always know me down the wall into a field of enemies
+[2026-08-26 02:13:37] S3ntinal_: 120 as a team killer?!
+[2026-08-26 02:13:46] S3ntinal_: Never had that happen
+[2026-08-26 02:14:24] S3ntinal_: I see the 380 as a team killer more than anything else
+[2026-08-26 02:14:46] S3ntinal_: The 120 is easiest to avoid
+[2026-08-26 02:15:27] S3ntinal_: Only time I'd bring a 380 is for clearing out bot outposts
+[2026-08-26 02:16:31] S3ntinal_: I usually bring napalm for eradicate but parring those two with the gas might actually be really good I'ma use that at some point
+[2026-08-26 02:17:11] S3ntinal_: 3 eagles I usually use 2 sometimes 1 depending on what my loadout
+[2026-08-26 02:18:09] S3ntinal_: Lots of people follow the host without knowing if they're stealth diving
+[2026-08-26 02:22:21] S3ntinal_: Do you think it's dumb that bugs can call in a breach even after losing their heads
+[2026-08-26 02:22:43] S3ntinal_: I don't like using eagle in swamps too many trees
+[2026-08-26 02:24:05] S3ntinal_: Tbh I might try out the loadout you run to see if I can work with it
+[2026-08-26 02:24:20] S3ntinal_: Looks fun
+[2026-08-26 02:25:15] S3ntinal_: I'ma screen shot that since it's late AF and I might head to sleep here in a bit
+[2026-08-26 02:28:38] S3ntinal_: I see gas dog working really well for bug but it does tend to hit me more same with the fire dog
+[2026-08-26 02:29:16] S3ntinal_: They love to hit me a lot dunno why
+[2026-08-26 02:29:22] S3ntinal_: Same with the Rover
+[2026-08-26 02:30:02] S3ntinal_: I don't like the hyena
+[2026-08-26 02:30:14] S3ntinal_: Feels kinda meh in my opinion
+[2026-08-26 02:30:27] S3ntinal_: I love the diligence for bugs it's fun
+[2026-08-26 02:31:19] S3ntinal_: I actually used the diligence with the stalwart using the recon odst armor on bugs for quite a while
+[2026-08-26 02:31:54] S3ntinal_: And with the ammo packs
+[2026-08-26 02:32:34] S3ntinal_: I've been running on my own when using light armor more since I find it easier on my own at times
+[2026-08-26 02:34:17] S3ntinal_: What is the new campaign rewards I haven't hopped on helldivers lately
+[2026-08-26 02:34:48] S3ntinal_: Oh god tf was that
+[2026-08-26 02:35:46] FalterXV: --use-d3d11
+[2026-08-26 02:37:16] S3ntinal_: Yeah I'm a console gamer
+[2026-08-26 02:37:59] S3ntinal_: Damn it cannot handle the game
+[2026-08-26 02:38:50] S3ntinal_: The music as you enter the ship
+[2026-08-26 02:39:01] S3ntinal_: Ah the memories
+[2026-08-26 02:39:33] S3ntinal_: Which noble team death hit you the hardest
+[2026-08-26 02:40:31] S3ntinal_: I'ma lurk and get some rest
+[2026-08-26 02:40:38] FalterXV: !lurk
+[2026-08-26 02:41:16] S3ntinal_: I did see you on my recommendation so thought I would pop in
+[2026-08-26 02:42:35] Halo: The Master Chief Collection
+[2026-08-26 02:45:40] S3ntinal_: Welp I'ma get myself some sleep now since it is currently 1:45 am
+[2026-08-26 02:46:05] S3ntinal_: I'm cst time
+[2026-08-26 02:46:53] S3ntinal_: Oh before I go I was wondering what gave the idea for your model I love the style
+[2026-08-26 02:47:24] S3ntinal_: Ai?!
+[2026-08-26 02:48:14] S3ntinal_: Jesus Christ
+[2026-08-26 02:48:52] S3ntinal_: What TF is with the world we live in
+[2026-08-26 02:49:54] S3ntinal_: Why TF did twitch give me an ai ad
+[2026-08-26 02:50:15] S3ntinal_: Yeah I got an ad for ai anime
+[2026-08-26 02:51:02] S3ntinal_: Sorry to hear about your friend
+[2026-08-26 02:51:41] S3ntinal_: Jesus
+[2026-08-26 02:53:03] S3ntinal_: Wtf
+[2026-08-26 02:53:22] S3ntinal_: Now that's fucked up
+[2026-08-26 02:55:43] S3ntinal_: That's sad sorry to hear bout all that
+[2026-08-26 02:58:40] S3ntinal_: Welp I'ma get some sleep now catch ya round
