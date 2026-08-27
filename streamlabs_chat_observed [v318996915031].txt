@@ -1,0 +1,301 @@
+Streamlabs observed chat log started 2026-08-26 21:09:00
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-26 21:10:16] FalterXV: hello hello
+[2026-08-26 21:10:18] FalterXV: !rules
+[2026-08-26 21:10:21] FalterXV: !guides
+[2026-08-26 21:10:27] FalterXV: !loadout
+[2026-08-26 21:10:29] FalterXV: !commands
+[2026-08-26 21:10:29] FalterXV: 1lurk
+[2026-08-26 21:10:31] FalterXV: !lurk
+[2026-08-26 21:23:53] S3ntinal_: Wassuh
+[2026-08-26 21:23:58] S3ntinal_: How are you doing
+[2026-08-26 21:24:17] S3ntinal_: I'm good
+[2026-08-26 21:26:27] S3ntinal_: Btw the loadout you have is nice
+[2026-08-26 21:44:12] S3ntinal_: What I miss
+[2026-08-26 21:44:28] S3ntinal_: Ah I see fair
+[2026-08-26 22:00:49] S3ntinal_: Acid bugs suck
+[2026-08-26 22:01:21] S3ntinal_: They aren't that bad tbh I can handle em bugs
+[2026-08-26 22:01:46] S3ntinal_: Why a machine turret on a d10
+[2026-08-26 22:35:50] MrTurtleWings: why do you take things so serious bro
+[2026-08-26 22:35:56] MrTurtleWings: especially on difficulty 7 xD
+[2026-08-26 22:36:37] MrTurtleWings: you are projecting so hard hahahahaha
+[2026-08-26 22:36:53] MrTurtleWings: this is so funny
+[2026-08-26 22:36:57] MrTurtleWings: you are so mad
+[2026-08-26 22:37:07] MrTurtleWings: because i wasnt playing at 100% on helldivers
+[2026-08-26 22:37:11] MrTurtleWings: you cried first
+[2026-08-26 22:37:28] MrTurtleWings: hahahahahahahahaah
+[2026-08-26 22:37:31] MrTurtleWings: IM NOT CRYING
+[2026-08-26 22:37:38] MrTurtleWings: i didnt die
+[2026-08-26 22:37:56] MrTurtleWings: i didnt spam at all HAHAHAHAHA
+[2026-08-26 22:38:01] MrTurtleWings: you have psychosis
+[2026-08-26 22:38:19] MrTurtleWings: are you ok
+[2026-08-26 22:38:22] MrTurtleWings: genuinely
+[2026-08-26 22:38:35] MrTurtleWings: whole community
+[2026-08-26 22:39:18] MrTurtleWings: no not at all bud
+[2026-08-26 22:39:36] MrTurtleWings: i joined a helldivers game, you got mad i wasn't roaming? i was confused and died
+[2026-08-26 22:39:44] MrTurtleWings: idc about the level i just quick joined lol
+[2026-08-26 22:40:16] MrTurtleWings: what the fuck are you saying hahahahaha
+[2026-08-26 22:40:24] MrTurtleWings: when did i say i dont have friends???
+[2026-08-26 22:40:32] MrTurtleWings: no i didnt
+[2026-08-26 22:40:46] MrTurtleWings: you wouldnt need randoms to join?
+[2026-08-26 22:40:53] MrTurtleWings: yea because i alt tabbed confused by you
+[2026-08-26 22:41:07] MrTurtleWings: how did i join then
+[2026-08-26 22:41:19] MrTurtleWings: why arent on solo only then?
+[2026-08-26 22:41:35] MrTurtleWings: why would i care that i didnt finish a diff 7 match?
+[2026-08-26 22:41:43] MrTurtleWings: i dont need you to carry me, i died once and you got mad
+[2026-08-26 22:41:54] MrTurtleWings: have you never ever died in this game?
+[2026-08-26 22:42:13] MrTurtleWings: no genuinely, what got you so pressed?
+[2026-08-26 22:42:15] MrTurtleWings: that i died?
+[2026-08-26 22:42:44] MrTurtleWings: "shit tier loadout" sorry i dont know the tier list
+[2026-08-26 22:43:01] MrTurtleWings: im in light armor?????????
+[2026-08-26 22:43:31] MrTurtleWings: what are you yapping about????
+[2026-08-26 22:43:44] MrTurtleWings: what is with this hatred for weed smokers hahahahaha
+[2026-08-26 22:44:07] MrTurtleWings: what is crowding etc? im only level 60 bud
+[2026-08-26 22:44:15] MrTurtleWings: i live alone, i have a job
+[2026-08-26 22:44:21] MrTurtleWings: oh damn, advert
+[2026-08-26 22:44:30] MrTurtleWings: cant listen to your rambling
+[2026-08-26 22:44:30] MrTurtleWings: im so sad
+[2026-08-26 22:44:48] MrTurtleWings: i can see you're still yapping in the corner
+[2026-08-26 22:44:54] MrTurtleWings: i have an ad idk what you're saying
+[2026-08-26 22:45:12] MrTurtleWings: who are you talking to
+[2026-08-26 22:45:16] MrTurtleWings: theres no-one else here
+[2026-08-26 23:06:47] S3ntinal_: I haven't been helldiving lately
+[2026-08-26 23:07:27] S3ntinal_: I did hop helldivers earlier
+[2026-08-26 23:08:07] S3ntinal_: It was fun actually pretty good for getting samples and dealing with groups
+[2026-08-26 23:11:51] S3ntinal_: Bugs
+[2026-08-26 23:12:17] S3ntinal_: I tried lower difficulty first then joined someone on a d10
+[2026-08-26 23:12:33] S3ntinal_: Yeah not bad
+[2026-08-26 23:12:45] S3ntinal_: I say both
+[2026-08-26 23:14:04] S3ntinal_: Idk if it'll be part of my main builds but I can make it work just not used to it just yet
+[2026-08-26 23:27:50] S3ntinal_: I see you were able to get a full squad
+[2026-08-26 23:28:40] S3ntinal_: The amount of times I got killed and kicked from a lobby when I was starting, confused me
+[2026-08-26 23:29:44] S3ntinal_: I usually shoot friends and that's if we're messing around at evac
+[2026-08-26 23:30:40] S3ntinal_: I've had it happen once when the python commandos came out
+[2026-08-26 23:30:57] S3ntinal_: Wait you're trans?
+[2026-08-26 23:31:04] S3ntinal_: I didn't notice
+[2026-08-26 23:31:48] S3ntinal_: Yeah you just don't act how all the trans streamers I've met so that's why I didn't really notice xD
+[2026-08-26 23:32:10] S3ntinal_: Trans rights are human rights
+[2026-08-26 23:33:04] S3ntinal_: As a bisexual man shit is scary when trying to come out
+[2026-08-26 23:35:49] S3ntinal_: Btw if you were wondering where I've been disappearing to here and there I've been hanging out and chatting with my bf, him and I were doing dead by daylight customs having fun
+[2026-08-26 23:37:15] S3ntinal_: I'm not a big fan of it either I don't play it much
+[2026-08-26 23:37:32] S3ntinal_: The double aim at him
+[2026-08-26 23:37:55] S3ntinal_: You didn't have to shoot him there was plenty of time to get in
+[2026-08-26 23:39:30] S3ntinal_: I feel like it's best to warn the team before throwing it at evac
+[2026-08-26 23:40:28] S3ntinal_: I usually do it with friends
+[2026-08-26 23:41:15] S3ntinal_: Doing it with randoms can be annoying if you're not right on evac it can kill ya and if you have samples that's when I see it as a problem
+[2026-08-26 23:42:09] S3ntinal_: Whenever they throw an orb on evac and enter but someone is away from evac it's just annoying since that person doesn't get much xp
+[2026-08-26 23:44:03] S3ntinal_: Definitely should be able to shoot through fences
+[2026-08-26 23:51:38] S3ntinal_: Have you played any of the gears of war games
+[2026-08-26 23:52:04] S3ntinal_: Yes I am
+[2026-08-26 23:52:10] S3ntinal_: Did you play e day beta
+[2026-08-26 23:52:50] S3ntinal_: I got everything I could from e day beta
+[2026-08-26 23:53:03] S3ntinal_: October 6th I'm pretty sure
+[2026-08-26 23:53:40] S3ntinal_: Gears 5 was alright probably the only I've actually played
+[2026-08-26 23:53:57] S3ntinal_: I played I think gears 2 when I was hella young on 360
+[2026-08-26 23:54:42] S3ntinal_: I enjoy using the longshot in e day it's fun af with the gnasher
+[2026-08-26 23:54:54] S3ntinal_: Threatening at range and close quarters
+[2026-08-26 23:55:30] S3ntinal_: Can't forget the halo shotgun that is a beauty as well
+[2026-08-26 23:56:21] S3ntinal_: Reach has to be my favorite since reach was my first halo player and it felt good
+[2026-08-26 23:56:36] S3ntinal_: Played*
+[2026-08-26 23:57:28] S3ntinal_: Halo infinite shotgun was just bad
+[2026-08-26 23:58:06] S3ntinal_: Gears would fit perfectly in helldivers
+[2026-08-26 23:58:44] S3ntinal_: I could see the gnasher maybe mk1 lancer in with the warbond
+[2026-08-26 23:58:56] S3ntinal_: Tbh I'd love it if it was basic cog armor
+[2026-08-26 23:59:04] S3ntinal_: Ooooo
+[2026-08-26 23:59:15] S3ntinal_: The small one from 5
+[2026-08-26 23:59:18] MrTurtleWings: message deleted by a moderator.
+[2026-08-27 00:00:27] S3ntinal_: I don't see the longshot being added as weapon but if it was I'd lose my mind since it would be cool af
+[2026-08-27 00:01:19] S3ntinal_: The closest sniper as a primary is the killzone one
+[2026-08-27 00:01:38] S3ntinal_: Double mini nuke holy
+[2026-08-27 00:02:03] S3ntinal_: It's good for bots ngl
+[2026-08-27 00:02:08] S3ntinal_: I like it
+[2026-08-27 00:03:24] S3ntinal_: Oh did you look at the anime character I mentioned yesterday that your model reminded me of
+[2026-08-27 00:03:32] S3ntinal_: Did you say 3?!
+[2026-08-27 00:03:45] S3ntinal_: 2 is rare enough but 3 holy
+[2026-08-27 00:04:43] S3ntinal_: Tbh if I were to ever join ya on d10's I can see myself just slowing you down ngl xD
+[2026-08-27 00:07:30] S3ntinal_: Thoughts on the portable hellbomb
+[2026-08-27 00:07:55] S3ntinal_: My main goal is to blow up and act like I don't know nobody
+[2026-08-27 00:08:25] S3ntinal_: I bring it usually with 50/50 armor and stay away from my team
+[2026-08-27 00:10:43] S3ntinal_: Really?!
+[2026-08-27 00:12:00] S3ntinal_: I like the portable hellbomb I usually bring it when I see we need to use a hellbomb since it's makes quick work of things like bit jammers
+[2026-08-27 00:12:19] S3ntinal_: Aahhh I hate autocorrect
+[2026-08-27 00:18:01] S3ntinal_: Btw I dunno if you ever saw me ask if you saw the anime character I mentioned your model reminded of since I popped out for a bit I asked
+[2026-08-27 00:18:45] S3ntinal_: Damn birds
+[2026-08-27 00:19:37] S3ntinal_: I find it funny seeing shriekers trying to hurt a walker and dying in the process
+[2026-08-27 00:21:42] S3ntinal_: Y'know now that I know that the bugs see from sound it makes sense to why the randomly attack walls that are in their way since they're trying to break through it
+[2026-08-27 00:25:31] S3ntinal_: Have you heard of or seen the anime hells paradise
+[2026-08-27 00:25:50] S3ntinal_: I loved the second season
+[2026-08-27 00:26:23] S3ntinal_: Gotta wait another couple years for the third season but it'll be worth the wait
+[2026-08-27 00:26:29] S3ntinal_: Tnt is funny
+[2026-08-27 00:26:40] S3ntinal_: You can play hot potato with it
+[2026-08-27 00:27:09] S3ntinal_: I might rewatch it as well lol
+[2026-08-27 00:28:23] S3ntinal_: I love that song I listen to it when I'm in the mood since it's a vibe
+[2026-08-27 00:30:09] S3ntinal_: What's your opinion on the coyote rifle
+[2026-08-27 00:30:15] S3ntinal_: I think it's meh
+[2026-08-27 00:30:49] S3ntinal_: It's a good gun but there are better picks in my opinion
+[2026-08-27 00:32:07] S3ntinal_: What warbond would you say people overhype
+[2026-08-27 00:32:54] S3ntinal_: I genuinely found it annoying when I first joined the game people told me to get the explosive warbond y'know the one with the eruptor
+[2026-08-27 00:33:12] Overkill20010: !rules
+[2026-08-27 00:34:00] Overkill20010: !join
+[2026-08-27 00:34:14] Overkill20010: I do yes
+[2026-08-27 00:34:27] Overkill20010: They match well with my playstyle anyways
+[2026-08-27 00:34:32] S3ntinal_: I got the odst warbond when I first joined since I'm a helljumper, and then I got the portable hellbomb warbond
+[2026-08-27 00:34:40] Overkill20010: I was not
+[2026-08-27 00:34:57] Overkill20010: Redacted regiment D10 commando n such
+[2026-08-27 00:35:24] Overkill20010: I meant commando missions lol
+[2026-08-27 00:35:27] Overkill20010: I do mostly those
+[2026-08-27 00:35:56] S3ntinal_: One time I saw a guy using an eruptor on bug front and the amount of times I got knocked down and killed because of it was so annoying
+[2026-08-27 00:36:14] S3ntinal_: I see it at possibly the worst primary for bugs ngl
+[2026-08-27 00:38:01] S3ntinal_: The eruptor heavily puts you at a disadvantage on bugs since you only have a side arm of whatever support weapon you have for when bugs are in your face
+[2026-08-27 00:39:44] S3ntinal_: When it comes to it people should have to choose what they want when they join not forced to use demo detonation
+[2026-08-27 00:40:55] S3ntinal_: The thermite is a good grenade but I stopped using it and focused on the default heavy grenade since it's really good especially for bot cannons
+[2026-08-27 00:41:36] S3ntinal_: When I first started I was brought in a d7 bugs with some friends and they helped me out a lot
+[2026-08-27 00:43:32] S3ntinal_: Demo detonation is heavily overated since it doesn't thrive against all factions it feels better for bugs
+[2026-08-27 00:43:42] S3ntinal_: Bots
+[2026-08-27 00:43:45] S3ntinal_: Not bugs
+[2026-08-27 00:43:49] S3ntinal_: Typo
+[2026-08-27 00:44:05] S3ntinal_: I was thinking about the bugs and accidentally typed bugs lol
+[2026-08-27 00:44:59] starmonkeh1: yey
+[2026-08-27 00:45:40] Overkill20010: Just got tossed into an ad D:
+[2026-08-27 00:47:46] starmonkeh1: for a second i thought my eyes were decieving me
+[2026-08-27 00:47:50] Overkill20010: 5351-0979
+[2026-08-27 00:47:52] S3ntinal_: I might go and rewatch 86 eighty six ngl
+[2026-08-27 00:47:59] S3ntinal_: !lurk
+[2026-08-27 00:48:43] starmonkeh1: but i now do see you have mods, you are a distinguished person
+[2026-08-27 00:49:07] starmonkeh1: I salute you
+[2026-08-27 00:49:52] starmonkeh1: oh so that was what it was
+[2026-08-27 00:50:34] starmonkeh1: yes it was eye catching
+[2026-08-27 00:50:44] starmonkeh1: your primary still holds a question tho
+[2026-08-27 00:51:14] S3ntinal_: Apparently some people are seeing automation fire from super earth after the void collapsed some are saying we're in a different time line
+[2026-08-27 00:51:29] S3ntinal_: Would be cool lore if it wasn't some bug
+[2026-08-27 00:51:36] starmonkeh1: ohhh!
+[2026-08-27 00:53:20] S3ntinal_: I heard that the squids were supposed to win super earth but idk that's actually true
+[2026-08-27 00:54:03] S3ntinal_: Btw arrowhead has said that the void was temporary collapsed meaning it can return
+[2026-08-27 00:54:25] S3ntinal_: What's your favorite booster to bring
+[2026-08-27 00:56:27] S3ntinal_: Mine is the experimental stims since it increases the speed and length plus you take less damage when stimmed
+[2026-08-27 00:56:55] S3ntinal_: Calypso totally didn't exist before
+[2026-08-27 00:57:32] starmonkeh1: oh god i thought for a split second i would face the wall
+[2026-08-27 00:58:17] starmonkeh1: its okay!!
+[2026-08-27 00:58:35] starmonkeh1: it's what i've come here to see
+[2026-08-27 00:58:44] S3ntinal_: Did you know when the das was brought brought super earth had manually deactivated it's jump systems and when it returned they had gassed the entire ship entire since it was to be believed that it was compromised
+[2026-08-27 00:58:58] starmonkeh1: no
+[2026-08-27 00:59:01] S3ntinal_: Dss*
+[2026-08-27 00:59:09] starmonkeh1: YES
+[2026-08-27 00:59:24] starmonkeh1: i actually do the MO i promise
+[2026-08-27 01:00:00] S3ntinal_: Scary to believe that the dss was possibly compromised
+[2026-08-27 01:00:00] starmonkeh1: bugs are fine, little annoying but fair
+[2026-08-27 01:00:15] starmonkeh1: yes they are the eye caching bunch
+[2026-08-27 01:00:47] S3ntinal_: I find bots annoying at times when I get ragdolled 24/7
+[2026-08-27 01:01:52] starmonkeh1: i never knew they were toxic
+[2026-08-27 01:02:45] starmonkeh1: ah those types, i see
+[2026-08-27 01:06:02] starmonkeh1: i love playing the redacted warbond on the bot front and completing level 7-8 missions. its rewarding sometimes
+[2026-08-27 01:07:07] starmonkeh1: oh yes absolutely
+[2026-08-27 01:12:15] starmonkeh1: placing them c4s is a bit tricky tho. tried to clear out a caravan of factory striders. got merc'd immediately. i have to run to the designated attack area and get the reinforcement . On top of that I have to place the resupply in the most convenient place to refill my c4 pack.
+[2026-08-27 01:13:07] starmonkeh1: oh yeah i usually run that
+[2026-08-27 01:13:16] starmonkeh1: oh gwan check that now
+[2026-08-27 01:14:37] S3ntinal_: What's the point of chaos divers, how can they find it fun to grief other players
+[2026-08-27 01:15:20] S3ntinal_: How can griefer player's find ruining other players games fun at all
+[2026-08-27 01:15:28] starmonkeh1: hollly i just saw the clip, running up to those things is suicide
+[2026-08-27 01:15:52] starmonkeh1: GOAT
+[2026-08-27 01:16:21] S3ntinal_: Nah I just use hellbomb for factory striders since I am the stratagem
+[2026-08-27 01:16:39] S3ntinal_: I find doing that fun
+[2026-08-27 01:17:03] starmonkeh1: WHAT!
+[2026-08-27 01:17:10] starmonkeh1: dont that take longer?
+[2026-08-27 01:17:10] S3ntinal_: 50/50 armor makes it easier to survive too since I have a chance to live or die
+[2026-08-27 01:17:26] starmonkeh1: damn
+[2026-08-27 01:17:34] S3ntinal_: It's medium pen?!
+[2026-08-27 01:18:10] S3ntinal_: I am for the cannon first
+[2026-08-27 01:18:27] S3ntinal_: Since that's a big threat when it comes to distance
+[2026-08-27 01:18:30] starmonkeh1: damn, the more i learn
+[2026-08-27 01:19:03] S3ntinal_: I was wondering what is with the cross on your hat
+[2026-08-27 01:19:32] S3ntinal_: I heard a 500kg can't wait to see that hit a tree and kill someone
+[2026-08-27 01:19:47] starmonkeh1: lmao
+[2026-08-27 01:20:10] S3ntinal_: I don't really use eagle in swamps
+[2026-08-27 01:20:22] starmonkeh1: stalkers, i hate them >:(
+[2026-08-27 01:20:30] S3ntinal_: Too many trees that block their fire
+[2026-08-27 01:20:58] S3ntinal_: What blew up?!
+[2026-08-27 01:21:13] S3ntinal_: That guy had like 5 stalkers on him
+[2026-08-27 01:21:13] starmonkeh1: i usually only use the eagles if its like an open area of the swamp
+[2026-08-27 01:21:29] starmonkeh1: oof rip man
+[2026-08-27 01:21:46] S3ntinal_: I like the python commandos armor it's good for stalker strain since the armor just says no to their ragdoll attacks
+[2026-08-27 01:24:13] starmonkeh1: I feel bad they're like me too. cant run can't hide. they always know where i am
+[2026-08-27 01:24:22] S3ntinal_: Stalkers can't do shit when you use the armor since they can't ragdoll you at all makes it funny when I use the double freedom as well
+[2026-08-27 01:24:51] starmonkeh1: lol
+[2026-08-27 01:25:46] S3ntinal_: I might head off to bed here
+[2026-08-27 01:26:13] S3ntinal_: Yeppers
+[2026-08-27 01:27:19] S3ntinal_: If I catch ya live tomorrow I might join up just depends on the time since my time will be limited
+[2026-08-27 01:28:24] Overkill20010: Got disconnected
+[2026-08-27 01:30:42] S3ntinal_: Did you know if you throw an eagle to close to a bot or squid drop there's a chance it can hit the ship point blank with it's attack run it can actually damage itself and go on cooldown when damaged
+[2026-08-27 01:31:48] S3ntinal_: Hey I'm just that one autistic guy who says shit and doesn't do it like sleeping lol
+[2026-08-27 01:32:00] S3ntinal_: I do like cuddles though
+[2026-08-27 01:32:44] S3ntinal_: I've never actually cuddled with someone which sucks
+[2026-08-27 01:33:07] S3ntinal_: My partner and I are dating via distance so I can't cuddle with em
+[2026-08-27 01:33:27] S3ntinal_: Tis sad times qwq
+[2026-08-27 01:34:27] S3ntinal_: We hang out in like an Xbox party almost everyday when we can and chat
+[2026-08-27 01:37:19] S3ntinal_: Welp goodnight everyone
+[2026-08-27 01:38:36] S3ntinal_: Don't you like it when an invisible bug corpse blocks your path and you get stuck on it and die because of it because I sure do
+[2026-08-27 01:43:05] S3ntinal_: I feel like helldivers causes more drama and negativity between a lot of people more than positivity
+[2026-08-27 01:43:27] S3ntinal_: Now I'ma head off here just got thoughts to say
+[2026-08-27 01:45:14] starmonkeh1: just did a D10 bug mission, oh the lord could not have proven me wrong again
+[2026-08-27 01:45:19] S3ntinal_: Helldivers just doesn't have people who know how to work around people's play styles
+[2026-08-27 01:45:38] S3ntinal_: Not many people check what others run half the time
+[2026-08-27 01:46:39] S3ntinal_: I feel like due to all the weapons you can use you have a wider range to choose from so it's hard to choose what to use
+[2026-08-27 01:48:08] S3ntinal_: I wouldn't say darktide is as bad, I find darktide to be quite easy to work with others it just comes down to if there's like 3 psykers
+[2026-08-27 01:49:05] S3ntinal_: I like veteran a lot they're fun but I like to switch it up so I use the other classes too
+[2026-08-27 01:49:53] S3ntinal_: Psyker is probably my favorite with veteran, I use the fencing sword with the shards on psyker and the void last staff
+[2026-08-27 01:50:09] starmonkeh1: it was not swell. 3 bile titans, 2 impalers, 3 behemoths, 2 chargers, 5 brood commanders with their 3 warriors each, and the SWARM.
+[2026-08-27 01:51:08] starmonkeh1: oh
+[2026-08-27 01:51:21] starmonkeh1: i will look at em
+[2026-08-27 01:51:31] starmonkeh1: i can see that
+[2026-08-27 01:51:45] starmonkeh1: you are quite skilled
+[2026-08-27 01:52:55] starmonkeh1: mhm
+[2026-08-27 01:53:10] S3ntinal_: Tbh I feel like the helldivers community is mainly full of toxic people
+[2026-08-27 01:54:12] starmonkeh1: no you aren't wrong there
+[2026-08-27 01:55:13] S3ntinal_: You're a pretty chill gal
+[2026-08-27 01:56:30] starmonkeh1: alright im going to bed. wish you luck!
+[2026-08-27 01:56:45] starmonkeh1: you too
+[2026-08-27 01:56:45] starmonkeh1: could just be a bug, calypso was wiped off the grid for some reason and arrowhead is still trying to impliment these fixes
+[2026-08-27 01:57:45] starmonkeh1: i feel only good vibes here so i can confidently say i do like you
+[2026-08-27 01:58:18] S3ntinal_: Tbh seeing how you act about certain loadouts people bring like turrets and stuff can give wrong first impression but the more I've been here I realize you're just chill and not as bad as I originally thought I like it here
+[2026-08-27 01:59:52] starmonkeh1: I understand. people like to assume the jewel before finding out it's a diamond
+[2026-08-27 02:01:04] S3ntinal_: I can see why you have a harsh attitude with some people and I understand
+[2026-08-27 02:01:25] S3ntinal_: Especially when bug diving
+[2026-08-27 02:07:29] S3ntinal_: I feel like the harsh attitude is what gave people a wrong impression about you, I googled you to see if you had a yt and saw some talk bout you on reddit from months ago and I can see why the whole community is divided the whole played base it just hell since you have the toxic divers the chaos divers ect
+[2026-08-27 02:08:31] SirGameWatch_PYROSHRIMP: ayyyyy 💕💕
+[2026-08-27 02:09:00] S3ntinal_: I can see why kick and block everyone that doesn't bring what would be best you have major trust issues
+[2026-08-27 02:09:50] SirGameWatch_PYROSHRIMP: ye i think that's how i discovered falterxv drama
+[2026-08-27 02:10:09] SirGameWatch_PYROSHRIMP: then i got a big heart and followed
+[2026-08-27 02:10:09] starmonkeh1: dead space type
+[2026-08-27 02:11:28] S3ntinal_: I feel like more people joined the chaos divers once Xbox joined the fight
+[2026-08-27 02:12:16] S3ntinal_: Oshaune was hell for us helljumpers
+[2026-08-27 02:13:46] Overkill20010: I missed the entire battle of Oshaune
+[2026-08-27 02:15:57] S3ntinal_: Whenever there's a big m.o bug divers are nowhere to be seen
+[2026-08-27 02:16:02] S3ntinal_: Bug*
+[2026-08-27 02:16:21] Overkill20010: No you can see them
+[2026-08-27 02:16:29] Overkill20010: Just not on the M.O planets
+[2026-08-27 02:17:14] S3ntinal_: Omicron not having 10 thousand bug divers on it for once surprising
+[2026-08-27 02:17:28] S3ntinal_: You're hella chill and fun to hang with
+[2026-08-27 02:17:55] S3ntinal_: Phact bay now has 10k people on it once it opened up
+[2026-08-27 02:18:23] S3ntinal_: Once phact bay opened all the omicron players went there
+[2026-08-27 02:19:06] S3ntinal_: I feel like that's what happened since it's always phact bay or omicron
+[2026-08-27 02:19:41] S3ntinal_: Who are you talking with I don't see other messages but mine so I'm confused
+[2026-08-27 02:20:28] S3ntinal_: Ah the game chat
+[2026-08-27 02:20:31] S3ntinal_: TF is this automod on lol
+[2026-08-27 02:20:31] starmonkeh1: hell yeah brother
+[2026-08-27 02:21:20] S3ntinal_: I'ma head off now I just had to get comfortable before heading to sleep
+[2026-08-27 02:21:39] S3ntinal_: Yeah I'm sure now
+[2026-08-27 02:23:45] Overkill20010: I got disconnected AGAIN
+[2026-08-27 02:24:05] Overkill20010: Might be to do with the thunder storm
+[2026-08-27 02:24:21] Overkill20010: It says party is full for whatever reason
+[2026-08-27 02:24:24] Overkill20010: I am yes
+[2026-08-27 02:24:31] Overkill20010: Its not a bad storm
+[2026-08-27 02:25:05] Overkill20010: It is kind of funny how different play styles can be
+[2026-08-27 02:25:15] Overkill20010: Yeah sure
+[2026-08-27 02:40:56] Overkill20010: It is 1:40 AM for me
+[2026-08-27 02:41:59] Overkill20010: The one state in the far west
+[2026-08-27 02:42:49] FalterXV: #ZettaCrash never Falter
