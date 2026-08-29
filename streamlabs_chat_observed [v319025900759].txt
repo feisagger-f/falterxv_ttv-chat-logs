@@ -1,0 +1,17 @@
+Streamlabs observed chat log started 2026-08-29 00:27:45
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-29 00:36:09] FalterXV: !rules
+[2026-08-29 00:36:10] FalterXV: !guides
+[2026-08-29 00:36:11] FalterXV: !lurk
+[2026-08-29 01:02:01] jetstreamx_cr: need another diver?
+[2026-08-29 01:02:22] jetstreamx_cr: just got here
+[2026-08-29 01:02:53] jetstreamx_cr: ust bore
+[2026-08-29 01:03:18] jetstreamx_cr: just bore
+[2026-08-29 01:03:57] jetstreamx_cr: oh shit that movement is crazy
+[2026-08-29 01:05:26] jetstreamx_cr: console or computer?
+[2026-08-29 01:08:25] SirGameWatch: !lurk YAY HEWWO 💕💕💕💕
