@@ -1,0 +1,66 @@
+Streamlabs observed chat log started 2026-08-29 21:01:22
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-29 21:03:41] FalterXV: !rules
+[2026-08-29 21:03:42] FalterXV: !guides
+[2026-08-29 21:03:46] FalterXV: !commands
+[2026-08-29 21:03:50] FalterXV: !loadout
+[2026-08-29 21:03:51] FalterXV: !lurk
+[2026-08-29 21:49:12] chandlerh2011: not a alt
+[2026-08-29 21:49:17] chandlerh2011: message deleted by a moderator.
+[2026-08-29 22:37:13] cpike2525: why do you hate armed resuply pods so much
+[2026-08-29 22:37:19] cpike2525: what have the done to you
+[2026-08-29 22:37:59] cpike2525: i dont use resupplys its funny
+[2026-08-29 22:38:27] cpike2525: message deleted by a moderator.
+[2026-08-29 22:39:21] dutch_taco57: yo bro how’s the game going
+[2026-08-29 22:40:21] dutch_taco57: I mean great until you kicked me because someone brought armed resupply pods puss puss
+[2026-08-29 22:41:02] dutch_taco57: grow up
+[2026-08-29 22:41:08] dutch_taco57: message deleted by a moderator.
+[2026-08-29 23:03:43] Anonymo52: its cool yeah
+[2026-08-29 23:03:57] Anonymo52: im just used to the heavy hitting SHOOT OR DIE music for helldivers lol
+[2026-08-29 23:04:10] Anonymo52: actually works kinda well
+[2026-08-29 23:04:14] Anonymo52: this one
+[2026-08-29 23:06:23] Anonymo52: help?
+[2026-08-29 23:06:40] Anonymo52: oh im just watching for now lol
+[2026-08-29 23:06:56] Anonymo52: i was looking for a helldivers player to watch and the turret interested me ngl
+[2026-08-29 23:06:57] Anonymo52: i do
+[2026-08-29 23:06:59] Anonymo52: lvl 86
+[2026-08-29 23:07:08] Anonymo52: on your shoulder lol
+[2026-08-29 23:07:21] Anonymo52: its there is what im saying. its interesting
+[2026-08-29 23:08:19] Anonymo52: oof...im not a stealth player lol
+[2026-08-29 23:08:32] Anonymo52: i dont team kill but the other things seem fine
+[2026-08-29 23:08:46] Anonymo52: med
+[2026-08-29 23:08:56] Anonymo52: nope
+[2026-08-29 23:09:03] Anonymo52: i try collecting samples lol
+[2026-08-29 23:09:16] Anonymo52: i aggro my own guys
+[2026-08-29 23:09:26] Anonymo52: usually end up alone
+[2026-08-29 23:20:46] sackboyuniverse: yo
+[2026-08-29 23:21:22] sackboyuniverse: how much is luxuriant got liberated
+[2026-08-29 23:21:39] FalterXV: https://hd2galaxy.com/
+[2026-08-30 00:26:54] zutakatome: does that always happen?
+[2026-08-30 00:27:17] zutakatome: people coming in to troll u?
+[2026-08-30 00:29:02] zutakatome: ad..
+[2026-08-30 00:30:00] FalterXV: it happens 10 out of 10 times in squid space
+[2026-08-30 00:30:06] FalterXV: It happens 6 of 10 times in automaton space
+[2026-08-30 00:31:14] zutakatome: Who?
+[2026-08-30 00:31:28] zutakatome: I steamed ow before
+[2026-08-30 00:31:33] zutakatome: streamed*
+[2026-08-30 00:31:42] zutakatome: yeah i stopped
+[2026-08-30 00:32:05] zutakatome: im new to the game
+[2026-08-30 00:32:40] zutakatome: Hell divers
+[2026-08-30 00:32:52] FalterXV: !giudes
+[2026-08-30 00:33:16] zutakatome: okay i will
+[2026-08-30 00:33:39] zutakatome: i heard they are really bad
+[2026-08-30 00:34:04] zutakatome: i saw some yt vids
+[2026-08-30 00:34:25] zutakatome: tier list
+[2026-08-30 00:34:32] zutakatome: vids
+[2026-08-30 00:35:28] zutakatome: watched justaverage445
+[2026-08-30 00:39:16] zutakatome: looked up helldivers 2 on twitch
+[2026-08-30 00:40:12] zutakatome: Ur a vtuber and im very interested in them
+[2026-08-30 00:41:18] zutakatome: nothing i just wanted to ask that one question and watch as i play
+[2026-08-30 01:50:31] samoslife: Hello how are you?
+[2026-08-30 01:50:42] samoslife: Doing great 👍
