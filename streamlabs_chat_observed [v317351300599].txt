@@ -1,0 +1,59 @@
+Streamlabs observed chat log started 2026-08-30 21:04:34
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-30 21:11:41] FalterXV: Be warned of: Single-Witness1853. Another alt of Flip that's been stalking my streams.
+[2026-08-30 21:11:50] FalterXV: !rules
+[2026-08-30 21:11:51] FalterXV: !guides
+[2026-08-30 21:11:54] FalterXV: !lurk
+[2026-08-30 21:11:57] FalterXV: !loadout
+[2026-08-30 22:14:01] Gantue_: !loadout
+[2026-08-30 22:15:17] Gantue_: you should add the statagems
+[2026-08-30 22:15:33] Gantue_: ah gotcha
+[2026-08-30 22:16:08] Gantue_: oop add T-T brb
+[2026-08-30 22:19:47] Gantue_: 3292-2017
+[2026-08-30 22:19:48] Gantue_: tag being friend code?
+[2026-08-30 22:20:08] Gantue_: yup
+[2026-08-30 22:20:32] Gantue_: not recorded but for funies
+[2026-08-30 22:20:45] Gantue_: Xd
+[2026-08-30 22:21:42] Gantue_: o2, light, bots, railgun bacpack been doing the constitution for challenge
+[2026-08-30 22:21:44] Gantue_: pc
+[2026-08-30 22:22:24] Gantue_: 10 always
+[2026-08-30 22:23:16] Gantue_: i havnt, but sure ill give it a watch
+[2026-08-30 22:36:48] Gantue_: are you just using stratagems to close holes?
+[2026-08-30 22:42:35] Gantue_: back
+[2026-08-30 22:42:50] Gantue_: i did
+[2026-08-30 22:43:06] Gantue_: luckly basic stuff
+[2026-08-30 22:43:11] Gantue_: cool cool
+[2026-08-30 22:44:05] Gantue_: are you talking about patrol spawn or detaction range
+[2026-08-30 22:44:47] Gantue_: no, but im wearing the scout armor
+[2026-08-30 22:45:13] Gantue_: the 75m partrols
+[2026-08-30 22:45:33] Gantue_: ah, thats the playstyle you want
+[2026-08-30 22:45:43] Gantue_: understood will do
+[2026-08-30 22:46:51] Gantue_: yes depending on playstlye obvously not here bc we want to kill stuff oursleves
+[2026-08-30 23:14:01] ilovecheesemmmcheese: cheese
+[2026-08-30 23:14:03] ilovecheesemmmcheese: goodbye
+[2026-08-30 23:43:15] MyCatMatilda: Are redditors worth giving the time of day though
+[2026-08-30 23:47:36] MyCatMatilda: !lurk
+[2026-08-31 00:11:22] BasedDiabl0: Lol
+[2026-08-31 00:19:04] gabethemadgamer: hello
+[2026-08-31 00:19:15] buttermilkbiscutlover2: yo
+[2026-08-31 00:19:36] gabethemadgamer: I joined 2 seconds ago
+[2026-08-31 00:19:51] buttermilkbiscutlover2: what are you playing on?
+[2026-08-31 00:20:20] gabethemadgamer: 👀
+[2026-08-31 00:20:28] buttermilkbiscutlover2: no I’m taking a shit right now
+[2026-08-31 00:20:38] gabethemadgamer: very good
+[2026-08-31 00:21:31] gabethemadgamer: I’m not on Hell divers right now
+[2026-08-31 00:45:26] FalterXV: https://steamcommunity.com/id/WordsToBeComprehended
+[2026-08-31 03:12:42] Soull3ssDr1ft3r: hello
+[2026-08-31 03:49:04] LooseCannonJimmih: hello everyone
+[2026-08-31 03:54:12] Gantue_: message deleted by a moderator.
+[2026-08-31 04:01:08] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-08-31 04:18:33] Kiva_Almar: Heyo, Space Cop here. Was fun playing with you
+[2026-08-31 04:19:41] Kiva_Almar: Hell yeah, yer welcome lol
+[2026-08-31 04:20:04] Kiva_Almar: It was
+[2026-08-31 04:20:28] Kiva_Almar: Why would I? Turrets are nice but they aren't needed with a good comp
+[2026-08-31 04:21:03] Kiva_Almar: NP, nini
