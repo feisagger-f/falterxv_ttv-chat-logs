@@ -1,0 +1,44 @@
+Streamlabs observed chat log started 2026-08-31 21:39:57
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-08-31 21:41:11] Kiva_Almar: These ads are making me hungry
+[2026-08-31 21:42:33] FalterXV: lol
+[2026-08-31 21:42:36] FalterXV: hi hi
+[2026-08-31 21:42:38] FalterXV: !rules
+[2026-08-31 21:42:39] FalterXV: !guides
+[2026-08-31 21:42:41] FalterXV: !loadout
+[2026-08-31 21:42:42] FalterXV: !commands
+[2026-08-31 21:42:43] FalterXV: !lurk
+[2026-08-31 21:43:34] space_copx: Woot woot
+[2026-08-31 21:44:21] space_copx: Had to change my name to reflect my HD one lol
+[2026-08-31 21:44:32] FalterXV: all good. I just realized you had
+[2026-08-31 21:45:09] FalterXV: Cyborgs on Zefia looks like. Very exciting
+[2026-08-31 21:45:26] space_copx: So what's the plan? Cuase I'd be honored to dive again with ya lol
+[2026-08-31 21:45:46] FalterXV: Well, if bug space is over then I usually go back home to Automaton space
+[2026-08-31 21:46:01] FalterXV: So, looks like a defense Meissa and a Liberation on Zefia
+[2026-08-31 21:46:15] FalterXV: So, basically Automabutts if no MO for other factions
+[2026-08-31 21:46:38] FalterXV: And you're more than welcome to join again
+[2026-08-31 21:49:23] space_copx: I need coffee before I lock in. Brb
+[2026-08-31 21:52:10] space_copx: Coffee brewing lol
+[2026-08-31 21:52:43] space_copx: 6-7 is my comfy zone but I can sweat on 10s
+[2026-08-31 21:52:47] space_copx: So let's do it
+[2026-08-31 21:53:11] space_copx: Sounds good!
+[2026-08-31 21:54:43] space_copx: Back with coffee!
+[2026-08-31 21:55:10] space_copx: Social tab is being bugged again. You ain't showing as online
+[2026-08-31 21:56:48] space_copx: Ads, bleh
+[2026-08-31 21:56:58] space_copx: Too broke to sub yet
+[2026-08-31 21:57:10] FalterXV: Just remember
+[2026-08-31 21:57:12] FalterXV: no turrets
+[2026-08-31 21:57:42] FalterXV: Just let me know if it's too much I can drop it down if it starts feeling overwhelming
+[2026-08-31 21:57:48] FalterXV: do not hesitate to let me know
+[2026-08-31 22:01:12] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-08-31 22:27:30] FalterXV: hop into lobby I can pull you up
+[2026-08-31 22:28:32] space_copx: I'm on PS5 and Mobile for twitch, sorry for delay
+[2026-08-31 22:30:33] space_copx: Alright, sorry. I'm in the sever
+[2026-08-31 22:30:42] FalterXV: yes I got you roles
+[2026-08-31 22:30:48] FalterXV: just pick any vc I'll drag you into mine
+[2026-08-31 22:31:31] FalterXV: TBA https://instream.ly/AQqw1QumTA
