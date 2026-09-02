@@ -1,0 +1,266 @@
+Streamlabs observed chat log started 2026-09-01 21:27:07
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-01 21:27:55] blazingskully: woa crazy i have arrived lol
+[2026-09-01 21:28:04] FalterXV: hello hello
+[2026-09-01 21:28:06] FalterXV: !rules
+[2026-09-01 21:28:07] FalterXV: !guides
+[2026-09-01 21:28:08] FalterXV: !loadout
+[2026-09-01 21:28:10] FalterXV: !commands
+[2026-09-01 21:28:15] FalterXV: !politediver
+[2026-09-01 21:28:16] FalterXV: !rudediver
+[2026-09-01 21:28:20] FalterXV: !lurk
+[2026-09-01 21:28:42] blazingskully: the diver commands are awesome lol
+[2026-09-01 21:28:52] FalterXV: yeah
+[2026-09-01 21:29:01] FalterXV: originally I made them as a counter
+[2026-09-01 21:29:02] FalterXV: but it didn't work
+[2026-09-01 21:29:09] FalterXV: so...now I just kinda' spam them occassionally lol
+[2026-09-01 21:29:31] FalterXV: Also check it, new sound redeems
+[2026-09-01 21:29:32] blazingskully: lol i mean they are still funny commands
+[2026-09-01 21:29:33] FalterXV: lots of em
+[2026-09-01 21:29:43] FalterXV: there's some in the about and new channel point ones too
+[2026-09-01 21:30:17] blazingskully: i see that but important one is the i'm still standing marine redeem a thing still lol
+[2026-09-01 21:30:54] FalterXV: there's the 3 space marine ones
+[2026-09-01 21:30:54] FalterXV: so yes?
+[2026-09-01 21:31:36] blazingskully: ok cause i like the i'm still standing its a funny one
+[2026-09-01 21:31:48] FalterXV: No U
+[2026-09-01 21:31:49] FalterXV: oh wait
+[2026-09-01 21:31:50] FalterXV: XD
+[2026-09-01 21:31:58] blazingskully: lol
+[2026-09-01 21:32:24] blazingskully: the xenos scum are swarming quick throw a blueberry marine to distract them lol
+[2026-09-01 21:32:30] FalterXV: neways, water
+[2026-09-01 21:32:30] FalterXV: brb
+[2026-09-01 21:36:47] blazingskully: woah youve returned from the spawnpoint lol
+[2026-09-01 21:38:07] blazingskully: i think i've been to phact bay once or twice when we played havent i? either way i'm surprised its liberated now
+[2026-09-01 21:38:54] blazingskully: oo
+[2026-09-01 21:40:10] blazingskully: are the squids a bit easier to fight now in general or are they still a headache sometimes with the centipede and strafe bombers?
+[2026-09-01 21:41:33] blazingskully: ok so its still annoying but less so now
+[2026-09-01 21:42:23] blazingskully: lol so same as usual then
+[2026-09-01 21:42:39] blazingskully: oh no i'm in ad jail
+[2026-09-01 21:42:45] blazingskully: one moment lol
+[2026-09-01 21:45:43] blazingskully: i have broken free lol
+[2026-09-01 21:45:55] blazingskully: also dont think i didnt notice your drop pod
+[2026-09-01 21:46:41] blazingskully: love that the seaf responds to emotes now thats amazing
+[2026-09-01 21:47:28] blazingskully: i almost choked on my soda hearing name of the seaf that is amazing
+[2026-09-01 21:49:25] blazingskully: that is cool
+[2026-09-01 21:50:36] blazingskully: lol the hill said no you will roll down and you will have fun
+[2026-09-01 21:51:53] blazingskully: that is cool yeah it makes it easy to keep track of them
+[2026-09-01 21:52:30] blazingskully: lol only kind of
+[2026-09-01 21:52:48] blazingskully: those cyborgs are beefy
+[2026-09-01 21:53:01] blazingskully: like they took a lot of hits even with headshots
+[2026-09-01 21:53:41] blazingskully: probably not
+[2026-09-01 21:54:24] blazingskully: lol the missile meme is such a funny one
+[2026-09-01 21:54:59] blazingskully: its a gun and its a spear
+[2026-09-01 21:56:52] blazingskully: honestly the name speargun just makes me think of leons gunblade where its just a sword with gun built into it
+[2026-09-01 21:57:52] blazingskully: i mean they can run and try to kick but gun says no
+[2026-09-01 21:59:38] blazingskully: they are pretty big tanks i will admit
+[2026-09-01 22:00:39] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-01 22:02:08] blazingskully: yeah
+[2026-09-01 22:02:41] blazingskully: you know somehow it doesnt surprise me that still happens
+[2026-09-01 22:03:48] blazingskully: bruh why blame others just own up to it
+[2026-09-01 22:05:08] blazingskully: maybe he's defending his nonexistant brain i am a genius i've discovered the code lol
+[2026-09-01 22:05:29] blazingskully: thats a good one
+[2026-09-01 22:06:13] blazingskully: lol i mean i'd laugh on the receiving end of such a joke
+[2026-09-01 22:06:39] blazingskully: ad jail one moment while i pick the locks lol
+[2026-09-01 22:09:45] blazingskully: i have escaped ha ha lol
+[2026-09-01 22:10:38] blazingskully: the way he ran i see what you mean when you described it like the meme
+[2026-09-01 22:11:17] blazingskully: secretly he was a cloaker from payday 2 when he knee'd you in the face
+[2026-09-01 22:12:54] blazingskully: that voice line mademe think of that one meme "I'm gonna defeat you with the power of friendship and this gun i found" lol
+[2026-09-01 22:13:43] blazingskully: who says you havent fallen in love with the seaf before dropping in
+[2026-09-01 22:14:28] blazingskully: i'm gonna go make some hot pockets one moment
+[2026-09-01 22:14:34] blazingskully: !lurk
+[2026-09-01 22:21:19] blazingskully: i have returned with hot pockets
+[2026-09-01 22:21:34] blazingskully: i got philly cheese steak flavor so its the good stuff
+[2026-09-01 22:22:48] blazingskully: and i got a half circle of fudge from that brand devon's mackinac island fudge co. its Smore flavor also one moment ad jail as i got my food lol
+[2026-09-01 22:25:40] blazingskully: i'm back lol
+[2026-09-01 22:26:03] blazingskully: delicious and hot just like the name implies lol
+[2026-09-01 22:27:15] blazingskully: yeah aside from the fudge i also got a special treat just for me which is a half a strawberry rhubarb pie
+[2026-09-01 22:27:46] blazingskully: rhubarb is delicious even on its own
+[2026-09-01 22:28:06] blazingskully: un
+[2026-09-01 22:28:09] blazingskully: fun*
+[2026-09-01 22:29:49] blazingskully: but what if the rockets are fulled with cake what then
+[2026-09-01 22:30:13] blazingskully: hint hint nudge nudge lol
+[2026-09-01 22:30:55] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-01 22:32:16] blazingskully: same thing just different enemies
+[2026-09-01 22:34:34] blazingskully: lol the seaf are now taking the war into their own hands
+[2026-09-01 22:36:08] blazingskully: honestly the halo music kind of fits helldivers lol
+[2026-09-01 22:37:09] blazingskully: bruh rude
+[2026-09-01 22:38:19] blazingskully: triple rude covered in chocolate frosting with a cherry on top
+[2026-09-01 22:38:37] blazingskully: the ad jail again xD
+[2026-09-01 22:39:06] blazingskully: i have returned
+[2026-09-01 22:39:43] blazingskully: but still just rude regardless
+[2026-09-01 22:40:29] blazingskully: i guess its just too much to ask them to be decent
+[2026-09-01 22:41:53] blazingskully: seeing the follow alert made me want to rewatch gurren lagann again its such a good anime
+[2026-09-01 22:42:24] blazingskully: i've seen it a while back but i forgot most of it
+[2026-09-01 22:42:45] blazingskully: like i mainly remember the quotes now
+[2026-09-01 22:45:18] blazingskully: its the same with saint seiya which is why i plan to rewatch it
+[2026-09-01 22:46:00] blazingskully: also the stop stealing my kills eric line was pretty funny
+[2026-09-01 23:18:15] blazingskully: the saint seiya anime was released in 1986 and ended in 1989 if i'm remembering right
+[2026-09-01 23:18:15] blazingskully: do the mechs have a stomp now or are they still somewhat uselss?
+[2026-09-01 23:18:15] blazingskully: bruh
+[2026-09-01 23:18:15] blazingskully: but yeah cause like i know the mechs sorta fall apart when an enemy is in melee range most of the time
+[2026-09-01 23:18:15] blazingskully: its not hard to destroy fabricators either just a well placed shot, stratagem, or nade and your done
+[2026-09-01 23:18:15] blazingskully: like man so hard
+[2026-09-01 23:18:15] blazingskully: it was so scary if only you had a gun oh wait lol
+[2026-09-01 23:18:15] blazingskully: ad jail for 3 mins lol
+[2026-09-01 23:18:15] blazingskully: thats the real scariness imagine encountering a ad break during daily life, taking a walk nope your gonna be suck in a box watching ads now lol back btw
+[2026-09-01 23:18:15] deepdog87: message deleted by a moderator.
+[2026-09-01 23:18:15] blazingskully: maybe next time dont be a troll i know crazy idea
+[2026-09-01 23:18:15] blazingskully: ooo
+[2026-09-01 23:18:15] blazingskully: i finally took a bite of the fudge i'm not sure how i feel about the flavor i barely even taste the graham in it
+[2026-09-01 23:18:15] blazingskully: xD
+[2026-09-01 23:18:15] blazingskully: The missile knows where it is at all times. It knows this because it knows where it isn't, by subtracting where it is, from where it isn't, or where it isn't, from where it is, whichever is greater, it obtains a difference, or deviation.
+[2026-09-01 23:18:15] blazingskully: as soon as i put part of the copypasta ads have jailed me xD
+[2026-09-01 23:18:15] blazingskully: honestly i'm still having fun so it doesnt bother me also i'm back as the tf2 spy would say lol
+[2026-09-01 23:18:17] blazingskully: literally the meme of like the entire room of people facepalming
+[2026-09-01 23:18:17] blazingskully: wow that sounds annoying to deal with
+[2026-09-01 23:18:17] blazingskully: i feel like thats a problem most games cant escape
+[2026-09-01 23:18:17] blazingskully: its not arrowheads problem its their own problem
+[2026-09-01 23:18:17] blazingskully: honestly it doesnt shock me
+[2026-09-01 23:18:17] blazingskully: its sort of the same problem with d2 cause like 90% of titans blame others for their own faults
+[2026-09-01 23:18:17] blazingskully: and yeah it is backwards
+[2026-09-01 23:18:17] blazingskully: are they the same type of people to tk you for wearing a helmet or has that phase sort of died down by now?
+[2026-09-01 23:18:17] blazingskully: god thats just petty
+[2026-09-01 23:18:20] blazingskully: that same witch hunt
+[2026-09-01 23:18:36] blazingskully: ad break one moment
+[2026-09-01 23:21:49] blazingskully: and back
+[2026-09-01 23:22:45] blazingskully: bruh they arent being censored they're breaking the rules thats why they got banned lol
+[2026-09-01 23:23:50] blazingskully: i was gonna say angry yeah
+[2026-09-01 23:24:31] blazingskully: that is just wow
+[2026-09-01 23:26:18] blazingskully: he's not a good individual though like either he's ignoring the guilt or he's just that blind to his own behavior
+[2026-09-01 23:28:17] blazingskully: yeah thats just insane if anything
+[2026-09-01 23:28:25] motofoko90: 100 100
+[2026-09-01 23:28:59] motofoko90: enjoy watch ppl solo
+[2026-09-01 23:29:29] motofoko90: I’m just played this game 1 week hahaha I’m fresh cadet
+[2026-09-01 23:30:02] motofoko90: pretty fun and chaotic hahaha
+[2026-09-01 23:30:27] blazingskully: yeah chaotic and fun is just normal helldiver things
+[2026-09-01 23:31:04] blazingskully: didnt you troll me real good at one point falter with the random hellbomb randomly laying in the map?
+[2026-09-01 23:32:43] blazingskully: technically you do get samples they're just someone elses is all xD
+[2026-09-01 23:34:08] motofoko90: yep , that’s me now . running from bugs with my sample
+[2026-09-01 23:34:38] motofoko90: yea , awalys got swamp
+[2026-09-01 23:35:35] motofoko90: yea , I bought a few warbond . currently using dominator
+[2026-09-01 23:36:00] motofoko90: was using Euraptor before . but I awalys got myself kill hahaha
+[2026-09-01 23:37:21] motofoko90: yes please
+[2026-09-01 23:37:48] motofoko90: nope I haven’t pick that up yet
+[2026-09-01 23:38:28] motofoko90: oh ? I thought that only work on robot enemy
+[2026-09-01 23:39:29] motofoko90: hahah thanks the tips ! gonna grind it out the warbond
+[2026-09-01 23:40:52] motofoko90: I got a question , does clear all outpost reduce the enemy spawn when extracting ?
+[2026-09-01 23:41:04] FalterXV: !guide
+[2026-09-01 23:43:09] motofoko90: oh ! hah no wonder , TONs of bug coming to me when I extract
+[2026-09-01 23:43:12] motofoko90: thanks !!
+[2026-09-01 23:43:52] motofoko90: light armor , I like to run fast
+[2026-09-01 23:45:50] motofoko90: oh that’s why that bastard little bug they call hunter ? awalys lift their ear up when I near
+[2026-09-01 23:46:05] blazingskully: i think i tried using light armor at one point didnt i?
+[2026-09-01 23:46:40] blazingskully: good to know
+[2026-09-01 23:47:23] motofoko90: I gonna try that armor set that make you move quietly after I finish work xD
+[2026-09-01 23:48:14] motofoko90: forgot the name , I remember there’s 1 armour have write this stats
+[2026-09-01 23:49:08] motofoko90: gonna look into it
+[2026-09-01 23:49:27] motofoko90: I got to back to work now . thanks for all those tips !!
+[2026-09-01 23:50:55] blazingskully: he was
+[2026-09-01 23:51:24] blazingskully: lol its still a maybe for now
+[2026-09-01 23:51:52] blazingskully: its not a no
+[2026-09-01 23:52:27] blazingskully: i forgot smoke was a thing
+[2026-09-01 23:54:01] blazingskully: that shield was a little unexpected is that a new thing or has it always been in the game
+[2026-09-01 23:55:54] blazingskully: lol the stop stealing kills line again
+[2026-09-01 23:57:03] blazingskully: it is
+[2026-09-01 23:58:08] blazingskully: h cool
+[2026-09-01 23:58:12] blazingskully: oh*
+[2026-09-01 23:58:47] blazingskully: ah ad break lol
+[2026-09-01 23:59:06] blazingskully: i can still see the stream just smaller box lol
+[2026-09-02 00:01:39] blazingskully: there we go
+[2026-09-02 00:01:49] blazingskully: now i can hear colors lol
+[2026-09-02 00:03:31] blazingskully: the sniping is the important part
+[2026-09-02 00:04:33] blazingskully: to them it probably still does
+[2026-09-02 00:06:03] blazingskully: cringe cannon will summon crangus and we dont want that lol
+[2026-09-02 00:08:15] blazingskully: i always forget how crazy automaton maps get with the amount of explosions happening every two seconds
+[2026-09-02 00:09:29] blazingskully: maybe next time dont be a troll
+[2026-09-02 00:10:37] blazingskully: i did also find out if you have a stratagem loaded up and the super destroyer leaves you can still call it down you just wont be able to use another lol
+[2026-09-02 00:12:28] blazingskully: wow lol
+[2026-09-02 00:12:47] blazingskully: thats just sad xD
+[2026-09-02 00:13:32] blazingskully: and yet they need help when they realize they cant get objectives done on their own
+[2026-09-02 00:14:34] blazingskully: ad jail
+[2026-09-02 00:14:49] blazingskully: i can still see the stream just cant hear is all
+[2026-09-02 00:14:59] FalterXV: These are chaos divers too
+[2026-09-02 00:15:08] FalterXV: they recently tried to make themselves not look like a TK'er group
+[2026-09-02 00:15:14] FalterXV: so they join to have the enemies kill you and then gaslight you
+[2026-09-02 00:15:53] blazingskully: i will say i'm shocked they tried to deny a green stratagem was green
+[2026-09-02 00:16:12] xxgh0st_wolfxx: wtf is a chaos diver
+[2026-09-02 00:17:42] blazingskully: there we go i can hear colors and smell sounds again lol
+[2026-09-02 00:19:02] blazingskully: if they were a medic diver wheres their medic supplies
+[2026-09-02 00:20:13] blazingskully: yea
+[2026-09-02 00:21:22] blazingskully: i was gonna say yeah while they're behind you drawing enemy aggro and subsequently making enemies aggro onto you
+[2026-09-02 00:23:12] blazingskully: and to be honest its just sad that this is what they resort to as if somehow they are doing a good thing when they're not its just making the game less fun for everyone else around them
+[2026-09-02 00:24:01] blazingskully: although i guess i shouldnt be all that surprised since these are greifers we're talking about so its not like much changes about them
+[2026-09-02 00:25:15] blazingskully: right
+[2026-09-02 00:25:56] blazingskully: lol what tier list its just facts
+[2026-09-02 00:27:04] blazingskully: the completeion music is a banger on the result screen
+[2026-09-02 00:28:07] blazingskully: i mean i still remember he tried to throw a fit when space marine 2 came out over one of the memes you made
+[2026-09-02 00:28:56] FalterXV: https://steamcommunity.com/profiles/76561199106205984
+[2026-09-02 00:31:41] blazingskully: i suppose in fairness i barely have room to talk since i havent even broken a hundred hours when i did play but its still funny seeing them whine and complain
+[2026-09-02 00:32:49] blazingskully: i'm also shocked that theres a whole subreddit just for them to cry on
+[2026-09-02 00:35:00] blazingskully: it does suck that there isnt much that can be done about it since more will be made even if one is removed
+[2026-09-02 00:35:46] blazingskully: thats fair
+[2026-09-02 00:36:20] blazingskully: thats just sad making it for harassment
+[2026-09-02 00:37:21] blazingskully: gee i wonder why you blocked them for having two turrets maybe because you dont want your runs sabotaged
+[2026-09-02 00:38:02] blazingskully: geez
+[2026-09-02 00:39:05] blazingskully: "use turrets when defending" defending what your not in a defense mission when you joined the lobby all your defending is your bad choices
+[2026-09-02 00:40:08] blazingskully: oh i just found a way to hear stream during ads lets go
+[2026-09-02 00:40:42] blazingskully: exactly
+[2026-09-02 00:41:43] blazingskully: a drone is a drone it can fly with these futuristic things called propellers a turret is usually stationary and cant move and is heavy lol
+[2026-09-02 00:42:54] blazingskully: seems a bit hypocritical if anything and yep i recognize it lol
+[2026-09-02 00:43:28] blazingskully: so funny keep adding to the evidence flip lol
+[2026-09-02 00:44:19] blazingskully: i just saw one of the comments calling you a fake femboy i'm sorry where is the proof to back that up lol
+[2026-09-02 00:44:41] blazingskully: what does he know
+[2026-09-02 00:45:08] blazingskully: that is some seriously backwards logic
+[2026-09-02 00:46:42] blazingskully: the pro player comment he made is making me laugh cause like if you wanted the greifer dead you will not miss
+[2026-09-02 00:48:11] blazingskully: man is almost like math... makes sense even in games
+[2026-09-02 00:49:25] blazingskully: cause of course they are cheating thats all they know how to do when they realize they cant play the game
+[2026-09-02 00:50:58] blazingskully: yeah just reading all these is just like "being Censored" huh seems to me like its just the consequences of your own actions
+[2026-09-02 00:53:16] blazingskully: i will laugh if arrowhead counters chaosdivers by making a mission to destroy rouge super destroyers of the known chaos divers which leads to them being perma banned
+[2026-09-02 00:54:31] blazingskully: i dont think they know the definition of doxxing
+[2026-09-02 00:55:56] blazingskully: it literally is that argument though just like i dont like the color blue "oh so you hate waffles' where tf did you get that logic from?
+[2026-09-02 00:57:12] blazingskully: its your lobby your rules
+[2026-09-02 00:57:55] blazingskully: the amount of mental gymnastics too that they have to make to defend their actions is so funny
+[2026-09-02 00:58:27] blazingskully: wow
+[2026-09-02 00:58:30] blazingskully: real subtle
+[2026-09-02 01:00:05] blazingskully: it doesnt make sense no
+[2026-09-02 01:01:42] blazingskully: oh no i got kicked from a lobby for being mean to people better blame someone else for my behavior lol
+[2026-09-02 01:02:22] blazingskully: thats just wow
+[2026-09-02 01:03:28] blazingskully: woah 10 likes? man better slow down dont wanna go crazy here lol
+[2026-09-02 01:05:22] blazingskully: the community of you populated by you and your 500 flip alts lol man i guess i must have forgotten what a community is
+[2026-09-02 01:06:08] blazingskully: since when does he speak for the entire gaming community xD
+[2026-09-02 01:07:36] blazingskully: he's basically a walking version of that meme of the guy putting on clown makeup lol
+[2026-09-02 01:09:21] blazingskully: i honestly just cant help but laugh after seeing this deranged insanity that they've constructed
+[2026-09-02 01:11:21] blazingskully: ta da its almost like breaking rules had consequences maybe next time dont be rude to people
+[2026-09-02 01:12:22] blazingskully: i'm not even surprised anymore
+[2026-09-02 01:12:49] blazingskully: i dont think we should
+[2026-09-02 01:14:36] blazingskully: i still stand by my vote
+[2026-09-02 01:15:48] blazingskully: technically the second for me but yea
+[2026-09-02 01:16:52] blazingskully: thats wild
+[2026-09-02 01:17:14] blazingskully: Monster hunter wild one could say Ba dum tss
+[2026-09-02 01:18:24] blazingskully: yeah that is a lot of messages i'll admit
+[2026-09-02 01:19:45] blazingskully: wow real smooth clearly
+[2026-09-02 01:20:51] blazingskully: your not breaking any rules by calling it that
+[2026-09-02 01:22:07] blazingskully: oh boo hoo you got your feefee's hurt because you broke the rules
+[2026-09-02 01:22:56] blazingskully: probably
+[2026-09-02 01:24:20] blazingskully: must be selective blindness to not pay attention to these simple things that are easy to remember
+[2026-09-02 01:25:06] blazingskully: its just funny if anything
+[2026-09-02 01:26:58] FalterXV: https://www.twitch.tv/falterxv/clip/ComfortableCorrectButterWholeWheat-wI-VgEIuR4mCRDdX CreateMyUniverse on an alt caught in 4k! Clipped by FalterXV
+[2026-09-02 01:27:11] FalterXV: https://www.twitch.tv/falterxv/clip/BlightedDifferentHummingbirdPartyTime-iqx0ticY-AqTtEvO Flip's alt thinks Guard Dogs are Jet Packs. And Jet Packs are Guard Dogs! Clipped by FalterXV
+[2026-09-02 01:27:28] FalterXV: https://www.twitch.tv/falterxv/clip/LongPiercingBubbleteaWholeWheat-kHY1RAzW_evZDLDL Xbox griefers: SimpleShip6497 + Fathermuscle#656 - justice dolled out to their griefing selves! Clipped by FalterXV
+[2026-09-02 01:28:07] blazingskully: its a shrimple as that
+[2026-09-02 01:28:11] blazingskully: as*
+[2026-09-02 01:29:28] xxgh0st_wolfxx: message deleted by a moderator.
+[2026-09-02 01:29:57] blazingskully: and thats understandable i'm pretty sure protecting mental sanity is what would win against most arguments
+[2026-09-02 01:31:37] blazingskully: i was gonna say it accomplishes nothing
+[2026-09-02 01:34:15] blazingskully: man its almost like his reliance on bots didnt help him at all
+[2026-09-02 01:36:02] blazingskully: he's not legitimate thats the funny part
+[2026-09-02 01:37:36] blazingskully: man i clearly must hate you because otherwise why else would i be having fun i mean not fun watching your gameplay
+[2026-09-02 01:38:24] blazingskully: lets go
+[2026-09-02 01:39:36] blazingskully: it still makes me laugh when he says your banned from that game yet somehow magically you can still play lol
+[2026-09-02 01:40:05] blazingskully: and like his proof was on a different server entirely
+[2026-09-02 01:40:53] blazingskully: i'm a bit tired but i have enough energy for something easy
