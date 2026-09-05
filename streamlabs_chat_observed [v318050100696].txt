@@ -1,0 +1,20 @@
+Streamlabs observed chat log started 2026-09-04 21:10:44
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-04 21:19:11] blazingskully: !lurk
+[2026-09-04 21:19:17] FalterXV: !rules
+[2026-09-04 21:19:18] FalterXV: !guides
+[2026-09-04 21:19:19] FalterXV: !lurk
+[2026-09-04 21:31:01] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-04 22:00:42] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-04 22:46:37] FalterXV: who melees the meelees
+[2026-09-04 23:25:51] FalterXV: --use-d3d11
+[2026-09-04 23:29:37] blazingskully: https://www.twitch.tv/falterxv/clip/AgileWimpyWeaselPRChase-jbIoG1KBWyVG02jk Thats not a dragon roach Clipped by blazingskully
+[2026-09-05 00:18:51] blazingskully: https://www.twitch.tv/falterxv/clip/JollyLazyOxBrokeBack-GtfdB85Fy4Kn4j_p Hi CMU Clipped by blazingskully
+[2026-09-05 01:03:08] RedditxD: hi
+[2026-09-05 01:08:19] RedditxD: why u kick that person
+[2026-09-05 01:16:55] RedditxD: amazing
