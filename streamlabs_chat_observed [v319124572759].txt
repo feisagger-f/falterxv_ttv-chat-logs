@@ -1,0 +1,186 @@
+Streamlabs observed chat log started 2026-09-05 21:36:41
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-05 21:37:28] blazingskully: ahoy i have arrived
+[2026-09-05 21:38:09] FalterXV: hello
+[2026-09-05 21:38:13] FalterXV: I started a little late
+[2026-09-05 21:38:17] FalterXV: cuz, I lost track of time
+[2026-09-05 21:38:19] FalterXV: lololol
+[2026-09-05 21:38:28] blazingskully: its all good lol
+[2026-09-05 21:38:48] blazingskully: just means you were having fun i dont see anything wrong with that
+[2026-09-05 21:38:52] FalterXV: lol
+[2026-09-05 21:38:53] FalterXV: true
+[2026-09-05 21:38:57] FalterXV: how goes the games today on your end?
+[2026-09-05 21:39:36] blazingskully: so far so good i booted up my randomized palworld world on my other monitor trying to be smart about how i progress
+[2026-09-05 21:39:48] FalterXV: So, speed run gun?
+[2026-09-05 21:40:00] blazingskully: so i'm actually doing research to make certain things easier
+[2026-09-05 21:40:07] FalterXV: XD
+[2026-09-05 21:40:15] blazingskully: xD
+[2026-09-05 21:41:09] blazingskully: aside from that i'm still chatting about the potential of what destiny 3 could bring but i dont know if sony will make d3 since they seem to be doing everything possible to avoid it
+[2026-09-05 21:41:28] FalterXV: more gun?
+[2026-09-05 21:41:58] blazingskully: i was thinking maybe unvault more guns from d1 since we technically have no land back
+[2026-09-05 21:42:10] FalterXV: uhhh
+[2026-09-05 21:42:13] blazingskully: its not primary anymore but we still got it back
+[2026-09-05 21:42:14] FalterXV: they technically have
+[2026-09-05 21:42:36] FalterXV: You do realize there's a lot of D1 guns in D2 right?
+[2026-09-05 21:43:09] FalterXV: Like, a metric fuck load, though some are reskins of D1 guns, and some are stuck in the blue or perma-vaulted (sunset) department from red war
+[2026-09-05 21:43:13] blazingskully: i mean like old stuff thats been basically perma vaulted
+[2026-09-05 21:43:18] FalterXV: some are exotics, like whisper of the worm and last word, or ace of spades
+[2026-09-05 21:43:28] FalterXV: Midas Multi-Tool, etc.
+[2026-09-05 21:43:48] FalterXV: Whisper of the Worm used to be called Black Spindle and it was a legendary instead of an exotic
+[2026-09-05 21:44:15] FalterXV: Albruna-D, (which the original variant was the kinetic one I used way back when) is also from D1
+[2026-09-05 21:44:17] blazingskully: even so i'd love so see some old stuff make a comeback if d3 does happen
+[2026-09-05 21:44:40] FalterXV: I have a D1 cheat sheat since I can view my old D1 DIM from my D1 DIM
+[2026-09-05 21:44:47] FalterXV: D2 DIM ^
+[2026-09-05 21:44:56] FalterXV: Did you know that, btw?
+[2026-09-05 21:45:08] FalterXV: That I can just switch my DIM to my D1 account to check what I was doing in D1 last I played?
+[2026-09-05 21:45:18] blazingskully: i think i saw it once
+[2026-09-05 21:45:40] blazingskully: it was when you told me about the old powergrind for gun perks
+[2026-09-05 21:45:45] FalterXV: What I wish, is there was some way to play D1 on PC as a port of the Xbox One / 360 variant
+[2026-09-05 21:45:52] FalterXV: Cuz I would 100% goon to that
+[2026-09-05 21:47:34] blazingskully: i'd love to see Wrath of the machine added as like either dlc for d2 or the first ever raid for d3 if they decide to start doing more destiny stuff again
+[2026-09-05 21:48:01] blazingskully: kinetic that also does solar sounds like a cool gimmick
+[2026-09-05 21:49:15] blazingskully: i dont think i was there for that my oldest memory i remember was getting the dragons breath rocket launcher than final shape happened
+[2026-09-05 21:50:03] blazingskully: gotta love that nickname
+[2026-09-05 21:51:57] blazingskully: i feel like if they make a d3 they might bring back that mechanic or at least some sort of variation of it
+[2026-09-05 21:54:19] blazingskully: still point being you get the thought process though right?
+[2026-09-05 21:56:03] blazingskully: i mean if we still need the big bad i think the winnower is still up for grabs at this point wouldnt it? cause we still need an ending to shattered cycle
+[2026-09-05 21:58:37] blazingskully: i guess if anything id at least like a story that feels natural even if its fractured the way it is now
+[2026-09-05 22:00:25] blazingskully: yeah roughly
+[2026-09-05 22:01:01] blazingskully: yeah
+[2026-09-05 22:01:15] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-05 22:02:30] blazingskully: lol
+[2026-09-05 22:02:44] blazingskully: still regardless thats whats i've been up to so far
+[2026-09-05 22:04:07] blazingskully: i mean id love if certain parts of the map werent like closed off like how crota's end takes place on the moon but you cant go inside the raid area to just explore
+[2026-09-05 22:04:59] blazingskully: that sounds cool yea
+[2026-09-05 22:05:30] blazingskully: bruh thats so cool
+[2026-09-05 22:06:00] blazingskully: and yet now in d2 we cant solo any raid cause thats like not allowed for whatever reason
+[2026-09-05 22:06:20] blazingskully: yea
+[2026-09-05 22:07:19] blazingskully: sunless cell but yeah cause you told me it used to be the darkblade
+[2026-09-05 22:07:36] blazingskully: the music bopped though when i heard it
+[2026-09-05 22:08:43] blazingskully: kinda yea
+[2026-09-05 22:09:03] blazingskully: i remember farming for the void bow cause i was obsessed with destabilizing rounds
+[2026-09-05 22:10:16] blazingskully: that sounds so much more challenging
+[2026-09-05 22:11:25] blazingskully: so game related has this game given a timeframe of when it takes place or not yet?
+[2026-09-05 22:11:52] blazingskully: oh cool
+[2026-09-05 22:12:31] blazingskully: thats really cool actually
+[2026-09-05 22:12:58] blazingskully: i love when games have a timeframe of when they take place in their respective universe
+[2026-09-05 22:14:01] blazingskully: right
+[2026-09-05 22:15:52] blazingskully: lol the medic droid will be mean because clanker things
+[2026-09-05 22:16:37] blazingskully: this does seem like a pretty cool game so far though
+[2026-09-05 22:17:34] blazingskully: oh
+[2026-09-05 22:18:28] blazingskully: still cool
+[2026-09-05 22:21:06] blazingskully: that was a little spooky since loosing a medic is never good
+[2026-09-05 22:22:59] blazingskully: im assuming its not always good to use the explosive barrels around the map even if an enemy is right next to it or at least i'm assuming thats why that symbol is above the box
+[2026-09-05 22:23:56] blazingskully: ah ok
+[2026-09-05 22:25:34] blazingskully: i will say i'm glad no matter the star wars game the clone wars droid voices never change
+[2026-09-05 22:30:35] blazingskully: i think the super bt's are my favorite droid from the clone wars saga
+[2026-09-05 22:31:27] blazingskully: a stim? stimothy is that him?
+[2026-09-05 22:31:33] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-05 22:32:31] blazingskully: i hope you know that to me they are now stimothy 2.0 lol
+[2026-09-05 22:34:27] blazingskully: man that bt droid must have stolen all the luck in the world to survive that
+[2026-09-05 22:37:16] blazingskully: nice
+[2026-09-05 22:39:05] blazingskully: at least the super bt is dead now
+[2026-09-05 22:40:33] blazingskully: you got this
+[2026-09-05 22:41:49] blazingskully: the buddy pal friend chum? lol
+[2026-09-05 22:42:57] blazingskully: the ship is pretty cool
+[2026-09-05 22:44:24] blazingskully: oh cool so theres more reasons to increase their bond with each other
+[2026-09-05 22:46:19] blazingskully: two is better than one
+[2026-09-05 22:47:39] blazingskully: oh thats fun so they dont have a set look
+[2026-09-05 22:48:22] blazingskully: ohh
+[2026-09-05 22:48:35] blazingskully: that is cool it gives an extra challenge
+[2026-09-05 22:50:30] blazingskully: i mean reducing defense over having something that benefits them being in cover id go with defense lowering too lol
+[2026-09-05 22:52:38] blazingskully: i probably could have worded that better but i meant id keep them lowering my defense as well
+[2026-09-05 22:54:04] blazingskully: quick distract them with pictures of food lol
+[2026-09-05 22:56:03] blazingskully: and a crit as well
+[2026-09-05 22:57:45] blazingskully: i mean as long as they live thats the important part
+[2026-09-05 23:00:53] blazingskully: that resonance effect seems pretty scary
+[2026-09-05 23:02:55] blazingskully: the planets do look pretty cool on the battlefields from what i see at least
+[2026-09-05 23:03:45] blazingskully: niice
+[2026-09-05 23:04:57] blazingskully: imagine recruiting the bad batch clones in a star wars game i feel like that would be amazing
+[2026-09-05 23:09:26] blazingskully: i feel like super bt's are more of a threat in this game though im not sure
+[2026-09-05 23:10:53] blazingskully: lol clearly the support is secretly a sniper
+[2026-09-05 23:12:44] blazingskully: i love calling droids clanker its such a fun word
+[2026-09-05 23:13:16] blazingskully: bruh
+[2026-09-05 23:14:16] blazingskully: i dont know if the star wars universe has lottery machines for pasttimes on planets but maybe that enemy should have spent his time there lol
+[2026-09-05 23:16:40] blazingskully: bruh again
+[2026-09-05 23:17:57] blazingskully: what if you shot the enemy more would that solve the problem lol
+[2026-09-05 23:19:00] blazingskully: you know i also heard that bird like enemies are weak to guns so what if we give them wings would that add the gun weakness to them?
+[2026-09-05 23:21:00] blazingskully: man i knew it
+[2026-09-05 23:21:13] blazingskully: maybe thats why i get excited over coupons lol
+[2026-09-05 23:22:30] blazingskully: what if he doesnt want to stop lol
+[2026-09-05 23:24:30] blazingskully: also because i havent done it yet
+[2026-09-05 23:25:41] blazingskully: always gotta remember to redeem those when i can
+[2026-09-05 23:26:04] blazingskully: i feel like overwatch damage could be really useful
+[2026-09-05 23:26:34] blazingskully: man this game just has a lot of cool stuff the more i watch
+[2026-09-05 23:28:18] blazingskully: that is such a fun name for a planet "Wobani"
+[2026-09-05 23:32:21] blazingskully: i saw electricity and my first thought was blue balls of death from helldivers lol
+[2026-09-05 23:36:20] blazingskully: now thats a lot of damage
+[2026-09-05 23:40:43] blazingskully: this area kind of reminds me of the droid factory on geonosis
+[2026-09-05 23:42:40] blazingskully: that is very scary for reinforcements
+[2026-09-05 23:45:13] blazingskully: the zippy zaps
+[2026-09-05 23:46:03] blazingskully: this is the way
+[2026-09-05 23:47:47] blazingskully: hear me out what if you killed the threat its a pretty alien concept i heard some divers dont know this technique
+[2026-09-05 23:50:08] blazingskully: lol i feel like the medic is just looking at that mandalorian like but why though
+[2026-09-05 23:50:38] blazingskully: and that bt was only 2 days from retirement lol
+[2026-09-05 23:52:56] blazingskully: true
+[2026-09-05 23:53:00] blazingskully: you still won
+[2026-09-05 23:55:33] blazingskully: a lot of these buffs for raising your bond with characters look really useful
+[2026-09-05 23:58:21] blazingskully: isnt bespin where cloud city was? idk if cloud city was a thing even in clone wars
+[2026-09-05 23:58:56] blazingskully: oh thats cool
+[2026-09-05 23:59:16] blazingskully: makes the gun feel more unique
+[2026-09-05 23:59:56] blazingskully: cloud city the planet
+[2026-09-06 00:00:16] blazingskully: and inside the planet is the city of bespin
+[2026-09-06 00:00:25] blazingskully: thats not backwards at all nope
+[2026-09-06 00:01:16] blazingskully: i know but i'm being a meme lol
+[2026-09-06 00:03:36] blazingskully: lol its you i knew it the paradox is happening
+[2026-09-06 00:05:08] blazingskully: what is and hear me out. This is the way
+[2026-09-06 00:05:12] blazingskully: what if*
+[2026-09-06 00:06:00] blazingskully: ooo i'm excited to see
+[2026-09-06 00:07:16] blazingskully: i swear the more i see that follow alert the more i wanna rewatch gurren lagann lol
+[2026-09-06 00:07:54] blazingskully: ok i'll install it later before i head to bed at my usual time that way it'll update while i'm asleep
+[2026-09-06 00:08:35] blazingskully: very foresty and foggy i like it
+[2026-09-06 00:09:03] blazingskully: those look very scary to deal with
+[2026-09-06 00:09:25] blazingskully: bruh that bile titan
+[2026-09-06 00:10:46] blazingskully: man the bitrate is loving that orange acid lol
+[2026-09-06 00:10:57] blazingskully: well the bitrate on my end anyways
+[2026-09-06 00:11:48] blazingskully: idk if its doing it for anyone else but on my end the bitrate does not like that specific bile titan
+[2026-09-06 00:14:24] blazingskully: yeah on my end it didnt but i think its just cause i have palworld and twitch running
+[2026-09-06 00:21:28] blazingskully: bruh so much heat
+[2026-09-06 00:23:29] blazingskully: ok i have fixed the bitrate on my end Wew
+[2026-09-06 00:24:29] blazingskully: i mean either way this strain is pretty scary
+[2026-09-06 00:25:50] blazingskully: bruh that was rude
+[2026-09-06 00:27:37] blazingskully: already on it
+[2026-09-06 00:29:22] blazingskully: https://www.twitch.tv/falterxv/clip/BreakableVibrantAlligatorUncleNox-YDc2Gt7HHzI_zTMJ done Bye Bye Cheater Clipped by blazingskully
+[2026-09-06 00:30:40] blazingskully: cause clearly its such a smart loadout
+[2026-09-06 00:33:25] blazingskully: whats weird is the stalwart when i found that one that was laying in that pod that opens from the salute it feels like it was meant to be a medium or heavy pen weapon
+[2026-09-06 00:35:56] blazingskully: literally
+[2026-09-06 00:36:09] blazingskully: like why even bring turrets there is nothing to defend
+[2026-09-06 00:37:28] blazingskully: lol i almost choked on my soda hearing that
+[2026-09-06 00:39:06] fox_rth: toxicaaaaaa
+[2026-09-06 00:39:12] blazingskully: seriously tho that name you gave the hellbomb backpack and turret user sent me xD
+[2026-09-06 00:40:53] blazingskully: man shriekers better bring a turret clearly
+[2026-09-06 00:43:14] blazingskully: cheater 2 electric boogaloo
+[2026-09-06 00:43:55] blazingskully: want me to clip that other cheater? just checking
+[2026-09-06 00:45:33] fallout19922: dang dude I wish I could play that good. I die so fast lol
+[2026-09-06 00:46:50] fallout19922: how many hours do you have in the game?
+[2026-09-06 00:49:08] fallout19922: lol I wanna know why a grown man has a female anime character 😂 talk about masculinity issues
+[2026-09-06 00:49:51] jib222: >Ｄｉｒｅｃｔ ｏｒｄｅｒ< >Ｅｒａｄｉｃａｔｉｏｎ ｏｆ Ｃａｌｙｐｓｏ< >Ｏｂｊ_１ Ｓｕｃｃｅｓｓ<
+[2026-09-06 00:50:47] blazingskully: want me to include the cheaters name in the title of the clip or just go with the name i have in mind?
+[2026-09-06 00:52:27] blazingskully: https://www.twitch.tv/falterxv/clip/BetterKnottyFoxHeyGuys-BD99LoeigWzVjprZ there you go Cheater 2 Electric Boogaloo (Bye taurock3) Clipped by blazingskully
+[2026-09-06 00:53:31] blazingskully: i feel like i recognize it
+[2026-09-06 00:54:47] blazingskully: man i havent heard breaking benjamin in forever
+[2026-09-06 00:54:58] blazingskully: like i only listened to it in highschool
+[2026-09-06 00:57:19] blazingskully: that is one angry bile titan
+[2026-09-06 01:00:22] blazingskully: i dont blame you lol
+[2026-09-06 01:00:58] blazingskully: and he's dead
+[2026-09-06 01:02:23] blazingskully: its funny watching them act tough too
+[2026-09-06 01:05:18] blazingskully: and yet they seem to think they are ready for it
+[2026-09-06 01:09:32] blazingskully: its your lobby pretty sure he does need to give you an answer
+[2026-09-06 01:13:17] blazingskully: i just noticed the time so i gotta get ready for bed but imma lurk the rest of the stream
+[2026-09-06 01:13:53] blazingskully: !lurk
+[2026-09-06 01:15:39] jj9722: this is satire right
