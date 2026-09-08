@@ -1,0 +1,226 @@
+Streamlabs observed chat log started 2026-09-07 21:27:59
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-07 21:29:01] FalterXV: !rules'
+[2026-09-07 21:29:04] FalterXV: !guides
+[2026-09-07 21:29:06] FalterXV: !lurk
+[2026-09-07 21:29:08] FalterXV: !rules
+[2026-09-07 21:29:10] FalterXV: !politediver
+[2026-09-07 21:29:12] FalterXV: !rudediver
+[2026-09-07 21:29:21] FalterXV: 1lurk
+[2026-09-07 21:32:27] blazingskully: ahoy
+[2026-09-07 21:32:36] FalterXV: hello there
+[2026-09-07 21:33:09] FalterXV: how's the skully-kyun? how goes your session?
+[2026-09-07 21:33:15] FalterXV: oh, no wait, according to Flip the "falter yes man" XD
+[2026-09-07 21:33:44] blazingskully: it goes good we may or may not be on a butchering spree for cleaning the palbox space and getting materials lol
+[2026-09-07 21:33:57] FalterXV: good
+[2026-09-07 21:34:00] FalterXV: but, do you have gun?
+[2026-09-07 21:34:29] blazingskully: I have the marksman revolver and core eject shotgun from ultrakill lol
+[2026-09-07 21:34:40] blazingskully: because coins and explosives
+[2026-09-07 21:34:50] FalterXV: fair fair
+[2026-09-07 21:34:51] FalterXV: oh, question
+[2026-09-07 21:35:01] FalterXV: why do I only have skins for the penguin, wierd pink cat thing, and the chicken?
+[2026-09-07 21:35:07] FalterXV: where my skins for my fox flamenwerfen?
+[2026-09-07 21:35:29] blazingskully: there are other skins but you have to catch the respective pal for it first
+[2026-09-07 21:35:42] FalterXV: but I have my little fox flamenwerfen
+[2026-09-07 21:35:48] FalterXV: I even built my base BY little fox flammenwerfens
+[2026-09-07 21:35:58] blazingskully: i dont think theres a skin for him yet
+[2026-09-07 21:36:04] FalterXV: dangit
+[2026-09-07 21:36:07] FalterXV: unplayable
+[2026-09-07 21:36:08] FalterXV: uninstall
+[2026-09-07 21:36:11] FalterXV: palworld you fail me
+[2026-09-07 21:36:12] FalterXV: XD
+[2026-09-07 21:36:18] blazingskully: idk if or when palworld will add more skins lol
+[2026-09-07 21:36:29] FalterXV: my dissapointment is immeasurable and my palworld is ruined XD
+[2026-09-07 21:36:50] blazingskully: but i did find the subquest for a Depresso outfit so now i can be everyones favorite depressed pal lol
+[2026-09-07 21:36:53] FalterXV: oh, skully
+[2026-09-07 21:36:58] FalterXV: did I tell you there's new sound redeems?
+[2026-09-07 21:37:13] blazingskully: oooo
+[2026-09-07 21:37:18] FalterXV: yes, they'z free
+[2026-09-07 21:37:30] FalterXV: they've been here for a while but since you hadn't used them I wanted to tell you again
+[2026-09-07 21:37:41] FalterXV: if you check the bit redeem area for sound redeems there's some that cost nothing to use
+[2026-09-07 21:38:10] blazingskully: i like the look of these already
+[2026-09-07 21:39:29] blazingskully: i love it
+[2026-09-07 21:39:39] blazingskully: also this is ok
+[2026-09-07 21:39:42] blazingskully: because burrito
+[2026-09-07 21:40:57] blazingskully: i do not hear the alert audio i do not understand why this is
+[2026-09-07 21:41:35] blazingskully: i heard mainly mech gang rise up lol
+[2026-09-07 21:42:20] blazingskully: now that i think about it i dont think i heard the audio
+[2026-09-07 21:42:34] blazingskully: i hear your music and stuff but not the alert audio
+[2026-09-07 21:43:10] blazingskully: ah now i hear the audio
+[2026-09-07 21:43:19] blazingskully: its a bit loud but that did it
+[2026-09-07 21:44:13] blazingskully: just a touch lower and i think it should be good to be heard but not louder than you
+[2026-09-07 21:44:45] blazingskully: yeah it should be good
+[2026-09-07 21:45:36] blazingskully: idk if it'll be too loud for other people but i'm sure we can probably figure it out another time or just later during like a break or something similar
+[2026-09-07 21:46:54] blazingskully: ok
+[2026-09-07 21:47:10] blazingskully: yea
+[2026-09-07 21:47:54] blazingskully: i think as i thought back on it it wasnt audible on stream
+[2026-09-07 21:48:05] blazingskully: so you can hear the helloo there but i couldnt
+[2026-09-07 21:48:29] blazingskully: no i couldnt but i can see the alert at least so i knew it was a follow
+[2026-09-07 21:49:06] blazingskully: i genuinely thought it was just something you set it as and thought it was normal
+[2026-09-07 21:49:11] blazingskully: yeah
+[2026-09-07 21:49:38] blazingskully: bruh rude
+[2026-09-07 21:50:10] blazingskully: i'll make a pin for later so you dont forget
+[2026-09-07 21:51:07] blazingskully: still playing palworld
+[2026-09-07 21:51:26] blazingskully: i just have collab armor and stuff is all
+[2026-09-07 21:51:55] blazingskully: i love the ultrakill shotgun the most because core eject go brrt
+[2026-09-07 21:52:26] blazingskully: bruh
+[2026-09-07 21:52:53] blazingskully: so he's just dumb
+[2026-09-07 21:53:20] blazingskully: cai cai caiaphus caine hero of the imperium
+[2026-09-07 21:54:10] blazingskully: that is just false
+[2026-09-07 21:54:46] blazingskully: wtf lol
+[2026-09-07 21:55:57] blazingskully: remember sleath clearly isnt real
+[2026-09-07 21:57:28] blazingskully: how did he even mess that up?
+[2026-09-07 21:59:34] blazingskully: solid snake would be rolling in his grave seeing this thing he calls a stealth guide
+[2026-09-07 22:00:17] blazingskully: i even saw you literally hang out with a billybob using your stealth skillz
+[2026-09-07 22:00:50] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-07 22:01:58] blazingskully: im pretty sure you can make a better stealth guide thats way more accurate
+[2026-09-07 22:03:21] blazingskully: its almost like they dont know what they are talking about
+[2026-09-07 22:04:32] blazingskully: the fact he started talking about stealth after being spotted in medium armor is already a sign he didnt know anything
+[2026-09-07 22:05:55] blazingskully: i bet you wont get spotted
+[2026-09-07 22:06:23] blazingskully: oh and before i forget
+[2026-09-07 22:07:39] blazingskully: clearly it was just a fluke lol
+[2026-09-07 22:08:38] blazingskully: man its almost like he did no research at all
+[2026-09-07 22:10:07] blazingskully: theres a difference
+[2026-09-07 22:10:45] blazingskully: doesnt seem like it to me
+[2026-09-07 22:11:31] blazingskully: lol the sass is amazing i love it
+[2026-09-07 22:12:19] blazingskully: thats implying that they knew how to read to begin with
+[2026-09-07 22:13:09] blazingskully: such danger much wow
+[2026-09-07 22:14:16] blazingskully: lol
+[2026-09-07 22:15:05] blazingskully: remember stealth isnt real clearly lol
+[2026-09-07 22:16:50] blazingskully: man that was so hard i guess that means i need a turret now lol
+[2026-09-07 22:18:01] blazingskully: wow they look so alerted right now lol
+[2026-09-07 22:18:37] blazingskully: this is just comedic at this point
+[2026-09-07 22:19:17] blazingskully: man he cares so much lol
+[2026-09-07 22:21:42] clifford488: so heated over people just wearing the armor they want to lol
+[2026-09-07 22:21:45] blazingskully: oh man
+[2026-09-07 22:22:45] blazingskully: i dont think your heated either
+[2026-09-07 22:24:25] blazingskully: also about to retry the raid again so i wont be able to respond but i can still hear you
+[2026-09-07 22:36:29] blazingskully: ok we failed the raid but we got really close to beating it
+[2026-09-07 22:36:42] blazingskully: anyways lemme make the clip
+[2026-09-07 22:39:13] blazingskully: its saving right now
+[2026-09-07 22:39:19] blazingskully: https://www.twitch.tv/falterxv/clip/UninterestedShortPigStoneLightning-SofmzdJ-mTubmqsw Man that hearing is so good clearly Clipped by blazingskully
+[2026-09-07 22:41:42] blazingskully: man its almost like his information was wrong
+[2026-09-07 22:43:49] blazingskully: i mean its funny just watching all the information be disproved in seconds lol
+[2026-09-07 22:45:46] blazingskully: pretty darn close
+[2026-09-07 22:47:34] blazingskully: lol just the huh meme basically
+[2026-09-07 22:49:00] blazingskully: and yet even with all these guides they still cant comprehend it
+[2026-09-07 22:50:34] blazingskully: cities + stealth = murder lol
+[2026-09-07 22:52:35] blazingskully: you have stimothy on your side you'll be fine
+[2026-09-07 22:53:42] blazingskully: lol he clearly must have heard you
+[2026-09-07 22:57:49] blazingskully: man so powerful lol
+[2026-09-07 22:58:19] blazingskully: much explosions such wow
+[2026-09-07 23:00:20] blazingskully: it betrayed you because fire
+[2026-09-07 23:02:18] blazingskully: did anyone ever understand them thats the real question
+[2026-09-07 23:03:28] blazingskully: bruh lol
+[2026-09-07 23:04:33] blazingskully: clearly auditory i mean did you see that reaction to the gun noises lol
+[2026-09-07 23:05:16] blazingskully: man
+[2026-09-07 23:06:38] blazingskully: i'm like giggling so much at how easily the misinformation got shattered with this one stream lol
+[2026-09-07 23:08:03] blazingskully: i mean they are probably turret users which would explain the lack of basic information
+[2026-09-07 23:09:08] blazingskully: No way mind blown lol
+[2026-09-07 23:10:29] blazingskully: man that patrol clearly heard you coming
+[2026-09-07 23:11:44] blazingskully: lol you know those billybob's they're trying their best
+[2026-09-07 23:13:34] blazingskully: man he's clearly hearing your gun
+[2026-09-07 23:14:18] blazingskully: lets not forget his reaction do that memey doctor note you made when Space marine 2 launched that was absolutely hilarious
+[2026-09-07 23:17:12] blazingskully: absolutely no way
+[2026-09-07 23:19:34] blazingskully: a gribly gets blown up, must have been something else cause clearly i heard the diver somewhere else
+[2026-09-07 23:21:36] blazingskully: lol this bit is never not gonna be funny
+[2026-09-07 23:22:47] blazingskully: they all absolutely totally saw and heard you
+[2026-09-07 23:25:40] blazingskully: this is just getting funny i can imagine how much they'll cry online later
+[2026-09-07 23:27:48] blazingskully: man that grenade so scary
+[2026-09-07 23:29:16] blazingskully: er ma gerd
+[2026-09-07 23:29:27] blazingskully: stealth is real? i had no idea lol
+[2026-09-07 23:30:09] blazingskully: nice clear btw
+[2026-09-07 23:30:55] blazingskully: man that one whole melee kill? absolutely insane
+[2026-09-07 23:32:09] blazingskully: man it must be common clearly lol
+[2026-09-07 23:33:06] FalterXV: 2:05:27
+[2026-09-07 23:33:30] blazingskully: it do look pretty good
+[2026-09-07 23:33:58] blazingskully: theyre the same picture lol
+[2026-09-07 23:34:52] blazingskully: they do all look pretty amazing
+[2026-09-07 23:35:39] blazingskully: yes i am
+[2026-09-07 23:36:32] blazingskully: i have but they got their own likes and dislikes
+[2026-09-07 23:36:57] blazingskully: i dont see a problem with this bit
+[2026-09-07 23:37:50] blazingskully: lol the civvies are clearly such danger
+[2026-09-07 23:39:34] blazingskully: man super casual
+[2026-09-07 23:40:07] blazingskully: man so hard
+[2026-09-07 23:40:31] blazingskully: all these enemies that are totally there its so hard i better bring a flame turret
+[2026-09-07 23:42:20] blazingskully: blame stimothy's mortal enemy flip
+[2026-09-07 23:43:09] blazingskully: in what way is it weird for me killing bile titans with my mech is fun
+[2026-09-07 23:44:01] blazingskully: lol zippy zapper stun them all
+[2026-09-07 23:44:46] blazingskully: lol its ok that one that got you didnt count, it was an offseason
+[2026-09-07 23:47:53] blazingskully: all the seaf deserve hugs
+[2026-09-07 23:48:37] blazingskully: https://www.twitch.tv/falterxv/clip/KawaiiPeacefulReindeerKappaPride-UKRy2P_ASqCxL7eW Is there a Falter? No? Must have been the Wind Clipped by blazingskully
+[2026-09-07 23:50:19] blazingskully: man top ten saddest anime deaths of all time
+[2026-09-07 23:51:29] blazingskully: so much danger all i see is red lol
+[2026-09-07 23:51:29] clifford488: message deleted by a moderator.
+[2026-09-07 23:52:02] blazingskully: clearly so angry
+[2026-09-07 23:52:22] blazingskully: crazy idea how to use medium and heavy armor
+[2026-09-07 23:52:27] blazingskully: use stealth armor
+[2026-09-07 23:55:30] blazingskully: literally tho
+[2026-09-07 23:57:24] blazingskully: bang bang bang
+[2026-09-07 23:58:40] blazingskully: you know what i have to say seeing this stealth gameplay?
+[2026-09-08 00:00:31] blazingskully: its a very important message for stealth
+[2026-09-08 00:01:17] blazingskully: https://www.twitch.tv/falterxv/clip/UninterestedShortPigStoneLightning-SofmzdJ-mTubmqsw
+[2026-09-08 00:02:36] blazingskully: i heard that cover is actually pretty good
+[2026-09-08 00:03:10] blazingskully: man my mind is blown
+[2026-09-08 00:03:51] blazingskully: clearly arrowheads fault and not their own lol
+[2026-09-08 00:04:41] blazingskully: man all those heavies i bet they could hear you thats why they were just standing there
+[2026-09-08 00:05:34] blazingskully: its so hard not to laugh at that bit i'm so glad its become a thing
+[2026-09-08 00:06:27] blazingskully: i did notice
+[2026-09-08 00:07:00] blazingskully: i saw
+[2026-09-08 00:07:25] blazingskully: it was like so crazy seeing stimothy just appear
+[2026-09-08 00:08:34] blazingskully: the ultimate evil clearly, socialists
+[2026-09-08 00:09:17] blazingskully: man you sat there and all those enemies clearly heard you
+[2026-09-08 00:09:30] blazingskully: they could clearly tell you were sitting menacingly
+[2026-09-08 00:11:50] blazingskully: a second stimothy? oh man i dont think the timeline can handle such power lol
+[2026-09-08 00:13:28] blazingskully: man all those enemies must have heard you coming up the stairs
+[2026-09-08 00:15:26] blazingskully: they all get hugs for a job well done clearly
+[2026-09-08 00:16:06] blazingskully: id clip but i got ads as the hugs started lol
+[2026-09-08 00:16:23] killerfell2525: You are amazing and I am proud of you
+[2026-09-08 00:17:00] killerfell2525: Just doing my job by spreading love and also being a father figure to many people if needed
+[2026-09-08 00:17:45] killerfell2525: I don't but if I had money I would but for now just doing my job
+[2026-09-08 00:18:35] blazingskully: the enemy will feel the wrath of liberty but we get delicious cups of sweet tasting Liber-Tea
+[2026-09-08 00:19:53] blazingskully: i need a snack so imma grab the rest of my fudge cause smores flavored fudge
+[2026-09-08 00:22:05] blazingskully: i have aquired fudge
+[2026-09-08 00:22:33] blazingskully: its from that company devon's Mackinac island fudge
+[2026-09-08 00:23:05] blazingskully: its smores flavor but my all time favorite is death by chocolate which is like 3 different kinds of chocolate in one
+[2026-09-08 00:23:24] blazingskully: its like a half circle of fudge
+[2026-09-08 00:23:47] blazingskully: just fancy fudge basically
+[2026-09-08 00:24:05] blazingskully: i dont know how to explain it but i'll send a pic yea
+[2026-09-08 00:26:05] blazingskully: just sent the pic
+[2026-09-08 00:28:05] blazingskully: but will it stand a chance against snipper sniper thats the important question
+[2026-09-08 00:29:49] blazingskully: man those convoy's are not happy lol
+[2026-09-08 00:31:43] blazingskully: lol the whatchu gonna do now strider and then it proceeds to drop in some ads
+[2026-09-08 00:32:47] blazingskully: it still died so it wasnt a total loss
+[2026-09-08 00:35:10] blazingskully: man they clearly heard you thats why they were facing away
+[2026-09-08 00:36:16] blazingskully: it really is quiet lol
+[2026-09-08 00:37:02] blazingskully: it is cool i agree
+[2026-09-08 00:39:11] blazingskully: i only took one bite of the fudge cause i do not want too much sugar in my system, been working towards cutting back on sweets
+[2026-09-08 00:40:32] blazingskully: man that walker he clearly hears where you are and didnt visually confirm your location
+[2026-09-08 00:42:37] TheGamingKr1eger: When something hears but doesn’t get aggressive is the suspicion status that travels between units. only cure is to shoot it first. and stuff checks last seen positions.
+[2026-09-08 00:42:39] blazingskully: it is great because arc go brrt what more is there to love?
+[2026-09-08 00:48:06] blazingskully: i am also surprised since that was a pretty big ragdoll
+[2026-09-08 00:49:45] blazingskully: man they clearly look like they're investigating
+[2026-09-08 00:51:49] blazingskully: man eyeballs allow you too see? i thought they allowed me to hear
+[2026-09-08 00:54:22] blazingskully: i thought my nose was what let me taste colors and my eyes can hear smell
+[2026-09-08 00:56:10] blazingskully: maybe he didnt hear you enough lol
+[2026-09-08 00:57:19] blazingskully: probably
+[2026-09-08 00:59:41] blazingskully: just free potshots basically
+[2026-09-08 01:01:35] blazingskully: literally though
+[2026-09-08 01:02:47] blazingskully: it wouldnt surprise me
+[2026-09-08 01:05:25] blazingskully: ah right thanks
+[2026-09-08 01:05:34] blazingskully: let me finish the clip
+[2026-09-08 01:06:01] blazingskully: https://www.twitch.tv/falterxv/clip/SneakyCreativeCroquettePartyTime-4Cpnf0sGibHmhmPZ why arent they coming to investigate after hearing the weapon? (TheGamingKr1eger) Clipped by blazingskully
+[2026-09-08 01:07:53] blazingskully: what sense does that even make
+[2026-09-08 01:09:39] blazingskully: i mean solo flawless from a fat armor? i think your asking for them to build you a rocket lol
+[2026-09-08 01:10:52] blazingskully: https://www.twitch.tv/falterxv/clip/KawaiiPeacefulReindeerKappaPride-UKRy2P_ASqCxL7eW
+[2026-09-08 01:10:57] blazingskully: bruh thats even dumber why would you base an argument off a doc lol
+[2026-09-08 01:12:01] blazingskully: i think they need to do the super tutorial again
+[2026-09-08 01:13:15] blazingskully: and you were at a difficulty higher than 5 as well which you know is where they tested
+[2026-09-08 01:15:59] blazingskully: a grenade launcher quiet? man i've seen everything now i guess its time to ascend
+[2026-09-08 01:18:00] blazingskully: like i have no words to react other than just bruh
+[2026-09-08 01:19:47] blazingskully: i think and this is just a crazy idea maybe they need to start over completely from the tutorial
