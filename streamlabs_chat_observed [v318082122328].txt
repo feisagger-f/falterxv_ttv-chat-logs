@@ -1,0 +1,24 @@
+Streamlabs observed chat log started 2026-09-08 21:32:33
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-08 21:33:12] blazingskully: hello dere
+[2026-09-08 21:33:53] FalterXV: hello had to get music before bathroom
+[2026-09-08 21:34:26] blazingskully: this is fair
+[2026-09-08 21:39:00] FalterXV: ok back
+[2026-09-08 21:39:29] blazingskully: welcome back
+[2026-09-08 21:39:43] FalterXV: Thank you thank you!
+[2026-09-08 21:40:13] FalterXV: ODST music for Automabutts never fails
+[2026-09-08 21:40:26] blazingskully: this is true
+[2026-09-08 21:45:08] blazingskully: !lurk
+[2026-09-08 22:00:46] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-08 22:31:11] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-08 22:48:01] austincoleman: Hello, my fiend and I were in your lobby. why did you kill him and kick him?
+[2026-09-08 22:48:23] austincoleman: cause we can?
+[2026-09-08 22:48:41] austincoleman: how? lol
+[2026-09-08 23:13:09] zack200god: the screen is black @falterxv
+[2026-09-08 23:14:49] zack200god: yea i already refreshed it 3 times
+[2026-09-08 23:19:40] FalterXV: Restarting stream it's an OBS setting
