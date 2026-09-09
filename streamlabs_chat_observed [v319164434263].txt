@@ -1,0 +1,18 @@
+Streamlabs observed chat log started 2026-09-09 01:59:21
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-09 02:15:22] SirGameWatch: AWAWAAAAA
+[2026-09-09 02:44:33] blazingskully: Billybobs with jetpack 10/10 spook
+[2026-09-09 02:47:43] blazingskully: Lol
+[2026-09-09 02:51:45] blazingskully: Dropping the diver divers make sure they are not Popsicles when landing lol
+[2026-09-09 02:51:56] FalterXV: !rules
+[2026-09-09 02:51:57] FalterXV: !guides
+[2026-09-09 02:51:58] FalterXV: !lurk
+[2026-09-09 03:15:58] raatuki: Yooo what are those voice lines?
+[2026-09-09 03:16:30] FalterXV: https://www.nexusmods.com/helldivers2/mods/9279
+[2026-09-09 03:16:37] raatuki: Nice thankyy
+[2026-09-09 03:37:43] blazingskully: Man i knew cloning was becoming a problem
