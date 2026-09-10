@@ -1,0 +1,316 @@
+Streamlabs observed chat log started 2026-09-09 20:22:33
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-09 20:23:13] FalterXV: !rules
+[2026-09-09 20:23:13] FalterXV: !guides
+[2026-09-09 20:23:18] FalterXV: !politediver
+[2026-09-09 20:23:19] FalterXV: !rudediver
+[2026-09-09 20:24:29] WhitePhantom117: !rules
+[2026-09-09 20:24:55] WhitePhantom117: !join
+[2026-09-09 20:26:02] FalterXV: lol no
+[2026-09-09 20:28:08] blazingskully: ahoy i have appeared while waiting for my oven to pre heat
+[2026-09-09 20:28:19] FalterXV: Skully look
+[2026-09-09 20:28:51] blazingskully: i see lol
+[2026-09-09 20:29:21] WhitePhantom117: If I'm not allowed, that's fine I guess.
+[2026-09-09 20:32:08] blazingskully: lowkey vibin to the music as well
+[2026-09-09 20:32:47] FalterXV: look Skully
+[2026-09-09 20:32:52] FalterXV: he's a gaslighting reddiior chud
+[2026-09-09 20:33:13] FalterXV: ooh look at the racial slurs from another 4 chin eat a salad redditr who was impersonating and doxxing me
+[2026-09-09 20:33:25] blazingskully: i cant help but smile at chud cause its such a fun word but yeah i see lol
+[2026-09-09 20:33:45] FalterXV: please eat a salad, chud
+[2026-09-09 20:34:06] FalterXV: imagine using reddit and spreading lies and misinformation to then attack a streamer and acting all boo hoo DARVO me, Falter won't let me in her lobby
+[2026-09-09 20:34:09] FalterXV: yeah, guess what sport?
+[2026-09-09 20:34:31] FalterXV: I don't allow people into my lobbies who aren't followers of my channel and selecting my lobby to grief or impersonate me will get you kicked
+[2026-09-09 20:34:39] FalterXV: but, hey, eat a salad redditor
+[2026-09-09 20:34:55] FalterXV: why not go break the helldiver subredit rules more and cry about how I wouldn't let you come into my lobby to grief me?
+[2026-09-09 20:35:05] FalterXV: me, who does solo D10s and doesn't even fucking need teammates
+[2026-09-09 20:35:09] FalterXV: what a piece of human garbage
+[2026-09-09 20:36:03] HummusLuver69: are you talking to yourself….
+[2026-09-09 20:36:08] FalterXV: HA HA HA HA
+[2026-09-09 20:36:17] blazingskully: Wow that was fast lol
+[2026-09-09 20:36:23] FalterXV: @blazingskully come look at this slug
+[2026-09-09 20:36:31] blazingskully: I think that's a new record
+[2026-09-09 20:36:47] FalterXV: Told you their alts would be out in force
+[2026-09-09 20:36:55] FalterXV: This isn't the first time Flip's done an impersonation post like this
+[2026-09-09 20:37:06] FalterXV: for the past 4 months he's been doing exactly this to attack me and then cry when he gets in trouble
+[2026-09-09 20:37:10] FalterXV: all to cover up him attacking me in the first place
+[2026-09-09 20:37:23] HummusLuver69: I’m so confused
+[2026-09-09 20:37:29] blazingskully: Man it's almost like actions have consequences
+[2026-09-09 20:37:37] FalterXV: told you the eat a salad phat fuqs on reddit who are self outing themsselves as fedora eat a salad types are going to harass me
+[2026-09-09 20:37:49] FalterXV: not even playing and they're crying like basement dwellers
+[2026-09-09 20:38:04] FalterXV: to be fair that hummus lover name is so apt for them
+[2026-09-09 20:38:12] FalterXV: how many chins you got mr. hummus? 22?
+[2026-09-09 20:38:32] blazingskully: I honestly haven't even eaten hummus lowkey so no idea what it tastes like
+[2026-09-09 20:39:07] blazingskully: But still the fact the alt showed up that fast was hilarious
+[2026-09-09 20:39:30] FalterXV: it's a gross disgusting paste you smear on bread and lamb for greek dishes and 3rd world unibomber people
+[2026-09-09 20:39:48] FalterXV: so anyone who likes hummus is either greek or someone who would use a hellbomb backpack in a crowd of civilians
+[2026-09-09 20:41:00] FalterXV: That first one followed before I started
+[2026-09-09 20:41:05] blazingskully: Bruh
+[2026-09-09 20:41:15] FalterXV: there was an alt account on that thread trying to tell people when I started my streams in UTC time
+[2026-09-09 20:41:24] FalterXV: I'm not joking, someone I banned the moment I saw it then he followed within seconds
+[2026-09-09 20:41:30] FalterXV: So I already knew it was an alt in the first place
+[2026-09-09 20:42:09] FalterXV: funniest bit about their impersonation btw
+[2026-09-09 20:42:16] FalterXV: they claim I was on marfark when I wasn't evne onlien this morning
+[2026-09-09 20:42:21] FalterXV: I've been on mintoria
+[2026-09-09 20:42:23] blazingskully: Why am I not surprised at the ban evasion at this point I'm just expecting it to happen
+[2026-09-09 20:42:36] FalterXV: so, either Flip was taking a wild guess about last night with you or my homeplanet
+[2026-09-09 20:42:48] FalterXV: or they forgot that logging into the game will tell everyone where I left off and what difficulty I was on
+[2026-09-09 20:42:54] FalterXV: you know D10 not D7
+[2026-09-09 20:43:00] blazingskully: Yea
+[2026-09-09 20:43:06] FalterXV: I play D8s or D9s if I go easy on myself
+[2026-09-09 20:43:10] FalterXV: or D6s if I speed run
+[2026-09-09 20:43:17] FalterXV: I never play D7s solo or with open lobbies, only with friends
+[2026-09-09 20:43:59] FalterXV: I already sent a mod mail to AH's mod team too
+[2026-09-09 20:44:03] FalterXV: about every single comment and post made
+[2026-09-09 20:44:07] zarrstrogg: genuinely mentally ill streamer.
+[2026-09-09 20:44:10] FalterXV: so, anytime they make a comment here, screenshot it for me
+[2026-09-09 20:44:29] FalterXV: and I'll send it to the mod team too alongside make sure you send a report to trust and safety for every single one that shows up on an empty alt account too
+[2026-09-09 20:44:34] blazingskully: All righty
+[2026-09-09 20:44:40] FalterXV: Like that one right there
+[2026-09-09 20:44:44] FalterXV: empty account made in 2018
+[2026-09-09 20:44:59] FalterXV: spewing ableist hate either too st00pid to know impersonation on a post where my name was "censored"
+[2026-09-09 20:45:05] FalterXV: or, just an alt in general
+[2026-09-09 20:45:25] FalterXV: better to be safe than sorry, so just send a 1 to twitch about account ban evasion, and 2 for coordinated harassment
+[2026-09-09 20:46:10] FalterXV: you know what's funnier too, SKully? I'm in call with my mom while I'm typing this, that's teh reason for long delay, kek
+[2026-09-09 20:46:15] FalterXV: Something none of them have
+[2026-09-09 20:46:37] FalterXV: (you know, cuz they're 4 chin lagpocalypse fedora wearing motherless redditors who need a forklft to get out of bed.)
+[2026-09-09 20:46:39] blazingskully: Lol that is funny
+[2026-09-09 20:47:52] FalterXV: want me to give you mod perms?
+[2026-09-09 20:48:19] blazingskully: just got my pizza
+[2026-09-09 20:49:07] blazingskully: i can manage the ss
+[2026-09-09 20:50:48] blazingskully: you can but you know i wont be able to tell alt from non alt as well as you so i might double check your opinion on the matter
+[2026-09-09 20:51:44] blazingskully: but you play d10s when not playing with friends though
+[2026-09-09 20:52:07] blazingskully: really st00pid? lets see it
+[2026-09-09 20:52:52] blazingskully: Yes lol
+[2026-09-09 20:53:00] FalterXV: dedardation
+[2026-09-09 20:53:26] blazingskully: dedardation
+[2026-09-09 20:54:16] blazingskully: i still love how they dont understand stealth lol
+[2026-09-09 20:54:40] blazingskully: lol
+[2026-09-09 20:54:53] blazingskully: your not wrong
+[2026-09-09 20:55:29] blazingskully: hmmmm personally i say dedardation
+[2026-09-09 20:55:54] blazingskully: probably are
+[2026-09-09 20:56:19] blazingskully: hmmm 2 lol
+[2026-09-09 20:57:32] blazingskully: man i guess the your lobby your rules only applies when it benefits them
+[2026-09-09 20:58:37] blazingskully: dedardation lol
+[2026-09-09 20:59:41] blazingskully: hmmm all of the above lol
+[2026-09-09 21:00:58] blazingskully: woah mind blown i would have never guessed a loadout like that is acceptable lol
+[2026-09-09 21:01:09] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-09 21:02:23] blazingskully: sounds like common sense to me
+[2026-09-09 21:03:49] blazingskully: i think its b final answer
+[2026-09-09 21:04:04] blazingskully: did i win who wants to be a millionare? lol
+[2026-09-09 21:05:01] blazingskully: man this is a hard bonus round but i think the correct answer is d all of the above lol
+[2026-09-09 21:06:41] blazingskully: i think so yea
+[2026-09-09 21:07:26] blazingskully: it makes zero sense to me as well
+[2026-09-09 21:08:01] blazingskully: man this is a hard one but i think and hear me out its dedardation
+[2026-09-09 21:09:10] blazingskully: which is like why its a reasonable request to make
+[2026-09-09 21:09:46] WhitePhantom117: message deleted by a moderator.
+[2026-09-09 21:09:57] blazingskully: yeah i see the irony and its hilarious
+[2026-09-09 21:10:09] Demoniccryx: you sound like a dh
+[2026-09-09 21:10:45] blazingskully: i bet they are
+[2026-09-09 21:10:45] FalterXV: following for 1 hour before I started stream does not showing me you came from impersonating me on reddit make
+[2026-09-09 21:11:20] blazingskully: it makes no sense
+[2026-09-09 21:11:44] blazingskully: they got so far and tried so hard lol
+[2026-09-09 21:12:56] blazingskully: i hate turret users cause like ive been shot in the back by a turret before when i played before
+[2026-09-09 21:15:09] blazingskully: man who could have ever seen this coming lol
+[2026-09-09 21:16:36] stubbornviking: message deleted by a moderator.
+[2026-09-09 21:16:39] blazingskully: its funny watching them struggle to make new arguments that arent even real
+[2026-09-09 21:17:28] blazingskully: indeed
+[2026-09-09 21:19:36] blazingskully: honestly fair
+[2026-09-09 21:21:09] FalterXV: the fact you think I don't know which reddit account you are is ihlarious to me. The fact you openly admit you use reddit tells me all I need to know
+[2026-09-09 21:22:20] blazingskully: i dont get it either
+[2026-09-09 21:23:15] blazingskully: man i guess light armor isnt real either
+[2026-09-09 21:24:57] blazingskully: man sttealth is just clearly not real
+[2026-09-09 21:25:35] HummusLuver69: message deleted by a moderator.
+[2026-09-09 21:26:19] blazingskully: dont forget bots cant visually confirm but totally hear you across the map
+[2026-09-09 21:28:51] blazingskully: man he said so so clearly its the truth cause they claim to be the entire hd2 community after all right? lol
+[2026-09-09 21:30:17] blazingskully: man mind has been blown
+[2026-09-09 21:30:36] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-09 21:31:29] blazingskully: i mean theres always a fun game to play out there so its not like your hurting on games
+[2026-09-09 21:32:53] blazingskully: man those heavies andelites they clearly heard you
+[2026-09-09 21:35:11] blazingskully: xD
+[2026-09-09 21:35:25] ElleRulz: Talks about people whining, while whining
+[2026-09-09 21:35:28] ElleRulz: Classic
+[2026-09-09 21:36:45] blazingskully: bruh they dont know the difference xD
+[2026-09-09 21:38:33] blazingskully: literally tho
+[2026-09-09 21:39:10] blazingskully: man i heard its a crazy idea that your not actually complaining
+[2026-09-09 21:40:00] blazingskully: i'm pretty sure your playing the game and winning lol
+[2026-09-09 21:40:52] blazingskully: man the artillery just didnt hear you yet is all lol
+[2026-09-09 21:42:42] blazingskully: i mean to be fair you could say something as simple as i dont like banana's and they'll take that as oh so you hate all helldivers lol
+[2026-09-09 21:44:17] blazingskully: the music is a bop
+[2026-09-09 21:45:26] blazingskully: i think my favorite halo music is probably either reach or CE but thats just my opinion
+[2026-09-09 21:46:46] blazingskully: i dont mind the odst music main point is just the halo music is a bop regardless
+[2026-09-09 21:47:44] blazingskully: oh but wait they only hear solo clear so they probably wont recognize the flawless map clear part of it lol
+[2026-09-09 21:48:43] LizardFoo: you’re Reddit famous
+[2026-09-09 21:48:53] blazingskully: i'm sure eventually more will get added its just a matter of time
+[2026-09-09 21:49:33] blazingskully: i'm just stacking all these screenies 10 at a time lol
+[2026-09-09 21:49:33] zarrstrogg: message deleted by a moderator.
+[2026-09-09 21:50:40] blazingskully: i bet unironically they actually sound like they ree when they're angry
+[2026-09-09 21:52:30] blazingskully: its so hard not to giggle see you disprove the auditory confirmation lol
+[2026-09-09 21:53:57] blazingskully: nice
+[2026-09-09 21:54:55] blazingskully: i heard the stalwart must actually be the commando and thats why they're confused lol
+[2026-09-09 21:57:37] blazingskully: god i havent heard the sonic boom song in forever that nostalgia just hit like a ton of bricks lol
+[2026-09-09 21:59:43] blazingskully: man clearly needed help with this entire map lol
+[2026-09-09 22:01:05] blazingskully: lol the game was like that was actually a hologram and you shot the air
+[2026-09-09 22:02:33] blazingskully: bing bang boom
+[2026-09-09 22:04:34] blazingskully: man you clearly needed help from that totally not a drone and is actually a turret gaurd dog lol
+[2026-09-09 22:05:07] PsychoKnaller: Aint this the virgin whl kicks people based on their loadout
+[2026-09-09 22:05:34] blazingskully: oh hey look another redditor
+[2026-09-09 22:07:41] blazingskully: man i would have never guessed another alt would show up my mind has been blown completely
+[2026-09-09 22:07:46] PoorlyZero2: bro is a v tuber
+[2026-09-09 22:08:24] PoorlyZero2: I not fat or live in a basement
+[2026-09-09 22:09:51] blazingskully: man i didnt know being a vtuber invalidates your entire audience or skill on the game i guess that must mean i need a reddit account for my opinion to matter
+[2026-09-09 22:10:54] blazingskully: so ironic and i do see yea
+[2026-09-09 22:13:34] blazingskully: uhh its it cmu final answer lol
+[2026-09-09 22:13:40] blazingskully: is it*
+[2026-09-09 22:14:17] blazingskully: i see that crange
+[2026-09-09 22:15:03] blazingskully: cringe time? oh man dont let the vox engines "Hear" that crange cause they'll use it for their cannons lol
+[2026-09-09 22:17:14] blazingskully: man i'm pretty sure thats a collab
+[2026-09-09 22:18:11] blazingskully: man you seemed so totally banned last time you played war shrimps
+[2026-09-09 22:18:24] blazingskully: bruh xD
+[2026-09-09 22:19:12] blazingskully: man i''m so totally inclined to believe an account like that
+[2026-09-09 22:21:16] blazingskully: you know i counted 0 answers correct but it's ok because clearly he's entitled to a participation award
+[2026-09-09 22:22:28] blazingskully: i dont think you let any in
+[2026-09-09 22:22:38] blazingskully: because its a hammer it cant kill anything
+[2026-09-09 22:23:12] blazingskully: i think c all of the above they must be a liar
+[2026-09-09 22:23:13] Demoniccryx: message deleted by a moderator.
+[2026-09-09 22:24:22] blazingskully: bruh when have you ever gate kept?
+[2026-09-09 22:25:20] blazingskully: cause amr go brrt
+[2026-09-09 22:27:25] blazingskully: i didnt even know the supply frv had a bug thats the funny thing
+[2026-09-09 22:29:14] blazingskully: lol its so funny how easy it is to find his attempts at hiding stuff
+[2026-09-09 22:30:02] blazingskully: which is deserved he got made fun of xD
+[2026-09-09 22:31:01] blazingskully: i dont blame you for laughing its a joke that writes itself
+[2026-09-09 22:34:45] blazingskully: sounds like a script to me
+[2026-09-09 22:35:04] blazingskully: i bet he actually was reading off a teleprompter lol
+[2026-09-09 22:36:33] blazingskully: man everyone watches him? does that mean he's not the hd2 community but the entire world now? lol
+[2026-09-09 22:37:56] blazingskully: man everyone must clearly like him clearly
+[2026-09-09 22:39:40] blazingskully: this is just funny
+[2026-09-09 22:43:15] FalterXV: CreateMyUnivers on an alt account chat evading ban. Circumvating ban on an alternate account. Stalking my channel. @PoorlyZero2
+[2026-09-09 22:43:37] FalterXV: https://www.twitch.tv/poorlyzero
+[2026-09-09 22:43:59] blazingskully: man i would have never guessed thats what they're doing
+[2026-09-09 22:45:50] blazingskully: man i'm pretty sure its opposite day so they reason they're saying they arent CMU is because they're actually admitting to it
+[2026-09-09 22:46:54] blazingskully: c all of the above
+[2026-09-09 22:48:01] blazingskully: man i saw a solo flawless map clear but i guess my eyes didnt actually see anything they were hearing smell and tasting colors
+[2026-09-09 22:49:19] blazingskully: i think they are the ones crashing out for their own bad behavior
+[2026-09-09 22:50:21] blazingskully: just sent the report as you sent the link
+[2026-09-09 22:50:36] blazingskully: and i'm still in the stream vc while playing palworld
+[2026-09-09 22:50:36] ElleRulz: message deleted by a moderator.
+[2026-09-09 22:51:08] blazingskully: cue the epic guitar solo
+[2026-09-09 22:51:58] stargatemasters: Lol watching you get called out on the r/helldivers is hilarious
+[2026-09-09 22:53:03] stargatemasters: Lol
+[2026-09-09 22:53:15] blazingskully: man another one? who could have ever seen that coming?
+[2026-09-09 22:53:35] stargatemasters: I get to set you off and walk away is great
+[2026-09-09 22:53:56] blazingskully: man i guess your being set off now falter
+[2026-09-09 22:54:59] blazingskully: i need to remind myself to check out stargate unironically cause i enjoy sci fi stuff so maybe i'll like it idk
+[2026-09-09 22:55:20] blazingskully: and yeah i can report
+[2026-09-09 22:56:59] blazingskully: they can cry all they want but it wont change reality lol
+[2026-09-09 22:57:45] blazingskully: yea lol
+[2026-09-09 22:58:41] blazingskully: man a bot drop? the bots clearly must have heard you
+[2026-09-09 22:59:11] blazingskully: the auditory bot confirmations will never not be funny to meme on
+[2026-09-09 23:00:35] LizardFoo: message deleted by a moderator.
+[2026-09-09 23:01:13] blazingskully: youd think they'd be smart enough to not break the rules and yet here we are watching them make clowns of themselves
+[2026-09-09 23:02:37] blazingskully: ngl i think the blue arrows look a lot better than the yellow when interacting with a console or stratagem
+[2026-09-09 23:04:13] blazingskully: lol whoever programmed that hellbomb just fell asleep on the left arrow lol
+[2026-09-09 23:06:58] blazingskully: the automabutts are like but you keep shooting our allies we dont like that so why cant we attack the local falter
+[2026-09-09 23:08:29] blazingskully: yeah that gunship was like nope you clearly didnt shoot my engines out even though you clearly hit them
+[2026-09-09 23:09:32] blazingskully: the rain is actually pretty satisfyng lowkey
+[2026-09-09 23:11:17] blazingskully: only a small amount of sad but then amr went brrt and deleted all of them
+[2026-09-09 23:12:30] blazingskully: what if they were actually the enemy? crazy i know
+[2026-09-09 23:14:31] blazingskully: bruh eagles only had one job lol
+[2026-09-09 23:16:32] blazingskully: rocket enemies? not allowed lol
+[2026-09-09 23:18:49] blazingskully: so close to finishing the entire map because speed is on your side
+[2026-09-09 23:19:28] blazingskully: i never knew that
+[2026-09-09 23:20:12] blazingskully: they're like but rockets
+[2026-09-09 23:20:12] PsychoKnaller: message deleted by a moderator.
+[2026-09-09 23:20:40] blazingskully: oof
+[2026-09-09 23:21:22] blazingskully: blame cmu it was clearly his crying that caused it to happen cause otherwise how else could they have heard you
+[2026-09-09 23:22:36] blazingskully: lol the hulk was like i had a bowl of nails for breakfast. Without any milk
+[2026-09-09 23:23:06] PoorlyZero2: message deleted by a moderator.
+[2026-09-09 23:23:49] blazingskully: bruh that tank just looked at you like "No"
+[2026-09-09 23:24:48] blazingskully: lol i feel like ah was just like this clearly wont become a problem
+[2026-09-09 23:26:46] blazingskully: at least the tank is trying their best
+[2026-09-09 23:27:41] blazingskully: bruh thats a lot
+[2026-09-09 23:29:14] blazingskully: i'd have thought factory striders would be the more annoying ragdoll unit
+[2026-09-09 23:30:04] blazingskully: good to know
+[2026-09-09 23:30:26] blazingskully: i dont think the automabutts are happy
+[2026-09-09 23:33:08] blazingskully: i dont even know why they felt the need to raise its health
+[2026-09-09 23:35:08] blazingskully: that is a lot of escort units just for one strider
+[2026-09-09 23:36:02] blazingskully: that is an insane confirmation range or at least to me it is
+[2026-09-09 23:37:29] blazingskully: lol and they thought you needed a hellbomb
+[2026-09-09 23:39:36] blazingskully: honestly seeing all of the new enemies and experiencing some of them so far i'm of the opinion vox engines are the scariest, i still have yet to experience Dragon Roaches and hive lords
+[2026-09-09 23:40:03] blazingskully: what llol
+[2026-09-09 23:40:07] blazingskully: how that
+[2026-09-09 23:41:19] blazingskully: i love how like when it happened you were just sitting in an invisible chair in the air
+[2026-09-09 23:41:44] blazingskully: i did not notice that
+[2026-09-09 23:42:42] blazingskully: yeah i had a feeling so i reported around the time the shuttle landed but i wasnt sure what your opinion was till now
+[2026-09-09 23:43:27] blazingskully: oh no a gas grenade whatever will you do
+[2026-09-09 23:44:17] blazingskully: of course theres a jammer
+[2026-09-09 23:44:29] blazingskully: wow that was just
+[2026-09-09 23:45:13] blazingskully: whatever shot that cringe cannon just said no fun is not allowed (i'm just calling the giant more prominant red lasers cring cannons)
+[2026-09-09 23:46:08] blazingskully: but its ok because i have something that will make that random death feel like it never happened
+[2026-09-09 23:46:53] blazingskully: this map is insane so far
+[2026-09-09 23:47:16] blazingskully: who's cookies did you steal and was it the vox engines cookies? lol
+[2026-09-09 23:49:21] blazingskully: i saw an explosion but idk if that was the gunship or the seaf fighting near you
+[2026-09-09 23:50:58] blazingskully: this map is just loud central like leaping lizards batman lol
+[2026-09-09 23:52:59] blazingskully: i have genuinely never seen a map get this chaotic in a solo
+[2026-09-09 23:54:00] blazingskully: thats fair but still it was insane
+[2026-09-09 23:55:14] Boes_GE: Bots are back on the menu. Embrace Democracy Helldiver.
+[2026-09-09 23:56:49] blazingskully: i forgot i was in the middle of eating my pizza and i had like 2 slices left
+[2026-09-09 23:59:41] blazingskully: i mean after seeing what happened id say thats fair especially since i dont know if there are people who can adapt at such a speed when so many enemies can spot you
+[2026-09-10 00:00:21] blazingskully: the game is like out of the frying pan and into the fire
+[2026-09-10 00:01:27] Sentinel_132: hey just thought to let you know you're an ass for randomly killing me the other day just because i'm level 26 and playing difficulty 6, i was just trying to play the game
+[2026-09-10 00:01:37] Sentinel_132: LMFAO
+[2026-09-10 00:01:43] Sentinel_132: all good dw
+[2026-09-10 00:01:58] Sentinel_132: i just wanted to reach out and say i just wanted to play the game and you tk'd me
+[2026-09-10 00:02:38] Sentinel_132: no but i literally enjoy level 6
+[2026-09-10 00:02:52] Sentinel_132: you didnt have to tk me though
+[2026-09-10 00:02:57] blazingskully: hmm level 26 and playing difficulty 6 some- something don add up here
+[2026-09-10 00:03:02] Sentinel_132: i didnt know who you were first off
+[2026-09-10 00:03:02] stargatemasters: message deleted by a moderator.
+[2026-09-10 00:03:28] Sentinel_132: well, that makes more sense
+[2026-09-10 00:03:30] Sentinel_132: no
+[2026-09-10 00:03:48] Sentinel_132: oh
+[2026-09-10 00:03:57] Sentinel_132: well that makes more sense
+[2026-09-10 00:04:07] Sentinel_132: but still i was just trying to play man
+[2026-09-10 00:04:25] Sentinel_132: you did, you tk'd me as soon as i spawned in
+[2026-09-10 00:04:57] Sentinel_132: yeah?
+[2026-09-10 00:05:46] Sentinel_132: i do yeah
+[2026-09-10 00:05:59] Sentinel_132: lemme relook at the clip
+[2026-09-10 00:06:06] FalterXV: !loadout
+[2026-09-10 00:06:11] Sentinel_132: aw ad break :c
+[2026-09-10 00:06:18] FalterXV: I wear SC-34 Infiltrator
+[2026-09-10 00:06:21] FalterXV: you do not wear stealth armor
+[2026-09-10 00:06:59] FalterXV: while I was on an objective, that I didn't need help on, you, in heavier armor than me - with higher detection - when there's an ENTIRE map you can go to - decided to follow me ONTO the point, remove my stealth, and create enemies
+[2026-09-10 00:07:14] FalterXV: by doing so, you griefed my playstyle
+[2026-09-10 00:07:26] FalterXV: This is grounds to be shot
+[2026-09-10 00:07:35] FalterXV: You don't see me ruining your playstyle, but you ruined mine
+[2026-09-10 00:07:49] FalterXV: so I TK'ed you since I was now going to have to kill a bunch of enemies that I didn't have to kill that you created on me
+[2026-09-10 00:07:58] FalterXV: and kicked you to your own lobby
+[2026-09-10 00:08:04] FalterXV: have respect for others and how they play
+[2026-09-10 00:08:10] FalterXV: goodbye now
+[2026-09-10 00:08:31] yeehaw4317: lowkey those reasons are pathetic
+[2026-09-10 00:08:48] yeehaw4317: funny how you would say that
+[2026-09-10 00:09:00] yeehaw4317: gotta keep going to ad break?
+[2026-09-10 00:09:32] blazingskully: btw here have this
+[2026-09-10 00:10:22] blazingskully: i dunno somethin doesnt add up i wouldnt believe it
+[2026-09-10 00:10:22] BootyEatingBandit0: message deleted by a moderator.
+[2026-09-10 00:10:49] happyKirkaversary: wow skully are you still letting this thing bully you all day
+[2026-09-10 00:10:53] happyKirkaversary: i thought you moved past that
+[2026-09-10 00:11:30] blazingskully: wow flip still crying all these years later?
+[2026-09-10 00:12:16] blazingskully: i thought you were obsessed with falter here? or are you trying to talk to someone of a higher intellegence than you because you think i'm falter secretly
+[2026-09-10 00:12:44] blazingskully: dont be shy you can speak the adults are allowing you to talk
+[2026-09-10 00:13:34] blazingskully: cmon cmu you were so willing to make all these assumptions on twitter a year ago so why are you so quiet now?
+[2026-09-10 00:14:24] blazingskully: load the cannons and ban em
+[2026-09-10 00:15:13] blazingskully: i can temporarily join sure
+[2026-09-10 00:19:19] blazingskully: and he still denies his obsession
+[2026-09-10 00:29:14] blazingskully: man its so funny seeing this rabbit hole
+[2026-09-10 00:37:27] blazingskully: it was almost like his actions had consequences and now his last resort is to just lie over and over and over again
+[2026-09-10 00:48:06] blazingskully: you "Speak" sign language? i thought you used your hands for asl
+[2026-09-10 01:05:17] blazingskully: in the words of same lake its not a loop its a spiral
+[2026-09-10 01:05:30] blazingskully: sam* i know english
+[2026-09-10 01:15:23] TheR6Lawyer: 🧑‍🦼‍➡️
+[2026-09-10 01:36:12] blazingskully: bruh y she that determined tho
+[2026-09-10 02:18:19] blazingskully: Remember helldiver tip #1 dont panic
