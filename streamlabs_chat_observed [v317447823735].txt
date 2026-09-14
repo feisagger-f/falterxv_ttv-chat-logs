@@ -1,0 +1,243 @@
+Streamlabs observed chat log started 2026-09-13 21:55:14
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-13 21:55:45] FalterXV: !rules
+[2026-09-13 21:55:47] FalterXV: !guides
+[2026-09-13 21:55:50] FalterXV: !commands
+[2026-09-13 21:55:55] FalterXV: !vanguard
+[2026-09-13 21:55:56] FalterXV: !lurk
+[2026-09-13 21:59:53] blazingskully: hello dere
+[2026-09-13 21:59:58] FalterXV: hello hello
+[2026-09-13 22:00:41] blazingskully: i got some waffles
+[2026-09-13 22:00:46] FalterXV: ooh
+[2026-09-13 22:00:47] FalterXV: waffles
+[2026-09-13 22:00:59] blazingskully: indeed
+[2026-09-13 22:02:22] FalterXV: I was like
+[2026-09-13 22:02:23] FalterXV: I need to stream
+[2026-09-13 22:02:29] FalterXV: but, I want to watch shield hero
+[2026-09-13 22:02:31] FalterXV: dayum, choices
+[2026-09-13 22:02:39] blazingskully: lol
+[2026-09-13 22:02:51] blazingskully: shield hero do be pretty good tho
+[2026-09-13 22:04:03] blazingskully: i hope by 2027 we get more solo leveling i wanna see more cool fight scenes
+[2026-09-13 22:06:26] blazingskully: just hatched a pal with a fun passive which makes it immune to poison and burn so thats how my shenanigans are going also it sounds neat but then i hear vector and his signature oh yea lol
+[2026-09-13 22:07:09] blazingskully: pretty good
+[2026-09-13 22:07:37] blazingskully: then i saw you go live and i was like must chat because friendo
+[2026-09-13 22:07:58] blazingskully: we are are catching a lot of pals yes lol
+[2026-09-13 22:08:14] blazingskully: i totally didnt use up all my spheres on hand
+[2026-09-13 22:08:34] blazingskully: i am innocent
+[2026-09-13 22:09:21] blazingskully: epic music
+[2026-09-13 22:09:47] blazingskully: oh man i hope its not a mod causing it
+[2026-09-13 22:11:16] blazingskully: bruh y did it turn them all on is it like the mod needs certain options on?
+[2026-09-13 22:12:08] blazingskully: right
+[2026-09-13 22:13:48] blazingskully: lol its ok because shield hero
+[2026-09-13 22:14:37] blazingskully: i think i'm still season 1 or 2 when i started rewatching but then i forgor where i left off
+[2026-09-13 22:15:57] blazingskully: i think thats what 1 focuses on yea
+[2026-09-13 22:17:21] blazingskully: the spear hero was a bit of an idiot though like i still hold that beleif from what i remember of shield hero also wew halo guns on seaf blueberries
+[2026-09-13 22:19:17] blazingskully: i always find it funny when cannon turrets or just enemies in general unironically help with objectives without meaning to lol
+[2026-09-13 22:19:35] blazingskully: oh yea
+[2026-09-13 22:19:44] blazingskully: its hilarious when it happens
+[2026-09-13 22:20:08] blazingskully: that guitar tho its amazing
+[2026-09-13 22:20:35] blazingskully: ah ok
+[2026-09-13 22:21:52] blazingskully: i cant even remember what the last breaking benjamin song i listened to was thats how long its been since i heard their name
+[2026-09-13 22:22:37] blazingskully: Lets go stimothy coming in for the assist
+[2026-09-13 22:23:29] blazingskully: i forgot i was eating a sorbet when you went live lol
+[2026-09-13 22:24:06] blazingskully: yeah its a raspberry one and i absolutely love raspberries i even eat them as a snack sometimes
+[2026-09-13 22:25:07] blazingskully: it does feel empty for a hulk surge maybe they're mainly at fabricators?
+[2026-09-13 22:26:11] blazingskully: yeah thats fair
+[2026-09-13 22:26:27] blazingskully: the artillery never saw it coming
+[2026-09-13 22:27:15] blazingskully: man that hulk it could hear you thats why it jetpacked right? lol
+[2026-09-13 22:28:50] blazingskully: i would seem a big oopsie has happened at the base
+[2026-09-13 22:30:07] blazingskully: bruh the knifehands was like hug me lol
+[2026-09-13 22:31:14] blazingskully: thats true
+[2026-09-13 22:31:20] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-13 22:31:39] blazingskully: i'm gonna put the rest of my sorbet away in the freezer for later lol
+[2026-09-13 22:33:11] blazingskully: i am back and lol
+[2026-09-13 22:33:45] blazingskully: that jammer its totally hearing you thats why the enemies knew where you were right? lol
+[2026-09-13 22:37:40] blazingskully: bruh how
+[2026-09-13 22:38:07] blazingskully: i think they say that because they cant shoot guns thats why they need a turret to do it for them
+[2026-09-13 22:38:33] blazingskully: thats just nonsense
+[2026-09-13 22:40:06] blazingskully: look bolt action is cool and all dont get me wrong but guns come in all shapes and sizes
+[2026-09-13 22:40:51] blazingskully: i remember that was so ridiculous
+[2026-09-13 22:42:09] blazingskully: that random is playing a dangerous game
+[2026-09-13 22:42:25] blazingskully: yeah id say so
+[2026-09-13 22:42:47] blazingskully: bruh
+[2026-09-13 22:44:14] blazingskully: i mean valid cause nobody likes a cheater
+[2026-09-13 22:44:59] blazingskully: i dont even know why he ran he had heavy armor he could have fought it out
+[2026-09-13 22:46:24] blazingskully: i bet in the next mission he would have tried to bring a turret
+[2026-09-13 22:48:02] blazingskully: either way its sad that most random divers are relying on cheats to complete a mission like just why
+[2026-09-13 22:49:23] blazingskully: remember when using your amr always go for your enemies Nico nico kneecaps
+[2026-09-13 22:49:46] blazingskully: hellbomb explain
+[2026-09-13 22:50:53] blazingskully: seeing a hulk use a jetpack is terrifying to me cause like its literally just the "They fly now" joke
+[2026-09-13 22:52:25] blazingskully: lol going through the sidewalks and alleyways 10/10 driving skillz
+[2026-09-13 22:53:07] blazingskully: sidewalks and alley's are just alternative roads clearly
+[2026-09-13 22:54:49] blazingskully: i suppose you could technically drive on sidewalks in gta but most of the vehicles just get stuck on stairs or are too wide
+[2026-09-13 22:55:18] blazingskully: yeah
+[2026-09-13 22:55:42] blazingskully: i played most of the series except for the gta that spawned the nico cousin meme
+[2026-09-13 22:56:18] blazingskully: i think it was 3 or 4
+[2026-09-13 22:56:35] blazingskully: its been forever
+[2026-09-13 22:57:32] blazingskully: no that one was gta 5
+[2026-09-13 22:58:31] blazingskully: ok the meme i thought of was gta 4 i looked it up breifly cause it was gnawing at my brain
+[2026-09-13 22:59:06] blazingskully: i mean he always talks out of his ass thats nothing new
+[2026-09-13 22:59:51] blazingskully: your not wrong its weird how few hulks there are
+[2026-09-13 23:00:23] blazingskully: i hear new halo and all i think is 100 gigabyte download
+[2026-09-13 23:01:16] blazingskully: seems like normal cannon turret things lol
+[2026-09-13 23:02:42] blazingskully: i usually call keyes captain kfc cause its funny
+[2026-09-13 23:03:28] blazingskully: that does sound useful
+[2026-09-13 23:04:26] blazingskully: bruh but the friendlies have the gun i want
+[2026-09-13 23:04:57] blazingskully: i do they sound so much more threatening
+[2026-09-13 23:06:55] blazingskully: that explosion thats so cool
+[2026-09-13 23:07:27] blazingskully: why cant all heavies for bots sound like that when they explode, so like hulks, warstriders, and vox engines
+[2026-09-13 23:08:26] blazingskully: oh that is cool
+[2026-09-13 23:09:31] blazingskully: bruh sade
+[2026-09-13 23:09:34] blazingskully: sadge*
+[2026-09-13 23:09:40] blazingskully: i know how to spell
+[2026-09-13 23:10:47] Patster1234: hes going to huss valley
+[2026-09-13 23:10:59] blazingskully: i will never forget the hellbomb your ship dropped in and the operator fell asleep on the left arrow lol
+[2026-09-13 23:11:10] Patster1234: chilling, bouta go to bed
+[2026-09-13 23:11:51] Patster1234: i was actually getting %100 on my achivements
+[2026-09-13 23:12:34] Patster1234: the charger resupply kill
+[2026-09-13 23:13:07] Patster1234: damn i wish i thought of that lol
+[2026-09-13 23:13:15] Patster1234: we were just playing tango with it lmfao
+[2026-09-13 23:14:05] Patster1234: that one was easy lol
+[2026-09-13 23:14:23] Patster1234: and we did it without expert extraction pilot
+[2026-09-13 23:14:48] blazingskully: bruh two flame hulks earlier game was like not enough hulks? then have fire everywhere lol
+[2026-09-13 23:14:48] Patster1234: we did it on a bug world
+[2026-09-13 23:15:08] Patster1234: it was 11 i think
+[2026-09-13 23:15:31] Patster1234: we just landed in a city that had 2 heavy nests
+[2026-09-13 23:16:33] Patster1234: but to answer your question earlier i just clicked yours cause it was the first one i saw
+[2026-09-13 23:16:44] blazingskully: lol the billybob was like you cant make me leave this turret
+[2026-09-13 23:18:00] Patster1234: i honestly dont see ANYONE use the anti material rifle
+[2026-09-13 23:18:44] Patster1234: its just it being only medium pen makes no sense to me
+[2026-09-13 23:19:10] blazingskully: i will never not like that explosion sfx for the strider
+[2026-09-13 23:19:43] Patster1234: am i misremembering?
+[2026-09-13 23:20:05] Patster1234: i got this game like a week and a half ago lol
+[2026-09-13 23:20:54] Patster1234: no one did i just thought i remember reading medium 😭 😭 😭 😭
+[2026-09-13 23:21:28] blazingskully: amr + bile titan = Brrt
+[2026-09-13 23:21:43] Patster1234: holy shit wtf
+[2026-09-13 23:23:45] blazingskully: it really is good
+[2026-09-13 23:25:20] blazingskully: lol the hulk was like dont worry i guys i got this
+[2026-09-13 23:25:54] Patster1234: damn i guess i mandela effected myself i coulda swore like when i got this game 2 weeks ago i read medium
+[2026-09-13 23:28:18] blazingskully: lol that billybob earlier got so excited to call a bot drop like i gotta call mom then just instant exploded lol
+[2026-09-13 23:28:39] blazingskully: your funny
+[2026-09-13 23:30:07] blazingskully: man that hulk he heard you clearly thats why he was shooting at something else right? lol
+[2026-09-13 23:30:35] Patster1234: if theyre going out theyll take you with them
+[2026-09-13 23:31:51] Patster1234: what primary is that?
+[2026-09-13 23:33:08] FalterXV: !loadout
+[2026-09-13 23:34:07] Patster1234: yeah im gonna be honest the sneaky sniper playstyle is not for me lol
+[2026-09-13 23:35:57] blazingskully: i dont think he wants to use words he'd rather give an order
+[2026-09-13 23:38:28] blazingskully: lol you shot the knifehands arm and then exploded after lol
+[2026-09-13 23:38:29] Patster1234: lmfao
+[2026-09-13 23:39:29] blazingskully: and then he exploded after* i swear i know english
+[2026-09-13 23:40:14] Patster1234: damn
+[2026-09-13 23:40:22] Patster1234: idk what i read then
+[2026-09-13 23:41:57] Patster1234: well ill give it a try then
+[2026-09-13 23:42:05] Patster1234: but im going to bed rn
+[2026-09-13 23:42:08] Patster1234: have a good oen
+[2026-09-13 23:42:36] Patster1234: I DID FOLLOW
+[2026-09-13 23:42:46] Patster1234: I SWEAR
+[2026-09-13 23:42:58] Patster1234: I GOT THE POINTS AND EVERYTHING
+[2026-09-13 23:44:49] blazingskully: i dont know why its a struggle for them
+[2026-09-13 23:46:06] blazingskully: lol as our favorite angry blueberries would say, Die Xenos Scum
+[2026-09-13 23:46:42] blazingskully: i am still doing stuff so it looks like its a normal stream this time
+[2026-09-13 23:47:40] blazingskully: i could tell the excuse was a lie too cause you cant get the 300 points gift without following
+[2026-09-13 23:47:59] blazingskully: not that i saw
+[2026-09-13 23:48:52] blazingskully: i dont think its put anywhere lately the amr is medium pen nowadays right?
+[2026-09-13 23:49:16] blazingskully: i mean like anywhere like wiki's or anything like that
+[2026-09-13 23:49:29] blazingskully: i thought it was always heavy pen
+[2026-09-13 23:51:00] blazingskully: i genuinely never knew the amr used to be medium pen
+[2026-09-13 23:52:45] blazingskully: that sounds weird that the back vents were medium pen
+[2026-09-13 23:55:15] blazingskully: wow that actually sounds infuriating
+[2026-09-13 23:56:44] blazingskully: i believe you told me about it yea
+[2026-09-13 23:58:19] blazingskully: depresso espresso sounds like an actual drink somewhere and i'm waiting for that day it shows up
+[2026-09-13 23:58:47] blazingskully: i actually snorted
+[2026-09-13 23:59:05] blazingskully: yea
+[2026-09-13 23:59:47] blazingskully: all righty
+[2026-09-14 00:00:30] blazingskully: usually it lasts until 12 but idk how long they plan to go either so like i'm not 100% on how long its justa rough guess
+[2026-09-14 00:00:58] blazingskully: 12 my time
+[2026-09-14 00:01:14] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-14 00:02:18] blazingskully: i'm fine with whatever quite literally cause i just enjoy spending time together
+[2026-09-14 00:03:10] blazingskully: i mean fair
+[2026-09-14 00:04:09] rubyfenrir231: wow a femboy spreading democracy haven’t seen that in a while
+[2026-09-14 00:04:28] rubyfenrir231: well I’m on the hunt
+[2026-09-14 00:04:35] rubyfenrir231: hunting for dissidents
+[2026-09-14 00:04:58] rubyfenrir231: nope I’m a hammer diver
+[2026-09-14 00:05:19] rubyfenrir231: the hell you mean
+[2026-09-14 00:05:31] rubyfenrir231: I do fine with the hammer
+[2026-09-14 00:05:40] rubyfenrir231: Hell yea
+[2026-09-14 00:05:48] blazingskully: why would anyone go melee in a shooter thats what i wanna know
+[2026-09-14 00:05:59] rubyfenrir231: doing fine is haveing more kills than the rest of the team
+[2026-09-14 00:06:59] rubyfenrir231: I’m running around destroying fabricators
+[2026-09-14 00:07:06] rubyfenrir231: I don’t fucking stream
+[2026-09-14 00:07:26] blazingskully: melee can destroy fabs? man i must have missed that patch
+[2026-09-14 00:08:50] blazingskully: i heard theres a more efficient way for fabs called eagles
+[2026-09-14 00:09:01] rubyfenrir231: it’s called having fun what’s so wrong with that
+[2026-09-14 00:09:47] rubyfenrir231: I’m doing it in other peoples lobbies because they said it’s fine
+[2026-09-14 00:10:34] Patster1234: message deleted by a moderator.
+[2026-09-14 00:11:13] blazingskully: i dont even know why they tried to defend using the hammer
+[2026-09-14 00:12:03] blazingskully: not to mention the most a melee can do is kill a gribly
+[2026-09-14 00:13:44] blazingskully: if i ever touch a melee weapon it'll be in my own lobby when i'm not taking the game seriously
+[2026-09-14 00:14:38] blazingskully: you did tell me
+[2026-09-14 00:15:45] blazingskully: literally though
+[2026-09-14 00:16:33] blazingskully: yeah i saw that was just wow
+[2026-09-14 00:18:00] blazingskully: lol smoke was like my time has come
+[2026-09-14 00:18:55] blazingskully: fr though
+[2026-09-14 00:19:56] blazingskully: i still thinks its dumb using a hammer to destroy a fab
+[2026-09-14 00:22:40] blazingskully: why
+[2026-09-14 00:22:48] blazingskully: can he not shoot?
+[2026-09-14 00:22:56] blazingskully: was 230 a fluke?
+[2026-09-14 00:24:55] blazingskully: i swear thats just ridivulous
+[2026-09-14 00:25:45] blazingskully: bruh literally so quiet
+[2026-09-14 00:28:56] blazingskully: almost thought that was a blizzard for a second lol
+[2026-09-14 00:29:54] blazingskully: time to make another sad strider?
+[2026-09-14 00:31:12] blazingskully: idk why but it feels weird they spawned outside
+[2026-09-14 00:32:53] blazingskully: bruh so many billybobs
+[2026-09-14 00:35:16] blazingskully: i mean thats a valid worry cause cannons
+[2026-09-14 00:36:01] blazingskully: aint no way he needs that many turrets
+[2026-09-14 00:42:04] blazingskully: i will say the fact the striders head was just shoved through the wall was a little funny cause with out the chini guns he just like hello there lol
+[2026-09-14 00:43:36] blazingskully: bruh wtf
+[2026-09-14 00:44:53] blazingskully: man so surprising
+[2026-09-14 00:47:31] blazingskully: i dont blame you for hating them
+[2026-09-14 00:47:48] blazingskully: this map was so calm and as soon as they joined it went to absolute havoc
+[2026-09-14 00:48:45] Hallak007: i thought hate wasn't tolerated here
+[2026-09-14 00:50:04] blazingskully: shocker its empty
+[2026-09-14 00:51:04] blazingskully: to be fair its not even surprising anymore when they come to complain
+[2026-09-14 00:51:21] blazingskully: its all they know how to do
+[2026-09-14 00:52:43] blazingskully: it was so quiet yea
+[2026-09-14 00:54:37] blazingskully: at least you got the mission clear lol
+[2026-09-14 00:55:23] blazingskully: you cant stop democrazy only accept it
+[2026-09-14 00:55:30] blazingskully: democracy*
+[2026-09-14 00:55:34] blazingskully: words
+[2026-09-14 00:57:03] blazingskully: it really does make it easy especially since you know they join at the end of the mission basically
+[2026-09-14 00:58:39] blazingskully: they wont learn
+[2026-09-14 00:59:21] blazingskully: that stealth is amazing lowkey
+[2026-09-14 01:00:37] blazingskully: all those enemies could hear you, clearly
+[2026-09-14 01:02:56] blazingskully: i loved how the strider came running in like he's that guy and then just fell over dead from the amr
+[2026-09-14 01:05:15] blazingskully: the billybobs are like theres a falter here somewhere
+[2026-09-14 01:05:47] blazingskully: its so funny
+[2026-09-14 01:07:36] blazingskully: i give it a 99% chance he has turrets
+[2026-09-14 01:09:38] blazingskully: super stealth mode go
+[2026-09-14 01:10:19] blazingskully: lol just the straight up vanish
+[2026-09-14 01:12:27] blazingskully: bruh the amount of enemies
+[2026-09-14 01:12:46] blazingskully: i did not know that
+[2026-09-14 01:14:44] blazingskully: its like why do they do dat they hit the walls they shouldnt be able to ragdoll
+[2026-09-14 01:15:59] blazingskully: its by the arm
+[2026-09-14 01:16:52] blazingskully: the amount of enemies is still nutty
+[2026-09-14 01:17:34] rubyfenrir231: message deleted by a moderator.
+[2026-09-14 01:20:50] blazingskully: they shouldnt need to take that long for a loadout
+[2026-09-14 01:22:02] blazingskully: i vote kill and kick
+[2026-09-14 01:23:05] blazingskully: hmmm id say let him sit and leave and if he doesnt leave before the shuttle then kick
+[2026-09-14 01:24:15] blazingskully: lol strider of the wall what is your wisdom
+[2026-09-14 01:26:48] blazingskully: man its almost like he should have been using stealth
+[2026-09-14 01:32:45] blazingskully: i feel like its better to go to extract at this point but idk what your thoughts are
+[2026-09-14 01:34:54] blazingskully: oh i thought the hellbomb earlier killed the silo already
+[2026-09-14 01:35:59] blazingskully: i know the difference dw lol
+[2026-09-14 01:36:21] blazingskully: oh factory strider of the wall what is your wisdom
+[2026-09-14 01:37:41] blazingskully: your not wrong
+[2026-09-14 01:38:53] blazingskully: its so funny seeing it on the wall like how did it even happen
+[2026-09-14 01:40:49] blazingskully: bruh lol
+[2026-09-14 01:41:37] blazingskully: finally ended had a slight panic moment
+[2026-09-14 02:24:29] blazingskully: !lurk
