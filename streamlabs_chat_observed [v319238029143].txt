@@ -1,0 +1,175 @@
+Streamlabs observed chat log started 2026-09-15 13:53:36
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-15 13:54:04] FalterXV: !guides
+[2026-09-15 13:54:07] FalterXV: !commands
+[2026-09-15 13:54:09] FalterXV: !vanguard
+[2026-09-15 13:54:10] FalterXV: !lurk
+[2026-09-15 14:13:29] FalterXV: bathroom real quick
+[2026-09-15 14:16:59] FalterXV: ok back
+[2026-09-15 14:18:54] supermaneditsz: Hey everyone! Just dropping in to say hi.
+[2026-09-15 14:19:23] supermaneditsz: Stream is looking and sounding great today by the way.
+[2026-09-15 14:20:38] supermaneditsz: How has your week been going so far, streamer?
+[2026-09-15 14:21:10] noorrasool53: Stream is looking super crisp today. Love the setup.
+[2026-09-15 14:21:27] a_person_who_carez: Good sir ive come to investigate some things I had heard
+[2026-09-15 14:21:45] mdbayzidneon: Same, the audio quality is spot on right now.
+[2026-09-15 14:21:48] supermaneditsz: I'm just hanging out in the background while getting some stuff done.
+[2026-09-15 14:22:54] supermaneditsz: It's honestly so nice to just sit back and watch a stream to unwind.
+[2026-09-15 14:23:07] noorrasool53: What are the main objectives or plans for today's broadcast?
+[2026-09-15 14:23:48] supermaneditsz: What's the main goal for today's stream?
+[2026-09-15 14:24:06] mdbayzidneon: I'm just lurking in the background today while trying to finish some work.
+[2026-09-15 14:24:07] blazingskully: good morning
+[2026-09-15 14:24:17] blazingskully: i saw
+[2026-09-15 14:24:56] noorrasool53: Nice, it's perfect background noise to stay focused to honestly.
+[2026-09-15 14:25:04] supermaneditsz: That last part was wild, I definitely thought you were a goner there lol.
+[2026-09-15 14:25:46] mdbayzidneon: That last sequence was wild, I definitely thought a wipe was coming lol.
+[2026-09-15 14:26:09] supermaneditsz: Man, time is flying today. Can't believe it's already this time of the week.
+[2026-09-15 14:26:11] blazingskully: i mean it is his like main thing he likes to do and if its not crying about his usual nonsense it's blaming others for his lack of skill
+[2026-09-15 14:26:20] noorrasool53: Haha yeah, total clutch moment right there.
+[2026-09-15 14:26:39] supermaneditsz: Do you have any big plans for the weekend coming up?
+[2026-09-15 14:26:58] blazingskully: bruh
+[2026-09-15 14:27:01] mdbayzidneon: Calculated. Absolutely calculated, no doubt.
+[2026-09-15 14:27:38] supermaneditsz: I've just been looking forward to doing absolutely nothing for a couple of days.
+[2026-09-15 14:28:03] noorrasool53: Man, this week is flying by so fast. Can't believe it's already this time of the week.
+[2026-09-15 14:28:48] supermaneditsz: Dang, nice play right there! Clean execution.
+[2026-09-15 14:28:51] mdbayzidneon: Tell me about it, feels like Monday was just yesterday.
+[2026-09-15 14:29:36] noorrasool53: Do either of you have any big plans for the weekend coming up?
+[2026-09-15 14:30:04] supermaneditsz: Sometimes everything just clicks into place perfectly.
+[2026-09-15 14:30:31] mdbayzidneon: Mostly just looking forward to sleeping in and doing absolutely nothing.
+[2026-09-15 14:30:59] supermaneditsz: Has anyone played any good new games lately? I feel like I'm stuck in a gaming rut.
+[2026-09-15 14:31:12] noorrasool53: That sounds like the absolute perfect weekend to be honest.
+[2026-09-15 14:32:01] mdbayzidneon: Clean execution on that play just now! Really well handled.
+[2026-09-15 14:32:04] supermaneditsz: I keep looking at my library and just scrolling up and down, unable to decide.
+[2026-09-15 14:32:35] noorrasool53: Everything just lined up perfectly for that.
+[2026-09-15 14:33:14] supermaneditsz: Usually I just end up playing the same comfort game anyway haha.
+[2026-09-15 14:33:40] mdbayzidneon: Has anyone played any good new games lately? I need some fresh recommendations.
+[2026-09-15 14:34:28] noorrasool53: I keep scrolling through my game library and just staring at it, completely lost.
+[2026-09-15 14:35:06] mdbayzidneon: The classic endless scroll. I usually just end up booting up a comfort game anyway.
+[2026-09-15 14:35:14] supermaneditsz: Love the vibes in here today, super cozy.
+[2026-09-15 14:35:51] supermaneditsz: I need to grab a quick drink, brb!
+[2026-09-15 14:36:04] noorrasool53: Yup, guilty of doing the exact same thing every single time.
+[2026-09-15 14:36:50] supermaneditsz: Annnd I am back. Didn't miss anything crazy, did I?
+[2026-09-15 14:37:30] supermaneditsz: Wait, what just happened? I looked away for one second!
+[2026-09-15 14:37:53] noorrasool53: Yeah, the stream feels super responsive right now. Cozy vibes today.
+[2026-09-15 14:38:06] supermaneditsz: Ah okay, I see it now. That makes sense.
+[2026-09-15 14:38:28] mdbayzidneon: Need to run and grab a quick drink from the kitchen, brb!
+[2026-09-15 14:38:56] supermaneditsz: You make this look way easier than it actually is, to be honest.
+[2026-09-15 14:39:29] noorrasool53: Stay hydrated! I should probably go refill my glass too.
+[2026-09-15 14:39:41] supermaneditsz: If I tried to do that, I'd probably fail immediately lol.
+[2026-09-15 14:40:10] supermaneditsz: Practice makes perfect, I guess!
+[2026-09-15 14:40:12] mdbayzidneon: Alright, back. Did I miss anything completely insane while I was gone?
+[2026-09-15 14:41:06] supermaneditsz: How long have you been streaming for at this point?
+[2026-09-15 14:41:09] noorrasool53: Wait, what just happened? I looked away for literally five seconds!
+[2026-09-15 14:41:46] supermaneditsz: It definitely takes a lot of consistency to keep it up.
+[2026-09-15 14:41:59] mdbayzidneon: Ah okay, I see what's going on now. Makes sense.
+[2026-09-15 14:42:31] supermaneditsz: Respect for the dedication, for real.
+[2026-09-15 14:43:20] supermaneditsz: Is it warm where you're at today? It's absolutely roasting over here.
+[2026-09-15 14:43:56] supermaneditsz: AC is doing some serious heavy lifting right now.
+[2026-09-15 14:43:57] mdbayzidneon: For real, if I tried doing that, it would end in immediate disaster.
+[2026-09-15 14:44:26] noorrasool53: Practice makes perfect, I guess! Lots of hours put into it.
+[2026-09-15 14:44:36] supermaneditsz: I should probably drink some more water too. Stay hydrated, everyone!
+[2026-09-15 14:45:26] mdbayzidneon: How long have you actually been streaming on this channel now?
+[2026-09-15 14:46:17] noorrasool53: It definitely takes a ton of consistency to keep a schedule up.
+[2026-09-15 14:46:17] supermaneditsz: Oof, that was a close one. Heart rate definitely spiked a bit there.
+[2026-09-15 14:47:02] mdbayzidneon: Major props for the dedication, it really shows in the quality.
+[2026-09-15 14:47:02] supermaneditsz: Calculated. Totally calculated.
+[2026-09-15 14:47:56] noorrasool53: Is it insanely warm where you guys are today? It's boiling over here.
+[2026-09-15 14:48:02] supermaneditsz: What music have you been listening to lately? Need some new playlist tracks.
+[2026-09-15 14:48:36] mdbayzidneon: The AC is working overtime right now just to keep things bearable.
+[2026-09-15 14:48:42] supermaneditsz: I feel like I've listened to the same songs a thousand times now.
+[2026-09-15 14:49:17] supermaneditsz: It's hard to find good stuff that doesn't get old immediately.
+[2026-09-15 14:49:28] noorrasool53: I need to remind myself to drink more water. It's too easy to forget.
+[2026-09-15 14:50:07] supermaneditsz: Back to the action! Let's see how this goes.
+[2026-09-15 14:50:52] supermaneditsz: Let's goooo! Big wins only.
+[2026-09-15 14:51:04] noorrasool53: Oof, that was a close call. Heart rate definitely jumped a bit there.
+[2026-09-15 14:51:22] supermaneditsz: That was actually incredibly clutch, nice job!
+[2026-09-15 14:52:05] mdbayzidneon: No sweat, totally under control the whole time... right?
+[2026-09-15 14:52:17] supermaneditsz: I'm still just hanging out, lurking in the background.
+[2026-09-15 14:52:54] noorrasool53: What kind of music have you been listening to lately? Need some new tracks.
+[2026-09-15 14:52:57] supermaneditsz: The gameplay today is top tier.
+[2026-09-15 14:53:41] mdbayzidneon: Same here, feels like I've played my current playlists to death.
+[2026-09-15 14:53:43] supermaneditsz: Always an entertaining stream to come hang out in.
+[2026-09-15 14:54:32] supermaneditsz: Do you usually stream around this same time most days?
+[2026-09-15 14:54:34] noorrasool53: It's tough finding good stuff that doesn't get annoying after a week.
+[2026-09-15 14:55:07] supermaneditsz: Good to know, I'll have to keep an eye out for the notifications.
+[2026-09-15 14:55:13] mdbayzidneon: Back to the action! Let's see how this next part plays out.
+[2026-09-15 14:55:47] supermaneditsz: Twitch alerts can be so hit or miss sometimes.
+[2026-09-15 14:56:05] noorrasool53: Let's goooo! Big plays only.
+[2026-09-15 14:56:39] mdbayzidneon: That was actually incredibly clutch, awesome job.
+[2026-09-15 14:56:42] supermaneditsz: Half the time I only notice because I happen to open the app.
+[2026-09-15 14:57:13] supermaneditsz: Glad I caught you live today though!
+[2026-09-15 14:57:43] noorrasool53: Still just hanging out here, lurking away in the background.
+[2026-09-15 14:57:57] supermaneditsz: Alright, I'm gonna have to head out pretty soon to get some food.
+[2026-09-15 14:58:29] mdbayzidneon: The gameplay today has been seriously top tier.
+[2026-09-15 14:59:19] noorrasool53: Always a fun stream to come sit back and relax in.
+[2026-09-15 14:59:33] supermaneditsz: Catch you on the next one, have a great rest of your stream!
+[2026-09-15 14:59:59] mdbayzidneon: Do you usually go live around this exact same time most days?
+[2026-09-15 15:00:45] noorrasool53: Good to know, I'll definitely have to keep an eye out for the notifications.
+[2026-09-15 15:01:39] mdbayzidneon: Twitch alerts can be so incredibly delayed or hit-or-miss sometimes.
+[2026-09-15 15:02:30] noorrasool53: Half the time I only realize a stream is live because I opened the app manually.
+[2026-09-15 15:03:04] mdbayzidneon: Well, super glad I managed to catch you live today anyway!
+[2026-09-15 15:04:05] noorrasool53: It's always nice when the timing just works out perfectly.
+[2026-09-15 15:04:49] mdbayzidneon: Man, this part of the game always stresses me out when I play it.
+[2026-09-15 15:05:30] noorrasool53: It's way less stressful just watching someone else deal with it lol.
+[2026-09-15 15:06:19] mdbayzidneon: True, zero pressure on our end, we just get to watch the show.
+[2026-09-15 15:07:15] noorrasool53: Dang, that was an incredibly smart workaround. I wouldn't have thought of that.
+[2026-09-15 15:08:00] mdbayzidneon: Resourceful streaming right there.
+[2026-09-15 15:08:00] a_person_who_carez: message deleted by a moderator.
+[2026-09-15 15:08:29] noorrasool53: Are you planning on doing any community games anytime soon?
+[2026-09-15 15:09:36] mdbayzidneon: That would be super cool, always fun to see viewers jump in.
+[2026-09-15 15:10:46] noorrasool53: Totally, community nights are always chaotic but a blast.
+[2026-09-15 15:11:31] mdbayzidneon: Ooh, nice loot/reward right there. Definitely worth the effort.
+[2026-09-15 15:12:26] noorrasool53: RNG is actually being somewhat kind today, surprisingly.
+[2026-09-15 15:13:06] mdbayzidneon: Usually the game just loves to punish you, so enjoy it while it lasts!
+[2026-09-15 15:13:56] noorrasool53: Haha seriously, don't jinx it!
+[2026-09-15 15:14:31] mdbayzidneon: My bad, my bad. Keeping my mouth shut now.
+[2026-09-15 15:15:31] noorrasool53: Alright, I am unfortunately going to have to head out pretty soon to grab some food.
+[2026-09-15 15:16:16] mdbayzidneon: Same here, starting to realize I haven't eaten a real meal yet today.
+[2026-09-15 15:18:03] mdbayzidneon: Yeah, thanks for the entertainment. It's been a blast hanging out.
+[2026-09-15 15:18:38] noorrasool53: Catch you on the next one! Have an amazing rest of the broadcast.
+[2026-09-15 15:19:08] mdbayzidneon: GG, have a good one everyone! See you next time.
+[2026-09-15 15:49:19] blazingskully: !lurk
+[2026-09-15 16:40:04] FalterXV: Danger noodles
+[2026-09-15 16:40:58] blazingskully: red is red blue is blue i have found noodles
+[2026-09-15 16:41:33] VECTOR2709: Hello there ! Actually, I got noodles for dinner
+[2026-09-15 16:44:46] blazingskully: what kind of noodles thats the important question
+[2026-09-15 16:45:20] VECTOR2709: Instant ?
+[2026-09-15 16:45:54] blazingskully: yeah but like what kind of instant noodles
+[2026-09-15 16:46:21] blazingskully: like classic ramen noodles or generic non name brand stuff
+[2026-09-15 16:46:50] VECTOR2709: i'm going fine, and happy birthday !
+[2026-09-15 16:47:27] blazingskully: i was trying to remember another brand of noodles and i remembered just now it was Buldak lol
+[2026-09-15 16:47:30] VECTOR2709: as for the noodles, more like generic non name ones
+[2026-09-15 16:47:42] blazingskully: ah ok
+[2026-09-15 16:48:02] blazingskully: i havent had instant noodles in a while i might get some more soon
+[2026-09-15 16:49:54] blazingskully: how has your day been like just kinda meh or?
+[2026-09-15 16:51:05] VECTOR2709: A good day, not perfect one, but still a good one
+[2026-09-15 16:51:27] blazingskully: well its better than a bad day so i'd count that as a win
+[2026-09-15 16:52:05] VECTOR2709: it is a win, but here's a lose...
+[2026-09-15 16:52:19] blazingskully: ?
+[2026-09-15 16:52:27] VECTOR2709: I'm kind of an idiot, I didn't do the discord check previously, so I'm still locked outside the server...
+[2026-09-15 16:54:50] VECTOR2709: oh, I understand better now, thx for the detail
+[2026-09-15 16:56:30] VECTOR2709: I'm on it since the 8th of july 2026, i have the "gulag" tag
+[2026-09-15 16:57:14] blazingskully: the music in gw2 is lowkey kinda just a vibe rn
+[2026-09-15 16:57:43] VECTOR2709: ok, let me take a look, brb
+[2026-09-15 16:59:34] blazingskully: meh meh meh meh
+[2026-09-15 17:00:00] FalterXV: myeh~n
+[2026-09-15 17:00:05] VECTOR2709: ok, so right now, I succesfuly verified with Double Counter
+[2026-09-15 17:00:32] VECTOR2709: the same
+[2026-09-15 17:01:09] VECTOR2709: noted for me, thx !
+[2026-09-15 17:02:02] VECTOR2709: ho, hello then
+[2026-09-15 17:04:05] blazingskully: yeah i started gw2 around like last year so i'm learning from falter which its been a blast
+[2026-09-15 17:08:14] blazingskully: man it was wimdy there
+[2026-09-15 17:21:14] blazingskully: i got murked as the boss pulled me back up lol
+[2026-09-15 17:27:19] blazingskully: the fire i hear it hurts
+[2026-09-15 18:25:16] blazingskully: big spooky demon said no lol
+[2026-09-15 18:30:04] blazingskully: i'm assuming revenant is whats keeping him alive or at least is giving him back health
+[2026-09-15 18:30:48] FalterXV: TBA https://instream.ly/AQqw1QumTA
+[2026-09-15 18:46:02] blazingskully: man i heard that this falter person is amazing
+[2026-09-15 19:00:49] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-15 19:45:07] blazingskully: i find it funny he says he's not in stream yet he responds to you real time
+[2026-09-15 19:54:59] blazingskully: wouldnt surprise me if there are more of em
+[2026-09-15 20:36:53] FalterXV: !guides
