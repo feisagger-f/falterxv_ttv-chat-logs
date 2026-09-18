@@ -1,0 +1,8 @@
+Streamlabs observed chat log started 2026-09-17 21:03:51
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-17 21:06:34] blazingskully: a asuran attacked by a jungle wurm? who could have guessed lol
