@@ -1,0 +1,55 @@
+Streamlabs observed chat log started 2026-09-18 20:46:05
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-18 20:46:44] blazingskully: hi hi
+[2026-09-18 20:46:54] FalterXV: hi hi
+[2026-09-18 20:48:43] FalterXV: Am eepy
+[2026-09-18 20:48:45] FalterXV: !vanguard
+[2026-09-18 20:48:49] FalterXV: !lurk
+[2026-09-18 20:48:57] blazingskully: just turned on my heater it was getting super cold
+[2026-09-18 20:49:32] FalterXV: skully can I just go back to bed for another hour? XD
+[2026-09-18 20:49:58] blazingskully: lol thats just how i feel every day tho
+[2026-09-18 20:50:19] blazingskully: but adulting is a thing so i cant just sleep all the time
+[2026-09-18 20:50:23] FalterXV: I've only been like this the last two
+[2026-09-18 20:50:35] FalterXV: I think I pushed myself too hard this week
+[2026-09-18 20:51:04] blazingskully: thats fair
+[2026-09-18 20:51:52] FalterXV: love this ace combat song
+[2026-09-18 20:52:00] FalterXV: It's like super good luck when I'm solo'ing 10s
+[2026-09-18 20:52:39] blazingskully: thats good right?
+[2026-09-18 20:52:44] FalterXV: yes
+[2026-09-18 20:53:22] FalterXV: It's Waipolo, Magic Spear, Long Day, and Pipeline Destruction that are my good luck songs
+[2026-09-18 20:53:40] FalterXV: Although, I think Magic Spear is my theme song, lol
+[2026-09-18 20:53:51] blazingskully: lol
+[2026-09-18 20:54:07] FalterXV: It was the first one I got my first public solo flawless 8 in
+[2026-09-18 20:55:18] blazingskully: oh well thats cool it basically just became your lucky song at that point then
+[2026-09-18 20:55:31] FalterXV: this is magic spear btw, what's playing
+[2026-09-18 20:55:49] blazingskully: noice
+[2026-09-18 20:55:55] FalterXV: I started realizing I move at the same speed as Ace Combat music
+[2026-09-18 20:56:10] FalterXV: made it really easy to learn to git gud at consoles, etc. as I could time it to music queues
+[2026-09-18 20:56:12] FalterXV: cues ^
+[2026-09-18 20:56:39] blazingskully: fair
+[2026-09-18 20:57:17] FalterXV: Plus: just look at the bunker, and slide the missile right in.
+[2026-09-18 21:00:04] blazingskully: many eeps
+[2026-09-18 21:01:18] FalterXV: ⚡ Same network. Same speeds. Better perks. Get a free Twitch, Kick, or YouTube sub every month: https://instream.ly/AQqw1QulTA
+[2026-09-18 21:04:50] blazingskully: !lurk
+[2026-09-18 21:48:27] arkham348_: YOUR AHH TURN OF PUBLIC JOIN IF YOU DONT WANT PEOPLE JOINING
+[2026-09-18 21:49:08] blazingskully: theres this thing called aiming your gun because needing a turret is saying you cant aim
+[2026-09-18 21:49:11] FalterXV: !rules
+[2026-09-18 21:53:53] FalterXV: https://www.twitch.tv/falterxv/clip/InventiveToughWerewolfMikeHogu-bLhOHp4Bkfsn9BgF DELLOCH (Xbox) tries to join to TK me with a Napalm Orbital. He forgot it was me he was trying to TK Clipped by FalterXV
+[2026-09-18 21:54:34] blazingskully: https://www.twitch.tv/falterxv/clip/PrettyBadLEDBuddhaBar-58pjFsGozBYJdDQT Two Striders vs 1 Falter Clipped by blazingskully
+[2026-09-18 22:33:31] blazingskully: the citizens of this city will thank you
+[2026-09-18 23:05:28] ItsBrandonBored: Why is there a japanese cartoon thing on my screen?
+[2026-09-18 23:05:48] ItsBrandonBored: I don't know, but I don't like it.
+[2026-09-18 23:05:58] ItsBrandonBored: It scares me
+[2026-09-19 00:13:07] blazingskully: a frunday
+[2026-09-19 00:15:45] blazingskully: i think i'm saying that flip the god of lies is dumb
+[2026-09-19 00:23:25] blazingskully: i am back Wew
+[2026-09-19 00:24:39] FalterXV: !guides
+[2026-09-19 01:11:54] blazingskully: bruh only 15? rookie numbers i get 1 fps
+[2026-09-19 01:14:24] blazingskully: bruh thats actually pretty good
+[2026-09-19 01:39:05] blazingskully: did you know theres a rumor that this person named FalterXV is actually pretty amazing
+[2026-09-19 02:26:51] blazingskully: i'm sure i'm sure that i'm sure
