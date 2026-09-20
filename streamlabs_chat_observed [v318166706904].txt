@@ -1,0 +1,130 @@
+Streamlabs observed chat log started 2026-09-19 21:19:02
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-19 21:19:51] FalterXV: !rules
+[2026-09-19 21:19:53] FalterXV: !guides
+[2026-09-19 21:19:58] FalterXV: !lurk
+[2026-09-19 21:19:59] FalterXV: !commands
+[2026-09-19 21:20:03] FalterXV: !politediver
+[2026-09-19 21:20:04] FalterXV: !rudediver
+[2026-09-19 21:21:18] FalterXV: !loadout
+[2026-09-19 21:23:37] blazingskully: hello dere
+[2026-09-19 21:23:42] FalterXV: hello hello
+[2026-09-19 21:24:41] FalterXV: how goes the pal that is in fact a world?
+[2026-09-19 21:25:12] blazingskully: it goes pretty good and i totally didnt almost get blown up by my own grenade lol
+[2026-09-19 21:25:24] FalterXV: oh yes you did
+[2026-09-19 21:25:25] FalterXV: XD
+[2026-09-19 21:25:45] blazingskully: i am innocent i know not what you mean lol
+[2026-09-19 21:26:44] blazingskully: aside from that the grease from the pizza caught up and i am now in pain so sadge that my favorite brand has betrayed me in this way today
+[2026-09-19 21:26:49] FalterXV: do or do not throw the grenade at falter, there is only kaboom XD
+[2026-09-19 21:27:02] blazingskully: xD
+[2026-09-19 21:27:04] FalterXV: or your age catching up with you XD
+[2026-09-19 21:27:11] FalterXV: skully getting old
+[2026-09-19 21:27:28] blazingskully: honestly fuckin true tho maybe i'm just older than i realize
+[2026-09-19 21:28:11] FalterXV: clearly you've aged up and down, back and forth, many much decades
+[2026-09-19 21:28:16] FalterXV: Flip said so. it must be true
+[2026-09-19 21:28:43] blazingskully: i might go out and get some ginger ale or something if i can idk yet for now i'm just like curled up the best i can be in a chair
+[2026-09-19 21:28:56] blazingskully: cause for me ginger ale helps with stomache pain
+[2026-09-19 21:29:44] blazingskully: ah ok
+[2026-09-19 21:31:11] blazingskully: i'm still hanging out just atm they went afk i'm just running around picking fights lol
+[2026-09-19 21:31:21] blazingskully: hence the grenade
+[2026-09-19 21:31:46] blazingskully: oml you wont let me live that down xD
+[2026-09-19 21:32:12] blazingskully: nah your fine i'm glad your making it into a joke
+[2026-09-19 21:32:31] blazingskully: id rather we treat it as smething funny than something negative ya know
+[2026-09-19 21:34:12] blazingskully: usually around 12 my time if its a normal day idk how long this one will go on for so if it ends early usually i'll let you know
+[2026-09-19 21:34:45] blazingskully: i told you this before
+[2026-09-19 21:35:11] blazingskully: falter do we need a new firmware patch? lol
+[2026-09-19 21:35:50] blazingskully: the new features this path will bring is uh you no longer fear the sun lol ray tracing is now adjustable
+[2026-09-19 21:35:56] blazingskully: patch*
+[2026-09-19 21:36:24] blazingskully: exactly tactical glasses
+[2026-09-19 21:36:56] blazingskully: sure
+[2026-09-19 21:37:23] blazingskully: i thought you would need the hellbomb for the demo force
+[2026-09-19 21:39:14] blazingskully: you know the tower has just decided fuck work lol
+[2026-09-19 21:41:12] blazingskully: i mean the bile titan is definately trying to sneeze on you
+[2026-09-19 21:41:35] blazingskully: man clearly stealth isnt real
+[2026-09-19 21:42:13] blazingskully: lol
+[2026-09-19 21:43:09] blazingskully: man i guess stealth wasnt real there either
+[2026-09-19 21:43:37] blazingskully: i remember
+[2026-09-19 21:43:45] blazingskully: and then we laughed at them
+[2026-09-19 21:46:19] blazingskully: aaand https://www.twitch.tv/falterxv/clip/ImpartialSmilingTomatoJebaited-rTBFqi5aR_LfdWgH boom Stealth, Clearly it doesnt exist Clipped by blazingskully
+[2026-09-19 21:47:18] blazingskully: that would just break the game clearly, totally
+[2026-09-19 21:49:27] blazingskully: lol thats because the turret users dont know how to use guns if you take away their turrets they'll just flop around like a fish
+[2026-09-19 21:50:09] blazingskully: man such a strange breed of randoms
+[2026-09-19 21:51:03] blazingskully: thats fair
+[2026-09-19 21:51:57] blazingskully: man towers are so hard clearly
+[2026-09-19 21:53:06] blazingskully: youd think at least one of the mechs could kill the infected towers but i guess not
+[2026-09-19 21:54:33] blazingskully: man so hard much wow
+[2026-09-19 21:56:41] blazingskully: lol the shriekers are trying to detect you but unfortunately they fail to do so
+[2026-09-19 21:59:03] blazingskully: lol foehammer is like why did you even call me then
+[2026-09-19 22:00:18] blazingskully: seaf is like stop this heresy you cant just take a terminid and call it yours
+[2026-09-19 22:02:10] blazingskully: i love that timing just "have you heard of our lord and savior?" then just blow its head off with an amr lol
+[2026-09-19 22:02:42] blazingskully: man clearly he knew what he was talking about
+[2026-09-19 22:06:10] blazingskully: https://www.twitch.tv/falterxv/clip/IncredulousSpotlessDeerTinyFace-HkVtY8JGMzAO1I1a unfortunately they have not heard of the AMR Clipped by blazingskully
+[2026-09-19 22:06:40] blazingskully: lol the bile titan was so confused
+[2026-09-19 22:08:13] blazingskully: look the bile titan was trying really hard to find you and your totally not real stealth was just too effective
+[2026-09-19 22:09:28] blazingskully: they so totally hear you
+[2026-09-19 22:10:31] blazingskully: lol clearly needed a turret
+[2026-09-19 22:12:15] blazingskully: man i could never have known stealth was not real i guess its something else making them ignore you
+[2026-09-19 22:14:07] blazingskully: lol foehammer just looking at you like "really?"
+[2026-09-19 22:14:52] blazingskully: yup totally clearly your friends and not because stealth is real or anything
+[2026-09-19 22:15:51] blazingskully: bruh just side step them and you can shoot the charger butt
+[2026-09-19 22:16:28] blazingskully: and they wonder why we laugh at them?
+[2026-09-19 22:17:31] blazingskully: i dont get it either
+[2026-09-19 22:19:23] blazingskully: lol remember the lumberer is clearly a stealth mech
+[2026-09-19 22:21:05] blazingskully: man that spore spewer was so hard you totally needed a turret to clear that objective
+[2026-09-19 22:23:28] blazingskully: its still funny though especially when your basically in the bugs face with the mech and they dont react
+[2026-09-19 22:26:09] blazingskully: man the lumberer is totally a stealth mech
+[2026-09-19 22:26:51] blazingskully: lol your just there
+[2026-09-19 22:27:55] blazingskully: i love that line "whats the covenant word for kiss my ass"
+[2026-09-19 22:29:12] blazingskully: she really is and its amazing
+[2026-09-19 22:31:38] blazingskully: lol when i use my mech i try to like squish the weak enemies by walking into them and save the ammo for the big boys like chargers and bile titans
+[2026-09-19 22:33:12] blazingskully: is ok just blame the arc grenade it was totally its fault
+[2026-09-19 22:36:03] blazingskully: man stealth just isnt real totally
+[2026-09-19 22:37:50] blazingskully: i mean the idea does sound pretty cool
+[2026-09-19 22:41:11] blazingskully: but cheating isnt justifiable
+[2026-09-19 22:42:20] blazingskully: Oh yeah I saw
+[2026-09-19 22:44:22] blazingskully: Man that nonexistent turret was totally needed
+[2026-09-19 22:46:08] blazingskully: Yeah but they don't understand that they just think that your speaking gibberish when you tell them thay
+[2026-09-19 22:46:13] blazingskully: That*
+[2026-09-19 22:48:01] blazingskully: i'm fine with whatever but either way it sounds good to me
+[2026-09-19 22:48:27] blazingskully: lol i swear your being so silly
+[2026-09-19 22:49:47] blazingskully: lol the bugs control everything clearly
+[2026-09-19 22:53:56] blazingskully: it really does
+[2026-09-19 22:55:06] blazingskully: your fine
+[2026-09-19 22:56:05] blazingskully: man much scary automabutts
+[2026-09-19 22:58:08] blazingskully: lol they just went no
+[2026-09-19 23:00:26] blazingskully: clearly the hulk just wanted a hug
+[2026-09-19 23:03:25] blazingskully: i did not know
+[2026-09-19 23:06:20] blazingskully: meanwhile factory striders just casually walk up walls like they dont exist
+[2026-09-19 23:07:36] blazingskully: man those bots can totally hear you
+[2026-09-19 23:08:48] blazingskully: man he totally saw you there
+[2026-09-19 23:11:43] blazingskully: i mean they amr body shots do go brrt tho
+[2026-09-19 23:14:37] blazingskully: i lmao that was so totlly hard
+[2026-09-19 23:15:04] blazingskully: oh no how dare they kill you
+[2026-09-19 23:15:09] blazingskully: aaand https://www.twitch.tv/falterxv/clip/ImpartialSmilingTomatoJebaited-rTBFqi5aR_LfdWgH boom
+[2026-09-19 23:15:25] blazingskully: did you tell them that shooting you was not allowed?
+[2026-09-19 23:21:49] blazingskully: it is nice
+[2026-09-19 23:29:20] blazingskully: i do find it funny when then bots try to group up and it just backfires spectacularly on them lol
+[2026-09-19 23:31:35] blazingskully: i think they were good matches too
+[2026-09-19 23:31:48] blazingskully: it goes good
+[2026-09-19 23:33:23] blazingskully: i did make something pretty cool
+[2026-09-19 23:33:52] blazingskully: there you go
+[2026-09-19 23:34:15] blazingskully: its a pal called bastigor
+[2026-09-19 23:34:37] blazingskully: i think its a bear of some kind
+[2026-09-19 23:35:42] blazingskully: i believe thats what you were working on last yeah
+[2026-09-19 23:35:57] blazingskully: i swear your being so funny
+[2026-09-19 23:36:08] blazingskully: yes
+[2026-09-19 23:38:53] blazingskully: well i am now free throat is still sore but regardless i am free wew
+[2026-09-19 23:39:00] blazingskully: i did yea
+[2026-09-19 23:39:13] blazingskully: that event was pretty cool
+[2026-09-19 23:39:13] blazingskully: https://www.twitch.tv/falterxv/clip/IncredulousSpotlessDeerTinyFace-HkVtY8JGMzAO1I1a
+[2026-09-19 23:39:38] blazingskully: currect we decided it would be shorter than usual
+[2026-09-19 23:39:42] blazingskully: correct*
+[2026-09-19 23:39:44] blazingskully: words
+[2026-09-19 23:40:18] blazingskully: lol they said too bad now i am the one with invincibility
+[2026-09-20 00:11:27] blazingskully: !lurk
+[2026-09-20 00:45:09] blazingskully: the achievements are pretty creative which i do like
