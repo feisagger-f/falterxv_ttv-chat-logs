@@ -1,0 +1,59 @@
+Streamlabs observed chat log started 2026-09-21 00:13:24
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-21 00:15:56] FalterXV: rosalie_vt
+[2026-09-21 00:17:03] FalterXV: !rules
+[2026-09-21 00:17:05] FalterXV: !commands
+[2026-09-21 00:17:06] FalterXV: !guides
+[2026-09-21 00:17:07] FalterXV: !loadout
+[2026-09-21 00:19:54] blazingskully: yea
+[2026-09-21 00:25:23] blazingskully: god some of these names are like ancient for my brain so it feels like waves of memories slowly flooding back
+[2026-09-21 00:32:04] blazingskully: right
+[2026-09-21 00:35:27] blazingskully: i mean i dont think people want to block other people online if they can help it so i get the feeling
+[2026-09-21 00:40:27] blazingskully: yeah that just sounds like a really rough aftermath but yu know given how flip acts on a daily basis it doesnt entirely surprise me thats what happened
+[2026-09-21 00:44:49] blazingskully: i mean discord be discordin
+[2026-09-21 00:46:46] blazingskully: i mean i'm pretty sure he was just jealous about the fact nobody actually liked him so it was a mindset of "If i cant be happy no one will"
+[2026-09-21 01:23:22] blazingskully: did you know english is in fact a language lol
+[2026-09-21 01:44:32] blazingskully: by the power of paper bag skull!
+[2026-09-21 01:46:11] blazingskully: the boss kind of looks like the giant statue from the last fractal
+[2026-09-21 02:22:11] blazingskully: its still a beautiful map but this boss is ridonkulous
+[2026-09-21 02:38:12] blazingskully: the boss was pretty interesting at least like i didnt hate the mechanics
+[2026-09-21 02:54:45] blazingskully: Peak silly is like 50% power
+[2026-09-21 03:14:23] blazingskully: did you know that money clearly solves everything in guild wars
+[2026-09-21 03:44:22] blazingskully: but what if and hear me out, we make an omlette with the dragon egg
+[2026-09-21 04:01:14] McAndBtdPlayer: this game looks sick
+[2026-09-21 04:01:36] McAndBtdPlayer: I've only really play osrs for mmos
+[2026-09-21 04:01:48] McAndBtdPlayer: sick! might have to try it
+[2026-09-21 04:03:10] McAndBtdPlayer: thats amazing!
+[2026-09-21 04:03:53] McAndBtdPlayer: thats a lot of money for all the expansions
+[2026-09-21 04:04:36] McAndBtdPlayer: oh nevermind. I just saw the 25 and 30 dollar ones
+[2026-09-21 04:04:48] McAndBtdPlayer: ads
+[2026-09-21 04:04:59] blazingskully: i got the heart of thorns and path of fire simply just for one specific mount and then i got addicted to the story lol
+[2026-09-21 04:06:14] McAndBtdPlayer: its estimated to finish installing in 17 hours
+[2026-09-21 04:11:14] McAndBtdPlayer: back.
+[2026-09-21 04:11:25] McAndBtdPlayer: is this a raid of some sort?
+[2026-09-21 04:12:59] McAndBtdPlayer: sick model btw
+[2026-09-21 04:14:03] McAndBtdPlayer: is tank a decent choice for a beginner?
+[2026-09-21 04:16:12] McAndBtdPlayer: I'm not very good at using abilities tbh. I entirely play old school runescape
+[2026-09-21 04:17:52] McAndBtdPlayer: is it possible to change classes without starting fresh?
+[2026-09-21 04:18:15] McAndBtdPlayer: thats a big thing for me is I don't want to get locked into a playstyle
+[2026-09-21 04:19:18] McAndBtdPlayer: ohh alright. I just don't want to have 0 to go with if I change my mind
+[2026-09-21 04:20:11] McAndBtdPlayer: I love pvp type stuff
+[2026-09-21 04:21:39] McAndBtdPlayer: is this your first character?
+[2026-09-21 04:22:24] McAndBtdPlayer: thats crazy dps
+[2026-09-21 04:23:28] McAndBtdPlayer: I really would not like that kind of pressure tbh
+[2026-09-21 04:25:51] blazingskully: i hope you had fun as well btw
+[2026-09-21 04:25:52] McAndBtdPlayer: This is a very interesting game. very different from what I'm used to
+[2026-09-21 04:26:25] blazingskully: !lurk
+[2026-09-21 04:27:24] McAndBtdPlayer: I haven't even played a traditional mmo lol
+[2026-09-21 04:28:05] McAndBtdPlayer: old school has no macroing other than prayer, spec, and gear swaps
+[2026-09-21 04:30:04] McAndBtdPlayer: I like the idea of high dps builds but I know I WILL mess up and make everyone lose
+[2026-09-21 04:30:48] McAndBtdPlayer: I mean I don't think that could save me with my skills
+[2026-09-21 04:31:53] McAndBtdPlayer: Have you ever played old school runescape? Just curious if you realize how different it is from this game lol
+[2026-09-21 04:33:45] McAndBtdPlayer: in rs you play ranged, melee, and magic. there is no dps, there is no tank, there is no healer. there are no abilities other than a special attack that only certain weapons have.
+[2026-09-21 04:34:10] McAndBtdPlayer: its based of of the 2007 engine
+[2026-09-21 04:35:11] McAndBtdPlayer: I gtg. have a great night
