@@ -1,0 +1,33 @@
+Streamlabs observed chat log started 2026-09-20 21:17:11
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-20 21:17:57] FalterXV: !rules
+[2026-09-20 21:18:04] FalterXV: !commands
+[2026-09-20 21:18:05] FalterXV: !vanguard
+[2026-09-20 21:18:10] FalterXV: !loadout
+[2026-09-20 21:18:28] blazingskully: hello dere
+[2026-09-20 21:19:01] blazingskully: wew
+[2026-09-20 21:25:58] blazingskully: boom surprise nightmare of todays episode
+[2026-09-20 22:09:46] blazingskully: welcome to bugs where the spores are heavy and the titans are big but a lack of crayons
+[2026-09-20 22:11:07] blazingskully: !lurk
+[2026-09-20 22:14:51] billybugaltor: is it open
+[2026-09-20 22:15:26] skibiditoiletfartlover: can console people join up
+[2026-09-20 22:15:43] skibiditoiletfartlover: just asking uncle
+[2026-09-20 22:16:30] skibiditoiletfartlover: i cant read im jewish
+[2026-09-20 22:57:01] blazingskully: simple? it is a jedi i am not
+[2026-09-20 23:43:39] blazingskully: noticing? thats not allowed
+[2026-09-20 23:44:49] blazingskully: did you know? your a great teammate
+[2026-09-20 23:45:18] FalterXV: did you know? you're a great speller
+[2026-09-21 00:03:16] blazingskully: did you know that turret users cant aim? its pretty mindblowing
+[2026-09-21 00:08:21] blazingskully: i cannot hear you if you are the speaking
+[2026-09-21 00:08:29] blazingskully: let me rejoin
+[2026-09-21 00:09:02] blazingskully: yeah i got it it i laughed
+[2026-09-21 00:09:17] blazingskully: i totally meant to type it twice
+[2026-09-21 00:09:26] blazingskully: ok
+[2026-09-21 00:09:51] blazingskully: its steam its always gonna auto download without permission when you least expect it
+[2026-09-21 00:10:52] blazingskully: if its still not working try maybe restarting discord fully like force stopping and everything thats like my only suggestion
+[2026-09-21 00:11:18] blazingskully: cause most of my issues i use task manager
