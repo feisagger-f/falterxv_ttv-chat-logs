@@ -1,0 +1,39 @@
+Streamlabs observed chat log started 2026-09-23 20:55:34
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-23 20:56:57] blazingskully: hello dere
+[2026-09-23 20:57:01] FalterXV: !rules
+[2026-09-23 20:57:02] FalterXV: !guides
+[2026-09-23 20:57:04] FalterXV: !loadout
+[2026-09-23 20:57:09] FalterXV: !politediver
+[2026-09-23 20:57:12] FalterXV: !rudediver
+[2026-09-23 20:57:15] FalterXV: !commands
+[2026-09-23 20:57:17] FalterXV: !vanguard
+[2026-09-23 20:57:22] FalterXV: hello hello
+[2026-09-23 21:01:49] blazingskully: i got myself some water cause water lol
+[2026-09-23 21:01:54] FalterXV: woot
+[2026-09-23 21:01:56] FalterXV: water is good doe
+[2026-09-23 21:02:26] blazingskully: thats true
+[2026-09-23 21:07:03] blazingskully: hello hello
+[2026-09-23 21:10:07] blazingskully: remember snipper snipers are amazing
+[2026-09-23 21:18:58] blazingskully: did you know that water is wet?
+[2026-09-23 21:19:07] blazingskully: mindblowing i know
+[2026-09-23 21:59:27] blazingskully: welcome to to helldivers where some divers cant aim guns and use turrets instead
+[2026-09-23 22:09:21] Chonito47: nice shooting
+[2026-09-23 22:14:25] Chonito47: are those halo mods
+[2026-09-23 22:35:49] blazingskully: man i was in fact told
+[2026-09-23 22:38:02] blazingskully: imagine if you will a commando with 8 shots
+[2026-09-23 22:49:52] 6767bigboi67420: what primary wepons name
+[2026-09-23 22:50:17] blazingskully: !rules
+[2026-09-23 23:21:48] blazingskully: https://www.twitch.tv/falterxv/clip/SmoggyAgreeableAdminHassanChop-O1wRRPzOPd11dXXb Man Arc Grenades clearly need a buff right guys? Clipped by blazingskully
+[2026-09-23 23:22:40] blazingskully: nerk?
+[2026-09-23 23:24:23] blazingskully: lol but what if they did
+[2026-09-24 00:06:03] blazingskully: look at that tank, that tank is amazing
+[2026-09-24 00:13:22] blazingskully: 2 wars guild
+[2026-09-24 00:15:32] blazingskully: did you know
+[2026-09-24 00:23:35] blazingskully: dyes are pretty fun this much is just facts
+[2026-09-24 00:52:05] blazingskully: did you know theres this amazing person named FalterXV?
