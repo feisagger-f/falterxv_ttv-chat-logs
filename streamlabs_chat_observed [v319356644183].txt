@@ -1,0 +1,19 @@
+Streamlabs observed chat log started 2026-09-26 00:36:02
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-26 00:38:07] FalterXV: !rules
+[2026-09-26 00:38:08] FalterXV: !guides
+[2026-09-26 00:38:11] FalterXV: !loadout
+[2026-09-26 00:38:12] FalterXV: !lurk
+[2026-09-26 00:38:14] FalterXV: !vanguard
+[2026-09-26 00:38:16] FalterXV: !commands
+[2026-09-26 00:38:27] blazingskully: i am ready
+[2026-09-26 00:57:22] tekno_witch: !lurk
+[2026-09-26 01:22:58] blazingskully: https://www.twitch.tv/falterxv/clip/UnsightlyVenomousRaccoonBigBrother-vwXEG6xLJp9rPMwR 250 meter shot in a blizzard on a gunship Clipped by blazingskully
+[2026-09-26 02:06:51] blazingskully: he must have been under the impression you were blind
+[2026-09-26 02:06:56] blazingskully: like oml
+[2026-09-26 02:23:15] blazingskully: why does a heavy need to cheat thats just wow
