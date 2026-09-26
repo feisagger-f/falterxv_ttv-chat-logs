@@ -1,0 +1,33 @@
+Streamlabs observed chat log started 2026-09-25 20:45:00
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-25 20:45:25] FalterXV: !guides
+[2026-09-25 20:45:40] FalterXV: !loadout
+[2026-09-25 20:45:46] FalterXV: !vanguard
+[2026-09-25 20:45:47] FalterXV: !commands
+[2026-09-25 20:45:48] FalterXV: !lurk
+[2026-09-25 20:45:51] blazingskully: Hello dere it is me the one and only blazingskully
+[2026-09-25 21:07:52] blazingskully: all hail the halo music
+[2026-09-25 21:08:29] FalterXV: yes
+[2026-09-25 21:09:33] blazingskully: bruh the halo music is not working
+[2026-09-25 21:12:30] blazingskully: omg it was so funny
+[2026-09-25 21:18:35] blazingskully: did you know that grass is green? pretty crazy i know
+[2026-09-25 21:23:34] blazingskully: the halo music is always fun to vibe to ngl
+[2026-09-25 21:33:54] blazingskully: idk why he gave orders to begin with like what ground did he have to stand on for that
+[2026-09-25 21:38:59] blazingskully: hey falter guess what
+[2026-09-25 22:20:56] blazingskully: you know i heard that not typing helps with moving
+[2026-09-25 22:21:07] blazingskully: its a pretty mindblowing fact
+[2026-09-25 22:35:22] blazingskully: this is a pretty crazy lookin fractal
+[2026-09-25 22:36:50] blazingskully: such a sassy ai voice lol
+[2026-09-25 22:47:15] blazingskully: correct
+[2026-09-25 22:56:28] blazingskully: imagine walking past a sylvari and thats what you hear lol
+[2026-09-25 23:29:52] blazingskully: yea
+[2026-09-25 23:33:31] blazingskully: i think we'll have marfark done because we're gamers
+[2026-09-25 23:37:44] blazingskully: gotta get them keys
+[2026-09-25 23:52:23] blazingskully: lol
+[2026-09-25 23:59:30] blazingskully: but did you know
+[2026-09-26 00:09:48] blazingskully: hey guess what
