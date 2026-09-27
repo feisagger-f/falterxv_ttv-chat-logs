@@ -1,0 +1,224 @@
+Streamlabs observed chat log started 2026-09-26 20:58:55
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-26 20:59:30] blazingskully: hello dere
+[2026-09-26 20:59:51] FalterXV: hi hi
+[2026-09-26 21:03:49] FalterXV: how goes your day?
+[2026-09-26 21:04:38] blazingskully: so far so good
+[2026-09-26 21:04:51] FalterXV: woot woot
+[2026-09-26 21:04:58] FalterXV: They're having a sperg out on reddit again, kek
+[2026-09-26 21:05:00] FalterXV: They're so mad
+[2026-09-26 21:05:10] blazingskully: lol
+[2026-09-26 21:07:45] FalterXV: Flip trying so hard to get my attention on his cheesecake alt is hilarious to me
+[2026-09-26 21:08:08] blazingskully: i mean its hard not to laugh at it soooo lol
+[2026-09-26 21:09:05] blazingskully: its basically like a what is todays reason they are crying and what mousekatool will solve the issue
+[2026-09-26 21:10:29] blazingskully: just all the big brains
+[2026-09-26 21:11:58] blazingskully: gotta keep them glasses clean ya know
+[2026-09-26 21:12:36] blazingskully: pretty good yea
+[2026-09-26 21:12:56] blazingskully: ended up nerding out a little about our shared knowledge of ff
+[2026-09-26 21:13:18] blazingskully: Final fantasy
+[2026-09-26 21:13:49] blazingskully: it started on 7 then we went down a rabbit hole
+[2026-09-26 21:15:08] blazingskully: still so far everything has been going good
+[2026-09-26 21:17:44] blazingskully: you have to?
+[2026-09-26 21:17:47] blazingskully: i knew it
+[2026-09-26 21:18:29] blazingskully: i mean i'm not arguing against it
+[2026-09-26 21:18:55] blazingskully: uhhh maybe rn its still a wait and see
+[2026-09-26 21:19:14] blazingskully: oml xD
+[2026-09-26 21:19:49] blazingskully: i know you could see it but i pointed at my screen like listen here you i know you like being silly but you know what i meant lol
+[2026-09-26 21:19:54] blazingskully: couldnt*
+[2026-09-26 21:20:24] blazingskully: bruh the double detectors the bots are angery today lol
+[2026-09-26 21:22:32] blazingskully: i still think its wild that two towers spawned on the map unless one is a fortress
+[2026-09-26 21:25:24] blazingskully: i still have no idea if moving all 5 shells to the artillery area is the fastest way to complete the side objective
+[2026-09-26 21:26:01] blazingskully: yeah that does seem stupid
+[2026-09-26 21:26:15] blazingskully: bruh
+[2026-09-26 21:26:22] blazingskully: why the quasar
+[2026-09-26 21:28:19] blazingskully: i still will never understand the quasar picks
+[2026-09-26 21:30:42] blazingskully: i give the quasar user like 2 or 3 more minutes before something happens i can sense it in my bones lol
+[2026-09-26 21:33:19] blazingskully: bruh tf
+[2026-09-26 21:34:12] blazingskully: i find it dumb they didnt even ask to call resupply they just assumed
+[2026-09-26 21:35:35] blazingskully: bruh how i can get it done with a rock basically
+[2026-09-26 21:39:45] blazingskully: the explosion as you killed the missile dev was so well timed
+[2026-09-26 21:42:26] blazingskully: just the big dumb title
+[2026-09-26 21:43:33] blazingskully: i mean i struggle with a single fab but thats if you know my grenade pistol doesnt cooperate and go in the vents lol
+[2026-09-26 21:44:32] blazingskully: i'm going with kill
+[2026-09-26 21:48:36] blazingskully: i mean as far as i can see most of these objectives are not that hard in retrospect
+[2026-09-26 21:51:55] blazingskully: but they wont thank you
+[2026-09-26 21:52:02] blazingskully: because they're stubborn
+[2026-09-26 21:52:18] blazingskully: i dont they they deserve it
+[2026-09-26 21:55:37] blazingskully: lol the hulk tried to just walk towards you
+[2026-09-26 21:55:41] blazingskully: https://www.twitch.tv/falterxv/clip/GracefulBlushingVampireHassaanChop-qY6Zbm5Y0-Of7Cwf Bye-Bye chaos Diver Clipped by blazingskully
+[2026-09-26 21:57:22] blazingskully: lol the shredder is like i can sense a falter over here but my boolets they hit nothing
+[2026-09-26 22:00:54] blazingskully: lol just the instant no
+[2026-09-26 22:02:05] blazingskully: lol man that mission was so difficult you totally needed that turret right?
+[2026-09-26 22:05:43] blazingskully: lol all hail the seaf but mostly stimothy
+[2026-09-26 22:07:42] blazingskully: i mean still all hail stimothy tho
+[2026-09-26 22:15:13] blazingskully: lol in the distance just incoming fire
+[2026-09-26 22:21:12] blazingskully: hey falter did you know
+[2026-09-26 22:22:17] blazingskully: yeah still going good
+[2026-09-26 22:22:39] blazingskully: i showed them i had gotten into ultrakill and also told them about my new addiction to guild wars 2 lol
+[2026-09-26 22:23:55] blazingskully: they are happy they also said they used to play it but then because they didnt have people to play it with they sorta stopped
+[2026-09-26 22:25:18] blazingskully: i mean if i can convince them i will invite them whenever they have time if that is of interest
+[2026-09-26 22:26:00] blazingskully: blame helldivers lol
+[2026-09-26 22:31:15] blazingskully: its the final verdict
+[2026-09-26 22:34:22] blazingskully: ngl the verdict does seem pretty useful the more i see it in action
+[2026-09-26 22:37:07] blazingskully: yeah it is
+[2026-09-26 22:39:44] blazingskully: lol they wont make it make sense
+[2026-09-26 22:45:13] blazingskully: also i do not think they play diver divers
+[2026-09-26 22:54:01] blazingskully: yep
+[2026-09-26 22:57:35] blazingskully: to be fair i dont think they try to hide the anger
+[2026-09-26 22:57:39] blazingskully: its funny tho
+[2026-09-26 22:58:43] blazingskully: i think the funnier part is turret users trying and failing to do basic missions lol
+[2026-09-26 22:58:51] SirGameWatch: awawawa hewwo lots of love
+[2026-09-26 22:59:50] blazingskully: i think thats like the newest one i've seen join
+[2026-09-26 23:00:21] FalterXV: https://steamcommunity.com/profiles/76561197992785962
+[2026-09-26 23:01:24] blazingskully: ah well for me its new
+[2026-09-26 23:04:30] blazingskully: i keep forgetting the amr can kill shrieker nests
+[2026-09-26 23:05:23] blazingskully: yea
+[2026-09-26 23:06:20] blazingskully: lol i still love that meme
+[2026-09-26 23:08:26] blazingskully: bruh i barely even saw who called in that 500kg unless that was a hellbomb
+[2026-09-26 23:10:59] blazingskully: thats dumb that they need to bring it
+[2026-09-26 23:12:41] blazingskully: lol the fact he got himself got is funny
+[2026-09-26 23:17:36] blazingskully: https://www.twitch.tv/falterxv/clip/BitterDeafChamoisBlargNaut-7LVmnAkRP6NaAMLc there we go 2 v 1 and they still failed to win Clipped by blazingskully
+[2026-09-26 23:24:06] blazingskully: i think i missed the strafing run clip but i can grab it later if you want
+[2026-09-26 23:29:26] blazingskully: why would he not bring a support weapon thats what i wanna know
+[2026-09-26 23:30:05] blazingskully: bruh thats not efficient at all what if they're fighting bugs in a city
+[2026-09-26 23:33:04] blazingskully: right
+[2026-09-26 23:34:26] blazingskully: i mean b4 has a turret so already that screams i cant aim
+[2026-09-26 23:34:58] blazingskully: man i never saw that coming totally
+[2026-09-26 23:37:13] blazingskully: i mean thats understandable so i dont blame you
+[2026-09-26 23:38:13] blazingskully: that is an insane amount of fire
+[2026-09-26 23:39:25] blazingskully: i mean thats not a surprise that they dont know
+[2026-09-26 23:40:49] blazingskully: i mean i'm not even surprised he ran
+[2026-09-26 23:43:24] blazingskully: that is just insane like even you know i could clear it in a faster time than he did
+[2026-09-26 23:46:59] blazingskully: at this point you basically carried them
+[2026-09-26 23:48:36] blazingskully: i lmao
+[2026-09-26 23:49:43] blazingskully: i mean i also found it hilarious sooo lol
+[2026-09-26 23:50:37] FalterXV: and let me know if you hear the music
+[2026-09-26 23:50:39] blazingskully: https://www.twitch.tv/falterxv/clip/GracefulBlushingVampireHassaanChop-qY6Zbm5Y0-Of7Cwf
+[2026-09-26 23:51:37] blazingskully: i do not hear the music
+[2026-09-26 23:51:47] FalterXV: really?
+[2026-09-26 23:51:47] FalterXV: damn
+[2026-09-26 23:51:54] blazingskully: i'm not sure why its not audible on this screen
+[2026-09-26 23:51:55] FalterXV: what about now?
+[2026-09-26 23:52:22] blazingskully: there we go
+[2026-09-26 23:52:36] FalterXV: had to move it down a layer and unhide it
+[2026-09-26 23:52:39] FalterXV: stupid fix
+[2026-09-26 23:52:48] blazingskully: ah
+[2026-09-27 00:02:05] blazingskully: just got myself some water wew
+[2026-09-27 00:03:35] FalterXV: wew
+[2026-09-27 00:04:59] blazingskully: welcome back
+[2026-09-27 00:05:19] blazingskully: i think its quiet
+[2026-09-27 00:05:34] blazingskully: try putting it how it was before
+[2026-09-27 00:06:14] blazingskully: like i hear the ship music but not the actual music
+[2026-09-27 00:06:33] blazingskully: its time? lets go
+[2026-09-27 00:07:44] blazingskully: make him pay make him bleed lol
+[2026-09-27 00:08:45] blazingskully: and the survey says?
+[2026-09-27 00:09:44] blazingskully: cue the dramatic piano
+[2026-09-27 00:13:46] blazingskully: lets go
+[2026-09-27 00:14:44] blazingskully: i think i got it in time i'm checking rn
+[2026-09-27 00:17:47] blazingskully: i got the back to back one but i think i missed the first my mouse slows down like crazy when a game is open i think i have a pc update so i'll have to do that later tonight
+[2026-09-27 00:18:34] blazingskully: https://www.twitch.tv/falterxv/clip/BillowingFragilePterodactylDBstyle-52SYqP3J_8WhBE3V Its a Twofer a terrible twofer! When the greifers dont learn their lesson Clipped by blazingskully
+[2026-09-27 00:18:45] blazingskully: i thought the title name was funny lol
+[2026-09-27 00:19:50] blazingskully: i thought it was impressive yea
+[2026-09-27 00:23:07] blazingskully: id guess a lair as well
+[2026-09-27 00:23:41] blazingskully: i mean halo battle rifle go brrt
+[2026-09-27 00:24:16] blazingskully: bruh he is not being sneaky after that question mark
+[2026-09-27 00:26:34] blazingskully: again why a quasar like i know its because they dont know how to gun but still
+[2026-09-27 00:29:40] blazingskully: i didnt know that
+[2026-09-27 00:31:11] blazingskully: bruh that is amazing
+[2026-09-27 00:32:13] blazingskully: all right
+[2026-09-27 00:32:13] SirGameWatch: message deleted by a moderator.
+[2026-09-27 00:32:58] blazingskully: i do
+[2026-09-27 00:33:17] blazingskully: i also love the curse halo version which just turns it into a bottomless mag lol
+[2026-09-27 00:36:08] blazingskully: i forgot bile titants can hurt when falling on you
+[2026-09-27 00:38:41] blazingskully: bruh that alpha did not want to go down
+[2026-09-27 00:41:03] blazingskully: i swear the dare voicelines are amazing
+[2026-09-27 00:42:26] blazingskully: youd think but yet here we are
+[2026-09-27 00:44:28] blazingskully: https://www.twitch.tv/falterxv/clip/PreciousApatheticSardineTwitchRaid-pM8xalZkIAs3zwkm Asking the important questions to the chaos divers Clipped by blazingskully
+[2026-09-27 00:44:58] blazingskully: my favorite line i heard dare say is the "whats the covenant word for kiss my ass?" lol
+[2026-09-27 00:45:47] blazingskully: i mean could they ever to begin with i think thats the important question
+[2026-09-27 00:46:52] blazingskully: one day
+[2026-09-27 00:49:09] blazingskully: i mean i'm glad your proud of me in automaton space and you know i thank you for teaching me a lot of this stuff
+[2026-09-27 00:49:36] blazingskully: https://www.twitch.tv/falterxv/clip/BitterDeafChamoisBlargNaut-7LVmnAkRP6NaAMLc there we go
+[2026-09-27 00:56:20] Horizyns: Maybe take your game off public if you dont want people joining you
+[2026-09-27 00:56:30] Horizyns: actual brain dead
+[2026-09-27 00:58:20] blazingskully: they tried so hard i'm just laughing
+[2026-09-27 00:59:26] blazingskully: it wouldnt surprise me
+[2026-09-27 01:01:15] blazingskully: lol in what way were you racist though like that confuses me
+[2026-09-27 01:04:51] blazingskully: i mean i use supply pack but at least its for something reasonable i.e my guns are very non ammo friendly
+[2026-09-27 01:06:39] blazingskully: i mean the fact he acted the way he did already was a red flag
+[2026-09-27 01:09:13] blazingskully: i mean if anything what i want to know was like what was the end goal when they bring the loadouts they do like are they just spraying and praying that their red will kill the heavies for them or even their turrets or what
+[2026-09-27 01:13:41] blazingskully: literally
+[2026-09-27 01:14:26] blazingskully: i'm honestly more surprised that every bug planet hasnt been lost yet given how inefficient the other bug divers are
+[2026-09-27 01:17:17] FalterXV: !so @Horizyns
+[2026-09-27 01:17:49] FalterXV: @random125421
+[2026-09-27 01:17:50] blazingskully: yeah i recognize it
+[2026-09-27 01:20:20] FalterXV: @shadow_man1342
+[2026-09-27 01:20:41] blazingskully: bruh they are really trying
+[2026-09-27 01:22:40] blazingskully: oh yeah i've literally tried the stalwart when i started and i struggled against a lot of things past early difficulty
+[2026-09-27 01:22:46] FalterXV: !so @cole12442
+[2026-09-27 01:23:20] FalterXV: !so @themegapupsik
+[2026-09-27 01:24:44] blazingskully: its insane seeing how mad they are but also funny because i mean how can i not laugh
+[2026-09-27 01:25:08] blazingskully: i saw
+[2026-09-27 01:26:50] blazingskully: literally no wonder
+[2026-09-27 01:28:38] blazingskully: imagine if all the energy bug divers use to grief was used to help with automatons
+[2026-09-27 01:30:03] blazingskully: clown town i love that lol
+[2026-09-27 01:31:53] blazingskully: man you totally need a stalwart or a turret for this right?
+[2026-09-27 01:35:44] blazingskully: man that strider its so scary you totally need a stalwart for that
+[2026-09-27 01:37:49] blazingskully: lol the billybob looking down like is that a falter there?
+[2026-09-27 01:39:59] blazingskully: man that base down there? better call down a turret
+[2026-09-27 01:43:56] blazingskully: https://www.twitch.tv/falterxv/clip/BillowingFragilePterodactylDBstyle-52SYqP3J_8WhBE3V
+[2026-09-27 01:44:42] blazingskully: hmmm
+[2026-09-27 01:45:39] blazingskully: i'm not even surprised
+[2026-09-27 01:47:36] blazingskully: i mean at the very least they're outing themselves so makes it that much easier to spot
+[2026-09-27 01:49:23] blazingskully: well i also thought it was funny so there
+[2026-09-27 01:52:06] blazingskully: lol the explosion as he fell over that almost made me choke on my water
+[2026-09-27 01:54:25] blazingskully: right i mean even so i still think you did pretty good
+[2026-09-27 01:55:12] blazingskully: well i think you did fine given the greifers and everything
+[2026-09-27 01:57:17] blazingskully: why cant smonk work all the time thats the real question
+[2026-09-27 02:01:23] blazingskully: lol the eagle pilot being sassy i love that
+[2026-09-27 02:01:44] blazingskully: lol stealth is totally not real yep totally
+[2026-09-27 02:05:31] blazingskully: ragdoll is so scary at times i swear
+[2026-09-27 02:08:52] blazingskully: bruh the amount of automabutts is getting insane
+[2026-09-27 02:10:04] blazingskully: it absolutely is
+[2026-09-27 02:10:38] blazingskully: https://www.twitch.tv/falterxv/clip/PreciousApatheticSardineTwitchRaid-pM8xalZkIAs3zwkm
+[2026-09-27 02:13:51] blazingskully: i would expect like no booster for someone just starting but not a level 85
+[2026-09-27 02:16:26] blazingskully: i dont think they even know themselves
+[2026-09-27 02:17:05] blazingskully: lol it was a council meeting of the devastators of the rock
+[2026-09-27 02:18:32] blazingskully: how dare your orbital miss
+[2026-09-27 02:20:31] blazingskully: they think they see a falter though
+[2026-09-27 02:23:29] Horizyns: message deleted by a moderator.
+[2026-09-27 02:24:31] blazingskully: yeah you are
+[2026-09-27 02:24:35] blazingskully: and it does help
+[2026-09-27 02:24:55] blazingskully: i still love i can treat them like tormentors though
+[2026-09-27 02:30:33] blazingskully: lol the warstrider was just enjoying a walk and then dead
+[2026-09-27 02:33:48] blazingskully: lol he said so therefore its true clearly
+[2026-09-27 02:34:27] yametekudasaidane: my friend helldivers 2
+[2026-09-27 02:34:41] yametekudasaidane: somos 11k helldivers estamos en bahia
+[2026-09-27 02:34:54] yametekudasaidane: 72% para terminar ese planeta
+[2026-09-27 02:35:21] blazingskully: bruh i understood like none of that
+[2026-09-27 02:37:43] blazingskully: it must have been super hard clearly
+[2026-09-27 02:38:37] blazingskully: lol thats funny
+[2026-09-27 02:40:12] blazingskully: lol that would have been even funnier
+[2026-09-27 02:44:32] blazingskully: the warstrider was like but there was a falter there
+[2026-09-27 02:47:45] blazingskully: lol the turret billybob was like if i stare over here i will witness the mythical falter and then the wind kills him
+[2026-09-27 02:49:31] blazingskully: he really was an asshole but its ok because karma
+[2026-09-27 02:53:49] BoyMeetsTopanga: Bro this is a bad look ngl
+[2026-09-27 02:54:13] blazingskully: in what way is it a badlook
+[2026-09-27 02:54:43] BoyMeetsTopanga: Just like move on this is not a good look tbh
+[2026-09-27 02:54:55] FalterXV: !rules
+[2026-09-27 02:55:14] blazingskully: if your upset about the outcome you could have made your own lobby you didnt HAVE to join the current lobby
+[2026-09-27 02:55:52] blazingskully: he's the dead one
+[2026-09-27 02:56:28] FalterXV: !guides
+[2026-09-27 02:58:28] blazingskully: i dont understand what his line of thinking was there like in what way were you upset?
+[2026-09-27 02:58:34] BoyMeetsTopanga: I thought your tag said safe space i don't feel too safe rn
+[2026-09-27 03:01:36] blazingskully: even i know the lobby rules
+[2026-09-27 03:05:57] blazingskully: your not wrong no
+[2026-09-27 03:06:32] blazingskully: the fact he came here to whine i dont think he knows
+[2026-09-27 03:09:32] blazingskully: i'll never understand some people
+[2026-09-27 03:14:17] blazingskully: but even then they still whine about like you know oh its so unfair i was kicked for my behavior
+[2026-09-27 03:24:30] blazingskully: !lurk
