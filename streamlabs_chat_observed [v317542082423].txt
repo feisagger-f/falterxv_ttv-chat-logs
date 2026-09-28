@@ -1,0 +1,55 @@
+Streamlabs observed chat log started 2026-09-27 20:35:04
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-27 20:39:29] blazingskully: hello dere
+[2026-09-27 20:40:17] FalterXV: hello hello
+[2026-09-27 20:40:18] FalterXV: !rules
+[2026-09-27 20:40:19] FalterXV: !guides
+[2026-09-27 20:40:22] FalterXV: !ladout
+[2026-09-27 20:40:25] FalterXV: !loadout
+[2026-09-27 20:40:49] FalterXV: !vanguard
+[2026-09-27 20:40:50] FalterXV: !commands
+[2026-09-27 20:51:01] blazingskully: it was that simple i knew it
+[2026-09-27 21:23:49] overlook2306: Can I ask you for some tips how to play helldivers better I just started today if that's not me asking too much
+[2026-09-27 21:24:10] FalterXV: !giudes
+[2026-09-27 21:24:20] overlook2306: Just like general stuff but what would just be good to know
+[2026-09-27 21:27:49] overlook2306: Thank you very much I have no joke then playing this game like I played doom and it's been working out okay
+[2026-09-27 21:28:41] overlook2306: I've been playing helldivers like I play Doom and it's been working out decent
+[2026-09-27 21:29:35] blazingskully: just turned on my fan cause hot lol
+[2026-09-27 21:30:50] blazingskully: waiting lol
+[2026-09-27 21:41:57] blazingskully: lol
+[2026-09-27 22:22:18] blazingskully: i got dieded pretty hard with missiles and cannons galore
+[2026-09-27 22:25:18] blazingskully: i just need to go in guns blazing
+[2026-09-27 22:36:13] blazingskully: wheres this version of the song xD
+[2026-09-27 22:41:13] blazingskully: Got an update as I was restarting but it's booting up now so wew
+[2026-09-27 22:42:36] blazingskully: Yeah I saw that was satisfying
+[2026-09-27 22:44:20] blazingskully: sorry
+[2026-09-27 22:50:23] blazingskully: welcome to helldivers where sometimes the game just just says no lol
+[2026-09-27 23:07:54] blazingskully: welcome to internet land where everything is unexpected
+[2026-09-27 23:32:28] blazingskully: hulk was like i deny this
+[2026-09-27 23:53:59] blazingskully: remember when tank mad tell them cease lol
+[2026-09-28 00:42:31] DazzlingPupAlice: Hello everydiver! Ọ¡ salute to super earth! I bring jokes and rumors that are confirmed to be true by the ministry of truth about General Brasch
+[2026-09-28 00:42:56] DazzlingPupAlice: I heard General Brasch replaced his Hellpod with Surf boards on his personal Super Destroyer
+[2026-09-28 00:43:24] DazzlingPupAlice: General Braschs Primary is a Orbital strike canon, his secondary is a Quasar, his grenade is a 500kg bomb
+[2026-09-28 01:07:39] blazingskully: welcome to the helldivers how was the kills
+[2026-09-28 01:09:47] blazingskully: the stimp stomper
+[2026-09-28 01:18:59] blazingskully: in the game but also on the stream?
+[2026-09-28 01:31:12] RonaldRaygunMKII: hey man I was the dude with the flag I’m sorry to bother I just thought it would be useful to relieve swarms of of my teammates I’m sorry man no disrespect I hope you have fun
+[2026-09-28 01:57:42] the_credible_bulk: HELLO PUNY DIVER ME BULK
+[2026-09-28 01:57:44] the_credible_bulk: !JOIN
+[2026-09-28 01:58:02] the_credible_bulk: WAIT BULK BEEN HERE BEFORE
+[2026-09-28 01:58:10] the_credible_bulk: BULK FORGOT AGHAGHAGH
+[2026-09-28 01:58:25] the_credible_bulk: OR NOT YOU SAID YOU REMEMBER BULK
+[2026-09-28 01:58:38] the_credible_bulk: THIS HOW BULK TALK
+[2026-09-28 01:58:42] the_credible_bulk: BULK TALK GOOD
+[2026-09-28 01:59:06] the_credible_bulk: BULK DID FOLLOW
+[2026-09-28 01:59:07] blazingskully: https://www.twitch.tv/falterxv/clip/FaintUgliestNuggetsOSsloth-G-4d3CHmFz-qYjfq The Long Shot of truth Clipped by blazingskully
+[2026-09-28 01:59:11] the_credible_bulk: OH WHOOPSIE
+[2026-09-28 01:59:14] the_credible_bulk: DID NOT SEE NEEDED TO AGREE
+[2026-09-28 01:59:24] the_credible_bulk: THAT OK BYE BYE
+[2026-09-28 02:03:14] overlook2306: message deleted by a moderator.
+[2026-09-28 02:15:57] blazingskully: well you know what
