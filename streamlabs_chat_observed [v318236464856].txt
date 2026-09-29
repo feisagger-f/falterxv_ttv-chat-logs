@@ -1,0 +1,74 @@
+Streamlabs observed chat log started 2026-09-28 21:28:01
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-28 21:29:54] blazingskully: hello dere tis i Skully of the blazing
+[2026-09-28 21:30:25] FalterXV: hello
+[2026-09-28 21:30:33] FalterXV: dost thou likest bardest halo core, good sir
+[2026-09-28 21:30:35] FalterXV: toodle pip
+[2026-09-28 21:30:39] FalterXV: !rules
+[2026-09-28 21:30:41] FalterXV: !guides
+[2026-09-28 21:30:47] FalterXV: !vanguard
+[2026-09-28 21:30:48] FalterXV: !commands
+[2026-09-28 21:30:51] FalterXV: !loadout
+[2026-09-28 21:30:53] FalterXV: !lurk
+[2026-09-28 21:31:15] blazingskully: i do liketh the halo core lol
+[2026-09-28 21:31:34] FalterXV: dost thouest parkatheth in the haloest of cores?
+[2026-09-28 21:31:59] FalterXV: wilst thouest divest withest me'est in the helldiverest twoest?
+[2026-09-28 21:32:02] FalterXV: that is actually hard to type
+[2026-09-28 21:32:02] FalterXV: XD
+[2026-09-28 21:32:17] blazingskully: but in all seriousness i do like it the music is great
+[2026-09-28 21:32:25] FalterXV: thouest?
+[2026-09-28 21:32:36] blazingskully: lol
+[2026-09-28 21:34:48] blazingskully: i like how i'm watching a lot of new releases come out in gaming and i'm just sitting in my chair like "where my red war destiny?" lol
+[2026-09-28 22:38:36] blazingskully: a;ways remember
+[2026-09-28 22:38:42] blazingskully: always*
+[2026-09-28 23:05:54] blazingskully: wah wah lol
+[2026-09-28 23:27:25] blazingskully: https://www.twitch.tv/falterxv/clip/AssiduousSlickAppleOSkomodo-g2UtQfumnZ4X7KTS rhuntinghelldivers tries and fails to gank and pays for it Clipped by blazingskully
+[2026-09-28 23:34:48] psychowomba7: Is that in deference for darkness i hear
+[2026-09-28 23:35:20] FalterXV: https://www.nexusmods.com/helldivers2/mods/10300
+[2026-09-28 23:35:41] psychowomba7: That's what im talking bout. My steam name has been rookie for the longest time
+[2026-09-28 23:36:18] psychowomba7: You're a hero
+[2026-09-28 23:36:57] psychowomba7: 😂😂😂 look I got recon when vindicator first came out many moons ago😤
+[2026-09-28 23:37:07] psychowomba7: Fair nuff
+[2026-09-28 23:37:41] psychowomba7: Im 100% installing that
+[2026-09-28 23:38:02] psychowomba7: Vidmaster. Not vidicator😂
+[2026-09-28 23:38:07] FalterXV: https://www.nexusmods.com/helldivers2/mods/15066
+[2026-09-28 23:39:01] blazingskully: https://www.twitch.tv/falterxv/clip/MoistGleamingTroutBudStar-ZfSDeDSW6B1v7tTu Killing a factory strider from 50 meters away stealth isnt real guys clearly Clipped by blazingskully
+[2026-09-28 23:41:57] psychowomba7: AND GURREN LAGAAN. You'll get my next prime sub. Currently you're my background twitch while I got to bed. Ima lurk but ill be back🫡
+[2026-09-29 00:10:29] shanelamboglia: hey…it’s flip
+[2026-09-29 00:10:47] shanelamboglia: yes
+[2026-09-29 00:11:06] shanelamboglia: can we talk?
+[2026-09-29 00:12:21] shanelamboglia: ryon and I want to talk
+[2026-09-29 00:36:46] blazingskully: welcome to the termanids how was the free oil lol
+[2026-09-29 01:21:52] blazingskully: well guess what
+[2026-09-29 01:21:56] blazingskully: your also amazing
+[2026-09-29 01:41:53] FalterXV: https://www.psntools.com/psn/checker/Navy_Nipe
+[2026-09-29 01:45:18] blazingskully: super simple
+[2026-09-29 02:01:35] DeDumChee: Hey hey, how're the dives going?
+[2026-09-29 02:02:20] DeDumChee: Automod? idk what was sus in there
+[2026-09-29 02:02:23] DeDumChee: Went well! I'm just wrapping up for the evening. Was running some chill bot 10s
+[2026-09-29 02:02:42] DeDumChee: I run jump pack quasar and then 1 eagle and 1 orbital usually
+[2026-09-29 02:03:25] DeDumChee: I swap it out for the commando sometimes but I like being able to kite with it instead of having to call in a new one
+[2026-09-29 02:03:32] DeDumChee: I'm strictly light medic armor
+[2026-09-29 02:04:24] DeDumChee: jump pack means kiting entire patrols is easy, so quasar means I'm never without one. And nah not learning, just my preferred play style. Quick in/out pokes
+[2026-09-29 02:05:16] DeDumChee: I like the medic armor cause the extra stims but also the stim duration so I can take a stim before I take damage to fine tune HP
+[2026-09-29 02:05:27] DeDumChee: I run duos, trios, quads whatever
+[2026-09-29 02:06:45] DeDumChee: Nah I don't solo much, why play the coop game solo
+[2026-09-29 02:10:11] DeDumChee: Back from ads I joined in the middle of your rant, what's the history of why you treat so many loadouts as hostile?
+[2026-09-29 02:11:31] DeDumChee: What? no LMAO I host lobbies all the time
+[2026-09-29 02:11:56] DeDumChee: No??? HUGE assumptions here
+[2026-09-29 02:12:50] DeDumChee: I have 2 other weapons? I don't need to wait for a quasar shot
+[2026-09-29 02:13:12] DeDumChee: I'm just going to step out, I hope your games go well and you have the day you deserve
+[2026-09-29 02:40:48] lightchicken51: Howdy man
+[2026-09-29 02:41:26] lightchicken51: ??
+[2026-09-29 02:41:43] blazingskully: ??
+[2026-09-29 02:41:46] lightchicken51: Dude relax
+[2026-09-29 02:41:53] lightchicken51: Just chilling
+[2026-09-29 02:42:11] lightchicken51: I’m 104 what?
+[2026-09-29 02:42:53] lightchicken51: Not really
+[2026-09-29 02:43:28] lightchicken51: Dude why are you mad
+[2026-09-29 02:45:30] blazingskully: in what way are they mad like wanna explain that chief?
