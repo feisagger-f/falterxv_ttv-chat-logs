@@ -1,0 +1,31 @@
+Streamlabs observed chat log started 2026-09-30 18:08:52
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-09-30 18:27:43] blazingskully: welcome to the forest how are the ewoks lol
+[2026-09-30 19:20:01] FalterXV: !solos
+[2026-09-30 19:20:05] FalterXV: !lurk
+[2026-09-30 19:37:49] blazingskully: bruh lol
+[2026-09-30 19:47:10] FalterXV: https://steamcommunity.com/id/gracedmarcus1/
+[2026-09-30 19:49:45] blazingskully: i am back
+[2026-09-30 19:50:18] blazingskully: bruh
+[2026-09-30 19:57:14] blazingskully: its funny seeing them think privating a account like that makes them safe
+[2026-09-30 19:59:30] novel_patriot: wtf LOL
+[2026-09-30 19:59:40] novel_patriot: hahahahah\
+[2026-09-30 20:01:27] blazingskully: its not defamation if its true
+[2026-09-30 20:08:20] blazingskully: right
+[2026-09-30 20:11:32] blazingskully: because destiny says you need to do onslaught
+[2026-09-30 20:42:07] blazingskully: welcome to outer space what flavor of pain would you like lol
+[2026-09-30 21:20:53] blazingskully: darn lol
+[2026-09-30 21:29:43] blazingskully: we're both gamers
+[2026-09-30 21:37:27] blazingskully: hello lol
+[2026-09-30 22:06:04] blazingskully: welcome to guild wars where funny things can happen
+[2026-09-30 22:46:57] blazingskully: guild wars is so fun ngl
+[2026-09-30 23:29:25] blazingskully: remember when fighting enemies with wings use guns because as everyone knows all birds are weak to guns
+[2026-10-01 00:02:04] blazingskully: well the enemies are nerds Gottem
+[2026-10-01 00:36:28] blazingskully: consume the food lol
+[2026-10-01 00:40:17] blazingskully: Squirt of lemon
+[2026-10-01 01:50:47] blazingskully: it has spread across the screens lol
