@@ -1,0 +1,360 @@
+Streamlabs observed chat log started 2026-10-01 21:13:19
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-01 21:13:48] FalterXV: !rules
+[2026-10-01 21:14:02] FalterXV: !guides
+[2026-10-01 21:14:05] FalterXV: !loadout
+[2026-10-01 21:14:06] FalterXV: !solos
+[2026-10-01 21:14:29] FalterXV: !lurk
+[2026-10-01 21:15:32] blazingskully: hello dere
+[2026-10-01 21:21:42] blazingskully: i ended up refilling my water bottle while i could lol
+[2026-10-01 21:21:54] Whisper__Wolf: Halo!!
+[2026-10-01 21:22:39] Whisper__Wolf: I gotta eat dinner rn so ill be back in a bit. Just wanted to pop in and say hi!
+[2026-10-01 21:22:50] FalterXV: hi hi
+[2026-10-01 21:22:54] FalterXV: Thanks for the gift subs, just noticed
+[2026-10-01 21:27:35] blazingskully: Lol
+[2026-10-01 21:29:23] blazingskully: i'm pretty sure and correct me if i'm wrong but that question was just you being silly
+[2026-10-01 22:14:56] blazingskully: i told them no and they said you die now lol
+[2026-10-01 22:39:57] blazingskully: wah wah wah? i knew it
+[2026-10-01 22:41:06] FalterXV: @deco19s
+[2026-10-01 22:58:56] UNKNOWN_KASEY: Can you explain what you mean by the Med/Hev armor comment, new here!
+[2026-10-02 00:12:01] blazingskully: what
+[2026-10-02 00:59:23] blazingskully: right
+[2026-10-02 02:00:06] VISRecon: I could do thi solo
+[2026-10-02 02:00:14] VISRecon: fr
+[2026-10-02 02:00:18] VISRecon: yea
+[2026-10-02 02:00:52] VISRecon: Lol you tk better than playing the game
+[2026-10-02 02:01:10] VISRecon: Where bro
+[2026-10-02 02:01:13] VISRecon: I dont see it
+[2026-10-02 02:01:23] VISRecon: lies
+[2026-10-02 02:01:24] FalterXV: !solo
+[2026-10-02 02:01:26] VISRecon: where
+[2026-10-02 02:01:29] VISRecon: your not on solo
+[2026-10-02 02:01:33] VISRecon: lmao
+[2026-10-02 02:01:43] VISRecon: go ahea
+[2026-10-02 02:01:48] VISRecon: ohh too scafred ah
+[2026-10-02 02:01:54] VISRecon: too scared lamo
+[2026-10-02 02:02:00] VISRecon: lol just get better
+[2026-10-02 02:02:07] VISRecon: nah i dont see it
+[2026-10-02 02:02:13] VISRecon: nah where is it
+[2026-10-02 02:02:23] VISRecon: I dont stream
+[2026-10-02 02:02:29] VISRecon: Yea man you dont solo
+[2026-10-02 02:02:38] VISRecon: so you dont solo?
+[2026-10-02 02:02:41] VISRecon: aight
+[2026-10-02 02:02:43] VISRecon: no shame
+[2026-10-02 02:02:49] VISRecon: failed the misison anyways
+[2026-10-02 02:02:51] FalterXV: https://www.twitch.tv/collections/9RjDISYu2hi0dA?filter=collections
+[2026-10-02 02:03:13] VISRecon: nah man just get better
+[2026-10-02 02:03:33] VISRecon: sry if you got hellbombed when I dove
+[2026-10-02 02:03:44] VISRecon: oh right you got mad
+[2026-10-02 02:03:51] blazingskully: you landed on the hellbomb you ass
+[2026-10-02 02:03:53] VISRecon: oh bo ho
+[2026-10-02 02:04:09] VISRecon: oh im so sorry you cant survive
+[2026-10-02 02:04:17] VISRecon: higher level
+[2026-10-02 02:04:25] VISRecon: but yea i did make you mad lol
+[2026-10-02 02:04:37] VISRecon: ooh bbros mad?
+[2026-10-02 02:04:50] VISRecon: nah your mad lol
+[2026-10-02 02:05:02] VISRecon: says the person thats shouting
+[2026-10-02 02:05:05] VISRecon: sure buddy
+[2026-10-02 02:05:10] VISRecon: yea yu are
+[2026-10-02 02:05:15] VISRecon: yea man your shouting
+[2026-10-02 02:05:22] VISRecon: your friend died more than me lmao
+[2026-10-02 02:05:37] VISRecon: bros mad
+[2026-10-02 02:05:42] blazingskully: dude this isnt even shouting i know the difference
+[2026-10-02 02:05:49] VISRecon: yea you are i see your shouting
+[2026-10-02 02:07:36] blazingskully: i'm the one who died and last i chacked i wasnt the one that set off the hellbomb or was in the drop pod
+[2026-10-02 02:07:41] blazingskully: checked*
+[2026-10-02 02:08:10] FalterXV: hello hello
+[2026-10-02 02:10:09] blazingskully: https://www.twitch.tv/falterxv/clip/TacitVastPuffinLeeroyJenkins-kEWTakcwe3yFGtXS Tker Tries to sneak in and fails Clipped by blazingskully
+[2026-10-02 02:14:07] SeaFoxBastille: Team killing tardo
+[2026-10-02 02:14:58] blazingskully: Its their lobby their rules
+[2026-10-02 02:25:54] blazingskully: i mean melee only seems to be useful when stomping in a mech because otherwise idk when id use melee at all
+[2026-10-02 02:40:56] blazingskully: flip gets banned so many times its actually nuts
+[2026-10-02 03:15:52] somegirlsname: !lurk
+[2026-10-02 03:21:10] novel_patriot: I hear unfiltered mods like smelling poop
+[2026-10-02 03:36:11] UNKNOWN_KASEY: message deleted by a moderator.
+[2026-10-02 04:06:36] Whisper__Wolf: Hi guys!
+[2026-10-02 04:08:03] Whisper__Wolf: Its going good I had friends over
+[2026-10-02 04:08:10] Whisper__Wolf: Im sorry I missed most of your stream
+[2026-10-02 04:09:32] Whisper__Wolf: I like the music you play I recognize some of the songs. One track was Halo 3 ODST Despreate Measures. lol
+[2026-10-02 04:10:16] Whisper__Wolf: You play with any mods on hell divers or not really?
+[2026-10-02 04:12:14] Whisper__Wolf: You play way better then I do lol I'm only level 60 I think
+[2026-10-02 04:13:36] Whisper__Wolf: solo flawless? Omg I could never do that. I am not that pro lol
+[2026-10-02 04:15:48] Whisper__Wolf: I stopped playing for a long time I mostly play destiny 2 and Valheim
+[2026-10-02 04:18:43] Whisper__Wolf: My whole group quit the game. I still have my trials of the nine Armour though <('-'<) It keeps my sanity going
+[2026-10-02 04:19:57] Whisper__Wolf: Its sad seeing my whole clan offline and its just me. I feel so alone lol
+[2026-10-02 04:20:38] blazingskully: i technically have only ever done vog and deep stone
+[2026-10-02 04:22:34] blazingskully: i thought renegades was cool for the heating weapons cause like they had some decent options like the heavy sniper
+[2026-10-02 04:22:40] blazingskully: hello
+[2026-10-02 04:22:42] Whisper__Wolf: Im happy its coming back though
+[2026-10-02 04:23:31] Whisper__Wolf: It's all of the campaigns and old raids. Im excited to do all the raids again
+[2026-10-02 04:23:31] VISRecon: message deleted by a moderator.
+[2026-10-02 04:23:44] Whisper__Wolf: I miss Eater of worlds
+[2026-10-02 04:23:53] Whisper__Wolf: and even Curse of osiris
+[2026-10-02 04:24:01] Whisper__Wolf: I loved that too
+[2026-10-02 04:24:09] Whisper__Wolf: I know : (
+[2026-10-02 04:24:22] Whisper__Wolf: The boss fight was a flop
+[2026-10-02 04:24:22] blazingskully: i'm excited for warmind and red war because i heard a lot of good stuff about both seasons and i do want to experience the spire of stars raid
+[2026-10-02 04:25:18] Whisper__Wolf: yes
+[2026-10-02 04:25:32] Whisper__Wolf: I just miss SIVA and wrath
+[2026-10-02 04:26:38] Whisper__Wolf: WHAT
+[2026-10-02 04:26:48] Whisper__Wolf: Oh wait you didn’t play Destiny 1 right my bad..
+[2026-10-02 04:28:18] Whisper__Wolf: I miss invective
+[2026-10-02 04:28:22] Whisper__Wolf: 🫠
+[2026-10-02 04:28:52] Whisper__Wolf: skullyy you should go back and play it just to try it lol You gotta experience the wrath raid
+[2026-10-02 04:29:18] Whisper__Wolf: same
+[2026-10-02 04:29:35] Whisper__Wolf: Best Raid and best raid boss
+[2026-10-02 04:30:00] Whisper__Wolf: I remember the SIVA strike I would cheese by hiding behind a piece of concrete lol
+[2026-10-02 04:30:22] Whisper__Wolf: It was very rough back then
+[2026-10-02 04:30:38] Whisper__Wolf: OMG I remember that
+[2026-10-02 04:31:25] blazingskully: i still havent done trials lol
+[2026-10-02 04:31:35] Whisper__Wolf: I love fallen saber I listen to the soundtrack of that bosses theme
+[2026-10-02 04:32:19] Whisper__Wolf: I stopped playing once I completed the collection of armor
+[2026-10-02 04:32:33] Whisper__Wolf: No I’m a hunter
+[2026-10-02 04:32:41] Whisper__Wolf: Yus
+[2026-10-02 04:32:58] Whisper__Wolf: I never take off the trials of the nine armor
+[2026-10-02 04:33:02] Whisper__Wolf: I’m a unicorn
+[2026-10-02 04:33:29] Whisper__Wolf: Um… Solar rn
+[2026-10-02 04:33:43] Whisper__Wolf: I’m getting the guardian rank up that’s why
+[2026-10-02 04:33:58] Whisper__Wolf: Yes with scorch
+[2026-10-02 04:34:51] Whisper__Wolf: Sunshot and the Grenade launcher that shoots strand puddles lol
+[2026-10-02 04:34:53] Whisper__Wolf: I forgot the name
+[2026-10-02 04:35:18] Whisper__Wolf: it’s from the monument of triumphs
+[2026-10-02 04:35:21] Whisper__Wolf: you can buy it
+[2026-10-02 04:35:42] Whisper__Wolf: It’s a weird name
+[2026-10-02 04:36:30] Whisper__Wolf: oh I know! it
+[2026-10-02 04:36:34] Whisper__Wolf: it’s festival flight
+[2026-10-02 04:36:49] Whisper__Wolf: that’s what it was called
+[2026-10-02 04:38:05] Whisper__Wolf: oh happy birthday
+[2026-10-02 04:38:27] blazingskully: i did experience a couple of the seasonal events like the haunted one and the dawning and solstice
+[2026-10-02 04:38:51] Whisper__Wolf: Oh same age as me that’s funny if 27
+[2026-10-02 04:39:29] Whisper__Wolf: like the dawning and stuff
+[2026-10-02 04:40:05] Whisper__Wolf: not enough employees there unless they use da marathon folk
+[2026-10-02 04:40:18] Whisper__Wolf: Oh I remember that
+[2026-10-02 04:40:40] blazingskully: https://www.twitch.tv/falterxv/clip/TacitVastPuffinLeeroyJenkins-kEWTakcwe3yFGtXS
+[2026-10-02 04:40:53] Whisper__Wolf: I remember the portal that Ikora was building in the tower lol they use to have world events in the tower! remember when the almighty was crashing
+[2026-10-02 04:41:20] Whisper__Wolf: Damn lol
+[2026-10-02 04:42:30] Whisper__Wolf: I just released the vanguard is all bald Zavala is bald …. ikora is bald… and cayde technically was as he’s a exo lol
+[2026-10-02 04:42:30] SeaFoxBastille: message deleted by a moderator.
+[2026-10-02 04:43:09] Whisper__Wolf: My poor titan is homeless lol She just sits there at the title screen forever
+[2026-10-02 04:44:43] Whisper__Wolf: It's a good orbit screen I fall asleep to it sometimes. Like the old halo 3 menu days
+[2026-10-02 04:45:54] Whisper__Wolf: I use to play Halo 2 online like the last few months before it shut down...
+[2026-10-02 04:48:47] Whisper__Wolf: I have not played since the third facts was added lol
+[2026-10-02 04:48:52] Whisper__Wolf: faction
+[2026-10-02 04:49:09] Whisper__Wolf: So I have no idea lol
+[2026-10-02 04:49:29] Whisper__Wolf: If i recall I use to use the sniper a lot and just run around with the guard dog
+[2026-10-02 04:51:09] Whisper__Wolf: DMR I think
+[2026-10-02 04:51:22] Whisper__Wolf: remained me of the halo reach one
+[2026-10-02 04:51:27] Whisper__Wolf: reminded
+[2026-10-02 05:05:59] Whisper__Wolf: Its so dark with HDR on for me lol
+[2026-10-02 05:06:14] Whisper__Wolf: No no its on my end
+[2026-10-02 05:07:04] Whisper__Wolf: I joined your server btw ima boost it I want the purple name lol
+[2026-10-02 05:07:17] Whisper__Wolf: or pink im color blind
+[2026-10-02 05:09:32] Whisper__Wolf: Oh yeah I verified Ive seen that before In some zomboid servers i join
+[2026-10-02 05:09:44] Whisper__Wolf: dox you? Why?
+[2026-10-02 05:13:23] Whisper__Wolf: Holy lore lol
+[2026-10-02 05:13:43] Whisper__Wolf: Oh sorry
+[2026-10-02 05:15:40] Whisper__Wolf: Jesus christ
+[2026-10-02 05:19:45] Whisper__Wolf: at that point I'd just call the cops for harassment on them. My gosh what did you do to that person lol
+[2026-10-02 05:20:53] Whisper__Wolf: Oh my gosh Im sorry I had no idea. Is that why your discord link is down on your twitch? I get it now
+[2026-10-02 05:24:25] Whisper__Wolf: I can hear them
+[2026-10-02 05:29:59] Whisper__Wolf: Well Idk what to say honestly. But at least you enjoy doing what you love and that's all that matters. : )
+[2026-10-02 05:31:39] Whisper__Wolf: Oh Hi Blazin
+[2026-10-02 05:31:49] Whisper__Wolf: I only use reddit for that one niche issue someone else has in a game lol
+[2026-10-02 05:31:56] Whisper__Wolf: mostly fallout new vegas
+[2026-10-02 05:32:58] blazingskully: even so there is a lot of insane things that have been happening lately
+[2026-10-02 05:33:18] Whisper__Wolf: I play 4 soo much
+[2026-10-02 05:33:21] Whisper__Wolf: and skyrim modded
+[2026-10-02 05:39:44] Whisper__Wolf: I like the bugs more then the robots
+[2026-10-02 05:41:06] blazingskully: its been pretty bad with bug divers particularly
+[2026-10-02 05:41:20] Whisper__Wolf: This game has changed so much since I last played
+[2026-10-02 05:41:50] Whisper__Wolf: Uh right when the third faction came out lol
+[2026-10-02 05:42:02] Whisper__Wolf: Yup
+[2026-10-02 05:42:16] Whisper__Wolf: Oh no i didnt par take
+[2026-10-02 05:42:21] Whisper__Wolf: in that
+[2026-10-02 05:43:03] Whisper__Wolf: I missed a lot
+[2026-10-02 05:44:01] Whisper__Wolf: Oh i like the flame guard dog
+[2026-10-02 05:46:10] blazingskully: if i remember right ironclad is the newest one i could be wrong
+[2026-10-02 05:46:35] Whisper__Wolf: OW
+[2026-10-02 05:46:52] Whisper__Wolf: What the hell was that
+[2026-10-02 05:48:12] Whisper__Wolf: it looks ...
+[2026-10-02 05:48:12] Whisper__Wolf: Skully no!! actually you aren’t missing much people cheat a lot
+[2026-10-02 05:48:16] Whisper__Wolf: kinda cool... eh
+[2026-10-02 05:49:22] Whisper__Wolf: holy cosmetics
+[2026-10-02 05:50:33] Whisper__Wolf: kinda cute
+[2026-10-02 05:50:50] Whisper__Wolf: hehehe
+[2026-10-02 05:51:20] blazingskully: totally innocent falter over here lol
+[2026-10-02 05:51:44] Whisper__Wolf: I may play the game again if I have time
+[2026-10-02 05:51:51] Whisper__Wolf: ive been on other games lol
+[2026-10-02 05:51:57] Whisper__Wolf: its on my list
+[2026-10-02 05:52:33] Whisper__Wolf: I have it downloaded just havent played lol
+[2026-10-02 05:53:24] Whisper__Wolf: I like the snipers alot I usually just use those
+[2026-10-02 05:54:02] Whisper__Wolf: im the same level as wolfy lol I think
+[2026-10-02 05:54:09] Whisper__Wolf: or skully
+[2026-10-02 05:54:11] Whisper__Wolf: I mean
+[2026-10-02 05:54:14] Whisper__Wolf: wolfy lol
+[2026-10-02 05:54:35] Whisper__Wolf: 224 is nuts lol
+[2026-10-02 05:55:11] Whisper__Wolf: I only have 63 hours
+[2026-10-02 05:56:08] Whisper__Wolf: ill open the game I guess just to see whats up with it lol
+[2026-10-02 05:57:34] Whisper__Wolf: skully
+[2026-10-02 05:58:14] Whisper__Wolf: skullly
+[2026-10-02 05:58:14] Whisper__Wolf: I think they’re stopping any seasonal events going forward least for now sadly…
+[2026-10-02 05:59:10] Whisper__Wolf: Nothing I was just saying your name hehehe ha
+[2026-10-02 05:59:55] Whisper__Wolf: hey is for horses
+[2026-10-02 06:01:31] Whisper__Wolf: omg nvm i am not near 60 I am even lower lol
+[2026-10-02 06:01:39] Whisper__Wolf: what warbond is that sniper
+[2026-10-02 06:01:45] Whisper__Wolf: I like that
+[2026-10-02 06:01:55] Whisper__Wolf: that anti material one
+[2026-10-02 06:01:57] Whisper__Wolf: OH
+[2026-10-02 06:02:49] Whisper__Wolf: Im dumb lol
+[2026-10-02 06:09:21] Whisper__Wolf: im in the game rn looking around lol
+[2026-10-02 06:12:30] Whisper__Wolf: shrek
+[2026-10-02 06:12:42] Whisper__Wolf: reference
+[2026-10-02 06:13:10] Whisper__Wolf: good movie but bad series as they keep making more lol
+[2026-10-02 06:14:13] Whisper__Wolf: Well I suck badly but Id play if you want
+[2026-10-02 06:14:35] Whisper__Wolf: I have no idea lol
+[2026-10-02 06:14:43] Whisper__Wolf: I'll do whatever you want
+[2026-10-02 06:15:45] Whisper__Wolf: Oh I see
+[2026-10-02 06:16:44] Whisper__Wolf: If you trigger a drop do you mean enemies spawning?
+[2026-10-02 06:17:08] Whisper__Wolf: yeah that's fair
+[2026-10-02 06:17:31] Whisper__Wolf: Same as a destiny raid lol
+[2026-10-02 06:17:49] Whisper__Wolf: But I only drink coffee made by me mum
+[2026-10-02 06:18:13] Whisper__Wolf: same thing as everyone not wanting to do a step in destiny and just ad clear
+[2026-10-02 06:19:17] Whisper__Wolf: Wolfy let me follow you then lol
+[2026-10-02 06:19:39] Whisper__Wolf: skully my bad lol
+[2026-10-02 06:19:44] Whisper__Wolf: idk why I call you wolfy
+[2026-10-02 06:20:20] Whisper__Wolf: :0
+[2026-10-02 06:22:33] Whisper__Wolf: I think cause I call wolves that in valhiem so much it stuck
+[2026-10-02 06:23:01] Whisper__Wolf: Viking game
+[2026-10-02 06:23:05] Whisper__Wolf: like minecraft
+[2026-10-02 06:23:27] Whisper__Wolf: theres bosses to kill and stuff to always do
+[2026-10-02 06:24:04] Whisper__Wolf: : ( No lol
+[2026-10-02 06:24:35] Whisper__Wolf: Uhhh
+[2026-10-02 06:24:44] Whisper__Wolf: No guns.. i mean you get a bow
+[2026-10-02 06:25:03] Whisper__Wolf: AHHHH
+[2026-10-02 06:25:21] Whisper__Wolf: I need more baja Blast
+[2026-10-02 06:29:31] Whisper__Wolf: Are you tired?
+[2026-10-02 06:33:56] Whisper__Wolf: and I will be up doing I have no idea lol Probably destiny
+[2026-10-02 06:34:23] Whisper__Wolf: No im in CA
+[2026-10-02 06:34:46] Whisper__Wolf: yeah I just stay up
+[2026-10-02 06:35:03] Whisper__Wolf: I sleep when my body says to go to the void lol
+[2026-10-02 06:35:40] Whisper__Wolf: So I think I have a decent understanding of this game again
+[2026-10-02 06:39:54] Whisper__Wolf: funny lol
+[2026-10-02 06:40:13] Whisper__Wolf: No i did
+[2026-10-02 06:40:29] Whisper__Wolf: No no Im just happy to help
+[2026-10-02 06:43:01] novel_patriot: im smelling poop
+[2026-10-02 06:44:11] Whisper__Wolf: I see memes lol
+[2026-10-02 06:44:15] Whisper__Wolf: under text
+[2026-10-02 06:44:34] Whisper__Wolf: Yeah But not gen
+[2026-10-02 06:44:50] Whisper__Wolf: lol
+[2026-10-02 06:44:53] Whisper__Wolf: Um... do you have a gen chat
+[2026-10-02 06:45:37] Whisper__Wolf: Omg my mic works again
+[2026-10-02 06:45:48] Whisper__Wolf: My settings are so bunk lol
+[2026-10-02 06:45:55] blazingskully: the mic works woot
+[2026-10-02 06:46:37] Whisper__Wolf: me no
+[2026-10-02 06:47:17] Whisper__Wolf: Just music and music listening
+[2026-10-02 06:47:46] Whisper__Wolf: I would post drip but I cant im so lame I only wear the same thing
+[2026-10-02 06:53:54] Whisper__Wolf: : (
+[2026-10-02 06:53:59] Whisper__Wolf: Ma Bow
+[2026-10-02 06:57:05] Whisper__Wolf: Uh....
+[2026-10-02 06:57:22] Whisper__Wolf: vex mitho is a pulse rifle
+[2026-10-02 07:00:39] Whisper__Wolf: Psh.. Trench Barrel of courseee
+[2026-10-02 07:01:02] Whisper__Wolf: I don't use shotguns : 0
+[2026-10-02 07:01:07] Whisper__Wolf: Or snipers
+[2026-10-02 07:01:15] Whisper__Wolf: No : (
+[2026-10-02 07:01:58] Whisper__Wolf: I have 70 thousand on ma pulse chattering bone lol
+[2026-10-02 07:05:05] Whisper__Wolf: <('-'<)
+[2026-10-02 07:12:05] blazingskully: because parasite is a meme lol
+[2026-10-02 07:12:24] Whisper__Wolf: Nothing I was just saying your name
+[2026-10-02 07:12:46] Whisper__Wolf: its a worm
+[2026-10-02 07:17:06] Whisper__Wolf: I got soda
+[2026-10-02 07:17:42] Whisper__Wolf: That was my idea
+[2026-10-02 07:17:46] Whisper__Wolf: about destiny
+[2026-10-02 07:17:51] Whisper__Wolf: mine
+[2026-10-02 07:19:41] Whisper__Wolf: Da hair
+[2026-10-02 07:20:25] Whisper__Wolf: I think thats the only dungeon i don't have the solo flawless for
+[2026-10-02 07:22:12] Whisper__Wolf: Ive been on just for Pvp and getting undefeated
+[2026-10-02 07:25:19] Whisper__Wolf: Skullyyy
+[2026-10-02 07:25:21] Whisper__Wolf: add ma
+[2026-10-02 07:25:38] FalterXV: !vanguard
+[2026-10-02 07:26:30] Whisper__Wolf: Umm
+[2026-10-02 07:26:57] Whisper__Wolf: It says not found lols
+[2026-10-02 07:27:11] Whisper__Wolf: whats skullys wullys let me try theirs
+[2026-10-02 07:27:17] Whisper__Wolf: oh\
+[2026-10-02 07:27:56] Whisper__Wolf: pomni#7046
+[2026-10-02 07:28:08] Whisper__Wolf: Amazing digital circus fan
+[2026-10-02 07:28:59] Whisper__Wolf: beep boop
+[2026-10-02 07:29:21] Whisper__Wolf: but why lol
+[2026-10-02 07:29:55] Whisper__Wolf: why you do dis I had a Pvp brain all day lol
+[2026-10-02 07:31:21] Whisper__Wolf: im just winging it
+[2026-10-02 07:33:27] Whisper__Wolf: Skully you must be 550 I must help u
+[2026-10-02 07:33:45] Whisper__Wolf: : 0
+[2026-10-02 07:33:51] Whisper__Wolf: I thought you were
+[2026-10-02 07:34:13] Whisper__Wolf: I forgot where I was in PvE
+[2026-10-02 07:46:40] Whisper__Wolf: I need your helmet
+[2026-10-02 07:47:13] Whisper__Wolf: Oh i havent done this in forever
+[2026-10-02 07:47:15] Whisper__Wolf: oh no
+[2026-10-02 08:46:39] chaoslord4420: hello what did I heared here about cheaters?
+[2026-10-02 08:47:04] chaoslord4420: oh okay yes finally I say
+[2026-10-02 08:47:13] chaoslord4420: huh?
+[2026-10-02 08:47:16] chaoslord4420: thanks
+[2026-10-02 08:48:01] chaoslord4420: Helldivers?
+[2026-10-02 08:48:12] chaoslord4420: democracy
+[2026-10-02 08:48:45] chaoslord4420: chaosdivers? who are they?
+[2026-10-02 08:49:40] chaoslord4420: they are traitors of democracy
+[2026-10-02 08:50:19] chaoslord4420: to be honest I would love to play helldivers again but I don't want to quicksearch or solo
+[2026-10-02 08:51:20] chaoslord4420: you need to go to a door
+[2026-10-02 08:51:50] chaoslord4420: there is a player count door
+[2026-10-02 08:53:02] chaoslord4420: cursebreaker do you want 6 weeks straight up to do stuff in the dreaming city?
+[2026-10-02 08:53:02] novel_patriot: message deleted by a moderator.
+[2026-10-02 08:53:54] chaoslord4420: I can jump that while fully asleep
+[2026-10-02 08:54:59] chaoslord4420: oh boy I missed every snipe my last pvp round
+[2026-10-02 08:55:47] chaoslord4420: arc
+[2026-10-02 08:57:08] chaoslord4420: that's nice how acidy does it tastes?
+[2026-10-02 08:57:43] chaoslord4420: shadow shizu I love it
+[2026-10-02 08:58:01] chaoslord4420: not realy
+[2026-10-02 08:58:39] chaoslord4420: you don't want to se my titans in 90% off the time
+[2026-10-02 09:02:59] chaoslord4420: eyes? thos are balls
+[2026-10-02 09:04:03] chaoslord4420: the top one is always weird and I hate him
+[2026-10-02 09:14:38] chaoslord4420: are you an automaton?
+[2026-10-02 09:15:19] chaoslord4420: I am just asking because you sayed you feel recharged
+[2026-10-02 09:19:19] chaoslord4420: you killed him
+[2026-10-02 09:19:45] siriusblack_26: Hi Falter
+[2026-10-02 09:19:45] chaoslord4420: the pulse is nice for pve you got
+[2026-10-02 09:20:46] chaoslord4420: true but it's okay
+[2026-10-02 09:20:56] siriusblack_26: How was the dungeon?
+[2026-10-02 09:21:12] siriusblack_26: Nice
+[2026-10-02 09:22:07] chaoslord4420: do I want to solo shattered throne again?
+[2026-10-02 09:22:45] chaoslord4420: verity isn't hard
+[2026-10-02 09:23:49] chaoslord4420: sounds like players who will never get a full se clear
+[2026-10-02 09:24:03] siriusblack_26: I've tried that dungeon a lot, but I still haven't gotten the Possessed Crystal.
+[2026-10-02 09:24:08] chaoslord4420: root is a strike
+[2026-10-02 09:25:26] chaoslord4420: I do miss getting 2 coins and a blue
+[2026-10-02 09:25:55] chaoslord4420: it was the most intense stuff I ever did
+[2026-10-02 09:26:43] chaoslord4420: how about you take him into the ultimate lightblade?
+[2026-10-02 09:27:39] chaoslord4420: navigator is a weapon
+[2026-10-02 09:28:41] chaoslord4420: trio kf
+[2026-10-02 09:30:02] chaoslord4420: just do a trio kingsfall
+[2026-10-02 09:30:21] chaoslord4420: you can
+[2026-10-02 09:30:42] chaoslord4420: yes it's just one skates solo on one side
+[2026-10-02 09:32:01] chaoslord4420: I saw an entire youtube channel who shows how he cheats in contest mode
+[2026-10-02 09:32:45] chaoslord4420: no I forgot the name
+[2026-10-02 09:33:55] chaoslord4420: the youtube is called nimruz and year the people in the ron disgust me the most
+[2026-10-02 09:35:22] chaoslord4420: I cryed as cayde died 2 times
+[2026-10-02 09:37:01] chaoslord4420: first uldren kills cayde I cried after I killed uldren then after his sacrifice
+[2026-10-02 09:45:34] chaoslord4420: what do you wanna solo?
+[2026-10-02 09:46:16] chaoslord4420: oh grasp on master I want the armor from this dungeon
+[2026-10-02 09:46:58] chaoslord4420: stasis hunter shuriken spam
+[2026-10-02 09:48:48] chaoslord4420: I use glaive
+[2026-10-02 09:50:35] chaoslord4420: I enjoy the hunter exotic one from time to time but casual I use the lubrae's ruin
+[2026-10-02 09:51:34] chaoslord4420: I still have old black armory weapons
+[2026-10-02 09:53:30] chaoslord4420: year but old ones from the actual season and I will never delete them what ever anyone says for one reason
+[2026-10-02 09:54:07] chaoslord4420: I own a sniper with drop mag
+[2026-10-02 09:54:35] chaoslord4420: yep I have a few with it
+[2026-10-02 09:55:17] chaoslord4420: I have an old austringer from the opulenz season
+[2026-10-02 09:56:32] chaoslord4420: yes and I farmed for entenity for outlaw rampage
+[2026-10-02 09:57:32] chaoslord4420: did you consulted a truthenforcer?
