@@ -1,0 +1,62 @@
+Streamlabs observed chat log started 2026-10-02 20:31:39
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-02 20:32:40] blazingskully: hello dere
+[2026-10-02 20:32:47] FalterXV: hello hello
+[2026-10-02 20:33:32] FalterXV: !rules
+[2026-10-02 20:33:33] FalterXV: !guides
+[2026-10-02 20:33:35] FalterXV: !loadout
+[2026-10-02 20:33:44] FalterXV: !solos
+[2026-10-02 20:34:03] blazingskully: wew back up to 30 already
+[2026-10-02 20:34:19] FalterXV: dayum nice
+[2026-10-02 20:34:32] FalterXV: and thank you too
+[2026-10-02 20:34:58] blazingskully: right? now lets see if i can beat my old streak of i think it was 100+ lol
+[2026-10-02 20:35:36] FalterXV: I think, yeah
+[2026-10-02 20:36:16] blazingskully: oh and i did eat earlier when i woke up before you ask
+[2026-10-02 20:36:19] FalterXV: good
+[2026-10-02 20:36:21] FalterXV: was about to say
+[2026-10-02 20:36:28] blazingskully: i had spaghetti and meatballs
+[2026-10-02 20:36:29] FalterXV: if you have not eaten anything then...uhhh
+[2026-10-02 20:36:32] FalterXV: ooh
+[2026-10-02 20:36:36] FalterXV: meat and some balls
+[2026-10-02 20:36:46] blazingskully: lol
+[2026-10-02 20:47:52] Whisper__Wolf: Uh I can try lol
+[2026-10-02 20:47:58] Whisper__Wolf: but I may have to eat soon
+[2026-10-02 20:54:48] Whisper__Wolf: I'm going to eat rn and maybe some over watch. But when i am free ill join y'all if you're up lol
+[2026-10-02 20:57:48] FalterXV: --use-d3d11
+[2026-10-02 21:43:42] Whisper__Wolf: Uh... Salad with pizza and spaghetti
+[2026-10-02 21:43:48] Whisper__Wolf: and bread
+[2026-10-02 21:44:01] Whisper__Wolf: garlic
+[2026-10-02 21:44:24] Whisper__Wolf: Oh my'
+[2026-10-02 21:44:41] Whisper__Wolf: I am yes but ma friends are afk lol
+[2026-10-02 21:45:01] Whisper__Wolf: I just play Mercy lol
+[2026-10-02 21:45:05] Whisper__Wolf: its going okay
+[2026-10-02 21:45:20] Whisper__Wolf: Yus
+[2026-10-02 21:46:18] Whisper__Wolf: just two games so far
+[2026-10-02 22:16:05] blazingskully: welcome to helldivers where civillians are useful like i was saying but also fragile like i was saying
+[2026-10-02 22:55:28] Whisper__Wolf: Im suffering in overwatch lol
+[2026-10-02 22:56:53] Whisper__Wolf: Eh we're helping a new person
+[2026-10-02 22:58:54] Whisper__Wolf: my games are meh lol How's yours
+[2026-10-02 23:05:58] Whisper__Wolf: The little Turret on your arm is cute. It keeps looking everywhere.
+[2026-10-02 23:06:45] Whisper__Wolf: I like that
+[2026-10-02 23:31:02] blazingskully: remember when dealing with bugs use fire because as everyone knows bug types are weak to the fire type
+[2026-10-02 23:36:18] blazingskully: just no?
+[2026-10-02 23:43:35] Whisper__Wolf: I finished
+[2026-10-02 23:43:53] Whisper__Wolf: Uhhhhh... I can try lol
+[2026-10-02 23:44:09] Whisper__Wolf: Sures
+[2026-10-03 00:58:07] blazingskully: hey did you know that shooting your gun defeats most enemies especially when aiming for the head? Mind blowing fact i know
+[2026-10-03 01:47:04] blazingskully: ggz
+[2026-10-03 01:49:19] RangerVVI: hello from Reddit
+[2026-10-03 02:31:54] blazingskully: so welcome to cyborgs lol
+[2026-10-03 03:06:00] blazingskully: cause billybobs are rude spotting you when you dont want to be spotted lol
+[2026-10-03 03:06:09] blazingskully: they dont even ask either
+[2026-10-03 03:26:33] FalterXV: aoe2de://0/510952625
+[2026-10-03 04:02:12] blazingskully: heretical? Heresy? For the Emperor?
+[2026-10-03 04:48:25] brookolo: weird helldiver2 update
+[2026-10-03 04:48:59] brookolo: you got hd2 on tag, i just instinctively click
+[2026-10-03 04:49:32] brookolo: ages of empires? how old?
+[2026-10-03 05:33:18] blazingskully: welcome to the swamps beware of a particular ogre lol
