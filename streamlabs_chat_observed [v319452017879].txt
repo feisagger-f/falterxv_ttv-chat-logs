@@ -1,0 +1,27 @@
+Streamlabs observed chat log started 2026-10-04 00:34:56
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-04 00:36:35] blazingskully: the game is like but what if we give a tutorial anyways
+[2026-10-04 00:41:43] blazingskully: because ace combat says so lol
+[2026-10-04 01:11:53] blazingskully: i only ever buy a premium pass if i think its worth it in that specific moment otherwise i'm just like nah lol
+[2026-10-04 01:30:13] blazingskully: it was only one missile it wasnt like a bajillion or anything lol
+[2026-10-04 01:48:40] blazingskully: oooo
+[2026-10-04 01:58:34] blazingskully: i do like the amount of customization you can have for your plane like it doesnt seem too overwhelming
+[2026-10-04 02:09:48] blazingskully: the mig was the mystery mouskatool you needed to solve the puzzle
+[2026-10-04 02:13:26] blazingskully: there are no other modes only mig
+[2026-10-04 02:14:39] HaruTheFennec: ace combat 8?
+[2026-10-04 02:17:06] HaruTheFennec: oh sorry it looked like AC7
+[2026-10-04 02:21:48] blazingskully: hey i heard you like mig's so what about a mig so you can mig while you mig in a mig?
+[2026-10-04 02:33:31] blazingskully: no other migs matter only one specific mig
+[2026-10-04 02:41:44] blazingskully: i still cant get over the music its fantastic
+[2026-10-04 03:02:51] blazingskully: did you know that a mig is a mig? pretty mindblowing i know
+[2026-10-04 03:53:34] blazingskully: meanwhile tasha over here being cool
+[2026-10-04 04:17:18] blazingskully: remember when picturing yourself as eagle 1 ask yourself how much democracy was spread today lol
+[2026-10-04 04:40:52] miller_thekittyboi: Say 121/26 out loud
+[2026-10-04 04:41:29] miller_thekittyboi: You just gotta trust
+[2026-10-04 05:15:29] blazingskully: its still nutty seeing the amount of railgun warnings like how many warnings do you need lol
+[2026-10-04 05:18:08] Kal_Zanderino: Have noticed that this mission and Retaking of Theve 1 can be a little sensory overload
