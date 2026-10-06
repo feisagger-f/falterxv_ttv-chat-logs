@@ -1,0 +1,59 @@
+Streamlabs observed chat log started 2026-10-05 21:34:48
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-05 21:36:29] FalterXV: !rules
+[2026-10-05 21:36:30] FalterXV: !guides
+[2026-10-05 21:36:31] FalterXV: !solos
+[2026-10-05 21:36:35] FalterXV: !loadout
+[2026-10-05 21:46:51] FalterXV: !lurk
+[2026-10-05 21:49:19] blazingskully: obi waaaahn kenobi?
+[2026-10-05 22:07:48] blazingskully: because raisins thats why
+[2026-10-05 22:47:20] blazingskully: what i'm confused about is why they acted like you didnt explain it at all to begin with
+[2026-10-05 23:26:11] blazingskully: see look itsa me a skully
+[2026-10-05 23:33:50] blazingskully: remember guys stealth isnt real flip said so
+[2026-10-05 23:38:05] Whisper__Wolf: boop
+[2026-10-05 23:38:32] Whisper__Wolf: I am good
+[2026-10-05 23:39:01] Whisper__Wolf: he's very small lol
+[2026-10-05 23:39:45] Whisper__Wolf: if i have time I may
+[2026-10-06 00:13:02] blazingskully: what could i have done differently to fix the situation i had caused?
+[2026-10-06 00:23:42] blazingskully: i died to the k-9
+[2026-10-06 00:28:38] blazingskully: no
+[2026-10-06 00:31:01] blazingskully: i should have been listening to your instructions and i was taking your patience for granted and i'm sorry i want to make it right
+[2026-10-06 00:33:20] blazingskully: and i shouldnt have been making the map worse but thats what happened and i cant deny it
+[2026-10-06 00:34:39] blazingskully: thats not what i want i really do want to learn
+[2026-10-06 00:36:06] blazingskully: so what should i do with war striders cause i know i cant just keep running at them
+[2026-10-06 00:37:36] blazingskully: but whenever i shoot at a distance all i end up doing is dying anyways so like what can i do differently if taking them out at range doesnt work
+[2026-10-06 00:39:28] blazingskully: i see where your shooting and i try to shoot the inner joints but i cant keep the reticle on target fast enough to hit it 3 times so i always have to run in close range to finish the job
+[2026-10-06 00:39:50] blazingskully: yes
+[2026-10-06 00:40:00] blazingskully: i'm prone and crouched
+[2026-10-06 00:40:30] blazingskully: i didnt zoom in no
+[2026-10-06 00:40:54] blazingskully: i scope in but i dont change the magnification
+[2026-10-06 00:42:25] blazingskully: if i had to guess i'm not using the armor correctly
+[2026-10-06 00:43:22] blazingskully: i think it was 50 meters when standing? and 30 when crouched or prone
+[2026-10-06 00:44:30] blazingskully: yeah
+[2026-10-06 00:44:42] blazingskully: i forgot
+[2026-10-06 00:45:28] blazingskully: but he didnt see you because of the armor passive
+[2026-10-06 00:46:26] blazingskully: i guess 60?
+[2026-10-06 00:46:34] blazingskully: oh
+[2026-10-06 00:47:07] blazingskully: i'm not using my tools correctly
+[2026-10-06 00:48:00] blazingskully: i dont know all i can think of is i'm not using my equipment properly
+[2026-10-06 00:50:16] blazingskully: i tried to fight without my support equipment
+[2026-10-06 00:50:54] blazingskully: because i thought it would anger the two patrols passing by me
+[2026-10-06 00:51:55] blazingskully: i dont know if i was on the heat i just saw two patrols and the other one on my right had a warstrider
+[2026-10-06 00:53:07] blazingskully: i guess i didnt stall them with a gas eagle first so i could call down my amr
+[2026-10-06 00:54:55] blazingskully: your aiming for the weak points if possible?
+[2026-10-06 00:55:52] blazingskully: you were standing outside their range?
+[2026-10-06 00:56:41] blazingskully: you killed them before they could confirm you?
+[2026-10-06 00:57:15] blazingskully: you broke line of dight?
+[2026-10-06 00:59:37] blazingskully: i wont learn if i dont ask questions
+[2026-10-06 01:01:53] blazingskully: i had it called down
+[2026-10-06 01:02:17] blazingskully: i had my amr and my supply pack equipped
+[2026-10-06 01:02:51] blazingskully: i wasnt paying attention and shield devs killed me from behind after i took out a small fabricator
+[2026-10-06 01:03:08] blazingskully: multiple
+[2026-10-06 01:03:20] blazingskully: i had 8 enemies targeting me and 1 searching
+[2026-10-06 01:03:58] blazingskully: its not too much i just need to be better
+[2026-10-06 01:04:57] blazingskully: i dont want us to take another break
