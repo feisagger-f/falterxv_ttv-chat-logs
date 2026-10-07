@@ -1,0 +1,77 @@
+Streamlabs observed chat log started 2026-10-06 21:06:04
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-06 21:06:34] FalterXV: !rules
+[2026-10-06 21:06:48] FalterXV: !guides
+[2026-10-06 21:06:49] FalterXV: !loadout
+[2026-10-06 21:07:22] FalterXV: !solos
+[2026-10-06 21:07:28] FalterXV: !commands
+[2026-10-06 21:07:30] FalterXV: !vanguard
+[2026-10-06 21:07:32] FalterXV: !lurk
+[2026-10-06 21:10:50] blazingskully: hello dere
+[2026-10-06 21:12:33] FalterXV: hello hello
+[2026-10-06 21:17:58] blazingskully: but did you know your amazing
+[2026-10-06 21:26:20] Whisper__Wolf: Yes also enjoy your steam gifts heheh ha
+[2026-10-06 21:34:34] ndubsxx21: dude chill lol
+[2026-10-06 21:35:10] blazingskully: did he ever have common courtesy?
+[2026-10-06 22:12:43] blazingskully: i mean flip is always gonna be a bother so we should have expected at least that
+[2026-10-06 22:55:39] blazingskully: It was quite the "Electrifying" Pun
+[2026-10-06 23:02:18] blazingskully: but did you know that there is this amazing person named falterXv
+[2026-10-06 23:12:23] Whisper__Wolf: wa wa wa wa wa
+[2026-10-06 23:14:32] Whisper__Wolf: : (
+[2026-10-07 00:05:48] blazingskully: Skullytor
+[2026-10-07 00:06:24] blazingskully: Nyeh Heh Beware He-Man I am a Helldiver now!
+[2026-10-07 00:10:18] blazingskully: featuring skully as skullytor lol
+[2026-10-07 00:17:46] blazingskully: Scv ready
+[2026-10-07 00:55:06] Whisper__Wolf: what cha doin
+[2026-10-07 00:55:43] Whisper__Wolf: Im not doing nothin
+[2026-10-07 00:55:57] Whisper__Wolf: Sures
+[2026-10-07 00:56:14] blazingskully: NYEH HEH! it was a successful Extraction with Skullytor!
+[2026-10-07 00:57:35] blazingskully: oh man going to the bathroom the heresy here
+[2026-10-07 01:01:33] blazingskully: i mean i'll never respond to his cries
+[2026-10-07 01:18:34] blazingskully: Welcome to helldivers where mecty talks like skeletor while weilding a halo sniper rifle and fighting tf2 automabutts
+[2026-10-07 01:55:21] blazingskully: remember we're all gamers. Until We meet again! Nyeh Heh!
+[2026-10-07 02:08:25] PFR_ErickTheRed: Greetings Helldiver, how are you
+[2026-10-07 02:13:18] PFR_ErickTheRed: I.... never expected a Helldiver that?, I mean I am The Automaton Commander
+[2026-10-07 02:15:35] blazingskully: turrets are useless after all
+[2026-10-07 02:15:39] PFR_ErickTheRed: I'm assistant you Helldivers on Senge 23 -_-
+[2026-10-07 02:18:03] PFR_ErickTheRed: I'd much rather collect Platinum bars and Batter cells for Cyberstan then deal the them, but I can't say no to medals
+[2026-10-07 02:20:43] PFR_ErickTheRed: I'm busy building Something on Cyberstan, and Helping the MO, Jol I hate multasking TwT
+[2026-10-07 02:22:08] PFR_ErickTheRed: I'm debating about adding Flame throwers to the Cyborgs, and Jet packs to
+[2026-10-07 02:23:51] PFR_ErickTheRed: Possibly
+[2026-10-07 02:24:32] PFR_ErickTheRed: Automaton Titan?
+[2026-10-07 02:24:33] shadowwolf1357463: WE WILL SURVIVE DIVERS!
+[2026-10-07 02:25:09] shadowwolf1357463: I'm getting a pile of beers for after this mission to celebrate y'all
+[2026-10-07 02:25:34] shadowwolf1357463: My buddies and I dressed as helldivers last year and this yearf
+[2026-10-07 02:25:39] shadowwolf1357463: For Halloween
+[2026-10-07 02:26:35] shadowwolf1357463: One of my buddies who was drunk ran through his bedroom door thinking it was a fucking alien and I wheezed so hard
+[2026-10-07 02:27:15] shadowwolf1357463: He had to buy a new door and his explanation was the door looked at him wrong
+[2026-10-07 02:27:54] shadowwolf1357463: It looked at him weird? ITS A FUCKING DOOR IT DOESN'T HAVE EYES
+[2026-10-07 02:28:26] shadowwolf1357463: He was 5 vodkas deep
+[2026-10-07 02:28:35] blazingskully: Door Stuck! Please! I beg you! lol
+[2026-10-07 02:28:53] shadowwolf1357463: He put vodka in his stims and downed them everytime he got hurt
+[2026-10-07 02:30:46] shadowwolf1357463: I was the team medic and dragged his ass into bed
+[2026-10-07 02:31:16] shadowwolf1357463: All 248 pounds of him
+[2026-10-07 02:32:25] shadowwolf1357463: I have an excuse to dick shot aliens?
+[2026-10-07 02:32:34] shadowwolf1357463: YESYESYES!
+[2026-10-07 02:32:46] shadowwolf1357463: IM REDOWNLOADING HELLDIVERS 2 RIGHT NOW
+[2026-10-07 02:34:00] shadowwolf1357463: Im my teams medic and dragged my drunk buddy to bed all 248 ibs of him
+[2026-10-07 02:35:01] shadowwolf1357463: Rule 1 of a Helldiver do not remove their helmet
+[2026-10-07 02:37:55] shadowwolf1357463: My ex girlfriend called Helldivers 2 discount star wars
+[2026-10-07 02:39:43] shadowwolf1357463: I made her watch a 8 hour explanation between helldivers 2 and star wars
+[2026-10-07 02:40:52] shadowwolf1357463: HELLDIVERS 2 IS A GODLY GAME STAR WARS IS SOME PUNY MOVIE WITH WHITE ARMOR AND THE DIVERS IN STAR WARS FIGHT HUMANS NOT ALIENS
+[2026-10-07 02:40:52] ndubsxx21: message deleted by a moderator.
+[2026-10-07 02:41:30] shadowwolf1357463: But the divers in helldivers fight world ending aliens
+[2026-10-07 02:41:49] shadowwolf1357463: Stormtroopers fight people with glow sticks
+[2026-10-07 02:44:44] shadowwolf1357463: Give me a 12 gauge or a AR-15 I could survive star wars
+[2026-10-07 02:45:29] shadowwolf1357463: It's war what's the point
+[2026-10-07 02:47:54] shadowwolf1357463: The mandolorians actually banned shotguns because it wasn't merciful or some BS
+[2026-10-07 02:48:26] shadowwolf1357463: They'd hate miniguns then
+[2026-10-07 02:49:10] shadowwolf1357463: No
+[2026-10-07 02:49:25] shadowwolf1357463: They have LMG's
+[2026-10-07 02:49:32] shadowwolf1357463: Light machine guns
+[2026-10-07 03:05:03] blazingskully: squids are a weird faction to fight lol
