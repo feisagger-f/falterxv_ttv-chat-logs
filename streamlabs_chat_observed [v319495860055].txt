@@ -1,0 +1,31 @@
+Streamlabs observed chat log started 2026-10-07 21:21:24
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-07 21:22:49] FalterXV: !rles
+[2026-10-07 21:22:50] FalterXV: !rules
+[2026-10-07 21:22:51] FalterXV: !guides
+[2026-10-07 21:22:53] FalterXV: !vanguard
+[2026-10-07 21:22:59] FalterXV: !solos
+[2026-10-07 21:23:01] FalterXV: !lurk
+[2026-10-07 21:25:04] cornbreablicker: hi
+[2026-10-07 21:25:31] blazingskully: idk why destiny made this exotic mission this way even after remembering
+[2026-10-07 21:26:24] cornbreablicker: waht mission are you doing?
+[2026-10-07 21:31:29] cornbreablicker: cant hear the person you are talking to?
+[2026-10-07 21:37:24] cornbreablicker: L
+[2026-10-07 21:52:51] blazingskully: welcome to destiny 2 where sometimes things can be just silly for the sake of being silly lol
+[2026-10-07 22:12:00] blazingskully: no? man i knew it
+[2026-10-07 22:33:30] blazingskully: falter being the sillies here
+[2026-10-07 22:38:22] blazingskully: maximum silliness here
+[2026-10-07 22:58:51] blazingskully: whisper is such a gamer she carries in every game
+[2026-10-07 23:32:45] blazingskully: yeah i can rebuild it it'll just take time
+[2026-10-07 23:44:03] blazingskully: whisper actually carries
+[2026-10-08 00:21:39] blazingskully: that last boss is just intense though like the boomer weapon hurts if it direct impacts you
+[2026-10-08 00:49:53] blazingskully: the dinnerplate was such a weird exotic ngl
+[2026-10-08 00:50:21] FalterXV: @whisper__wolf
+[2026-10-08 00:50:23] FalterXV: carried us hard
+[2026-10-08 00:52:39] blazingskully: whisper is the true gamer carrying us the way she did
+[2026-10-08 01:21:36] blazingskully: i am super sure one could say
