@@ -1,0 +1,230 @@
+Streamlabs observed chat log started 2026-10-11 21:32:00
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-11 21:33:32] blazingskully: hello dere
+[2026-10-11 21:34:28] FalterXV: hello hello
+[2026-10-11 21:34:29] FalterXV: !rules
+[2026-10-11 21:34:30] FalterXV: !guides
+[2026-10-11 21:34:34] FalterXV: !loadouts
+[2026-10-11 21:34:35] FalterXV: !solos
+[2026-10-11 21:34:37] FalterXV: !loadout
+[2026-10-11 21:34:42] FalterXV: !lurk
+[2026-10-11 21:35:01] FalterXV: Had to wait for my headache to calm down
+[2026-10-11 21:35:25] blazingskully: oof i hope your feeling a little better at least
+[2026-10-11 21:35:37] FalterXV: *eh* slightly
+[2026-10-11 21:35:56] blazingskully: better than feeling worse at least
+[2026-10-11 21:36:22] FalterXV: Yeah, I def have a massive fever now
+[2026-10-11 21:36:30] FalterXV: Like, I've had one for days
+[2026-10-11 21:36:36] FalterXV: but today it's obvious I have one now
+[2026-10-11 21:36:50] blazingskully: rip
+[2026-10-11 21:36:57] blazingskully: well i hope you get well soon
+[2026-10-11 21:37:47] FalterXV: Flip's crying again
+[2026-10-11 21:38:02] blazingskully: doesnt he always? lol
+[2026-10-11 21:38:19] blazingskully: what about this time
+[2026-10-11 21:38:42] FalterXV: he's crying on his cheesecake alt profile
+[2026-10-11 21:38:49] FalterXV: and he's crying on reddit like usual
+[2026-10-11 21:39:32] blazingskully: somehow i'm not surprised i'm guessing its because nobody is paying atn to him
+[2026-10-11 21:39:43] blazingskully: attention*
+[2026-10-11 21:39:46] blazingskully: i know words
+[2026-10-11 21:40:23] FalterXV: he doesn't like that I have the stream he has tried repeatedly to lie about from 2 years ago still that he tried to post recently on YT and after his tears on steam this morning, he's really angry YT took it down like I knew they would. he's off his rocker threatening me again like a true sp3rg
+[2026-10-11 21:41:00] blazingskully: wow
+[2026-10-11 21:41:03] FalterXV: you know, the one where he claimed I was banned from World of Warships with Royalty, we went and did a stream showing I wasn't. I switched games and he cried a bunch of lies with Silvyspark adn the like the next day
+[2026-10-11 21:41:24] blazingskully: yeah i remember lol
+[2026-10-11 21:42:01] blazingskully: yeah
+[2026-10-11 21:42:32] blazingskully: bruh thats not gonna happen lol
+[2026-10-11 21:43:27] blazingskully: literally ironic
+[2026-10-11 21:44:44] blazingskully: its not that hard to deduce it was on friends only like i lmao
+[2026-10-11 21:46:12] blazingskully: man it would be so weird totally
+[2026-10-11 21:47:41] blazingskully: if you hold the receipts i pretty sure it makes it clear your in the right at this point lol
+[2026-10-11 21:48:19] blazingskully: man so mindblowing
+[2026-10-11 21:50:05] blazingskully: why even say anything they're showing everyone who and what they really are all on their own lol
+[2026-10-11 21:50:50] blazingskully: xD
+[2026-10-11 21:52:22] blazingskully: i dont think he'll accept the facts though like all things considered
+[2026-10-11 21:53:35] blazingskully: i think he's just praying people arent smart enough to see that its just him on an alt trying to make drama lol
+[2026-10-11 21:57:17] blazingskully: i mean i dont think it ever factored in because after all that wouldnt fit his narrative of falter bad right? lol
+[2026-10-11 22:00:51] blazingskully: even if you did file one do you really think it'd stop him? he'll just try to spin it that he filed it against you which even then nobody will believe because flip is a liar
+[2026-10-11 22:04:16] blazingskully: i think he realizes he just doesnt want to admit you were right lok
+[2026-10-11 22:04:23] blazingskully: lol*
+[2026-10-11 22:08:40] blazingskully: at the end of the day its still hilarious seeing him throw a tantrum like this cause like bruh it shouldnt be that surprising lol
+[2026-10-11 22:11:05] blazingskully: pretty good we're working on the new randomized palworld world i told you about i got bodied by a pal in the starting area lol
+[2026-10-11 22:11:21] Whisper__Wolf: It’s good
+[2026-10-11 22:11:36] Whisper__Wolf: Me? I don’t stream
+[2026-10-11 22:11:42] blazingskully: hi whisper
+[2026-10-11 22:11:49] FalterXV: !so @Whisper__Wolf
+[2026-10-11 22:12:16] blazingskully: lol
+[2026-10-11 22:13:00] blazingskully: squids? nobody likes squids lol
+[2026-10-11 22:13:26] Whisper__Wolf: Perhaps
+[2026-10-11 22:14:49] blazingskully: i totally didnt message whisper malfoid nope not at all
+[2026-10-11 22:15:10] blazingskully: it was opening earlier idk why it brokded
+[2026-10-11 22:15:55] Whisper__Wolf: Yus
+[2026-10-11 22:16:00] Whisper__Wolf: No
+[2026-10-11 22:16:34] blazingskully: what about
+[2026-10-11 22:16:36] blazingskully: unless
+[2026-10-11 22:17:26] blazingskully: i think your energetic because youve got amazing friends to support you like the gamer who totally carries us known as whisper
+[2026-10-11 22:18:23] blazingskully: nobody cares about who reposted first what we care about if malfoid is peak
+[2026-10-11 22:18:32] blazingskully: is that* words
+[2026-10-11 22:19:41] blazingskully: also i cant give whisper my soul because i'm using it to admire malfoid the true purpose for a soul lol
+[2026-10-11 22:20:12] blazingskully: hmmm
+[2026-10-11 22:20:21] blazingskully: if they use it responsibly then thats fine
+[2026-10-11 22:21:11] blazingskully: as long as its used responsibly i will give up my soul lol
+[2026-10-11 22:21:53] Whisper__Wolf: Uhhhhh
+[2026-10-11 22:22:13] blazingskully: hey that automabutt isnt allowed to be in the wall this is against helldiver regulations lol
+[2026-10-11 22:23:10] blazingskully: hey i am not a maurauder map i'm a house elf at best
+[2026-10-11 22:24:18] blazingskully: bruh do we make her harry potter pilled tho?
+[2026-10-11 22:24:59] blazingskully: oml lol
+[2026-10-11 22:25:29] blazingskully: the music is a bop tho
+[2026-10-11 22:25:57] blazingskully: innocent falter noises over here
+[2026-10-11 22:26:03] Whisper__Wolf: I go back to work now’s
+[2026-10-11 22:27:07] blazingskully: what is going on with vtube studio lately like wut
+[2026-10-11 22:27:44] blazingskully: ok 1
+[2026-10-11 22:27:47] Whisper__Wolf: Skully
+[2026-10-11 22:28:05] blazingskully: i'm innocent
+[2026-10-11 22:28:33] blazingskully: i am not lol
+[2026-10-11 22:28:41] blazingskully: i am a skully not those other things
+[2026-10-11 22:29:45] blazingskully: welcome back
+[2026-10-11 22:30:17] blazingskully: your so funny i swear
+[2026-10-11 22:30:55] blazingskully: clearly it must be true lol
+[2026-10-11 22:31:44] blazingskully: lol totally innocent whisper over here xD
+[2026-10-11 22:32:04] Whisper__Wolf: But the hype train
+[2026-10-11 22:32:08] blazingskully: i think your vtuber is struggling to move smoothly
+[2026-10-11 22:33:22] blazingskully: is vtube studio struggling to handle multiple things or do you think its might be getting ready to update or somethin?
+[2026-10-11 22:33:51] blazingskully: i am innocent here
+[2026-10-11 22:34:29] blazingskully: well secretly i'm actually just a crab lol
+[2026-10-11 22:34:52] Whisper__Wolf: I go now
+[2026-10-11 22:35:07] blazingskully: and behind that crab i'm actually skullytor looking to defeat he-man once and for all
+[2026-10-11 22:35:28] Whisper__Wolf: I am okays~
+[2026-10-11 22:36:03] Whisper__Wolf: Don’t make me gift a million billon
+[2026-10-11 22:36:39] Whisper__Wolf: I go now you behave~ and be good
+[2026-10-11 22:37:02] blazingskully: i almost thought that was a lidar
+[2026-10-11 22:37:42] blazingskully: fabricator's those dont exist lol
+[2026-10-11 22:38:52] blazingskully: that train and that whisper was pretty hype didnt you know? cause whisper is a gamer who carries us
+[2026-10-11 22:39:44] blazingskully: i think you got ragdolled by the explosion force of the fabricator when they die
+[2026-10-11 22:40:25] blazingskully: because helldivers is helldivers thats why
+[2026-10-11 22:42:03] blazingskully: that gunship just did not want to go down lol
+[2026-10-11 22:43:29] blazingskully: lol your jellys
+[2026-10-11 22:44:51] blazingskully: you'll be fine your a gamer
+[2026-10-11 22:46:12] blazingskully: lol the factory strider was like no you will come over to me
+[2026-10-11 22:48:21] blazingskully: i mean its also because we found a bunch of games we've been getting back into
+[2026-10-11 22:48:43] blazingskully: and then you introduced me to another game lol
+[2026-10-11 22:49:53] blazingskully: wait now i'm flip? oh man i guess that means i have to cry on reddit and steam now xD
+[2026-10-11 22:50:14] blazingskully: your fine i'm just being silly
+[2026-10-11 22:53:36] blazingskully: your doing this and that? oh man true gamer mode now
+[2026-10-11 22:54:35] blazingskully: your being so funny i swear
+[2026-10-11 22:55:08] blazingskully: i think i know it i havent listened to a lot of songs for a while now so i might need to re listen to some
+[2026-10-11 22:57:07] blazingskully: well you know what guess what i just did
+[2026-10-11 22:57:44] blazingskully: https://www.twitch.tv/falterxv/clip/GoldenAlertKumquatDansGame-xtMXdXKbcZFluavD Bam Factory strider decides to be a Nerd but fails to defeat Falter Clipped by blazingskully
+[2026-10-11 22:58:27] blazingskully: i thought it was a funny name
+[2026-10-11 22:59:09] blazingskully: i mean true but laser can also take out a lot of fabricators in one go along with the objective if its a kill objective anyways lol
+[2026-10-11 23:00:17] blazingskully: i need to find that kermit eagle one pilot so i can be a Mecty who sounds like Skeletor calling in kermit the frog to take out my enemies
+[2026-10-11 23:01:29] blazingskully: nobody likes the stalwart they just think they do lol
+[2026-10-11 23:03:00] blazingskully: lol the supplies were like but it would be a waste of a good roof
+[2026-10-11 23:04:01] blazingskully: lol the drop was like no we want falter hugs now
+[2026-10-11 23:05:19] blazingskully: you warned him and everything
+[2026-10-11 23:07:06] blazingskully: i see you doing the terminal and now all i can hear is skeletor going you got any games on that terminal? lol
+[2026-10-11 23:07:43] blazingskully: man i got got
+[2026-10-11 23:09:06] blazingskully: lol thats like the ultimate excuse to use a commando though isnt it? id approach you but i'm too lazy so i'll shoot you in the back
+[2026-10-11 23:10:04] blazingskully: you thought it was a helldiver but it was me the commando all along!
+[2026-10-11 23:10:53] blazingskully: but no matter what it is the Wry lives on forever lol
+[2026-10-11 23:10:54] Whisper__Wolf: Give me your soul Skully
+[2026-10-11 23:12:06] blazingskully: the knifehands just want a hug clearly
+[2026-10-11 23:14:06] blazingskully: you warned him and everything and he got rekt
+[2026-10-11 23:15:20] blazingskully: bruh the music for extraction sounds amazing
+[2026-10-11 23:16:13] blazingskully: super casual you know
+[2026-10-11 23:17:13] blazingskully: i mean the fact your sick and still managed ot pull off a w id say your doing pretty good
+[2026-10-11 23:18:08] blazingskully: oh so like you got a cold from the rain and then that kinda made it worse essentially?
+[2026-10-11 23:18:54] Whisper__Wolf: How do you use a soul responsibly
+[2026-10-11 23:19:24] blazingskully: i still say you did pretty good all things considered
+[2026-10-11 23:20:00] blazingskully: i will not cause your a gamer
+[2026-10-11 23:20:44] blazingskully: fair
+[2026-10-11 23:21:19] blazingskully: i mean of course flip thinks 6's are hard because he's not on easy mode lol
+[2026-10-11 23:22:11] blazingskully: yeah i believe thats what he said i dont remember
+[2026-10-11 23:25:16] blazingskully: bruh the ambience looks amazing especially with the jellyfish lighting up the dark
+[2026-10-11 23:25:16] Whisper__Wolf: Beep boop
+[2026-10-11 23:26:09] blazingskully: why cant all games look this pretty and not just the big name ones
+[2026-10-11 23:27:20] blazingskully: why cant AH just fix the ragdoll issue these are the true questions
+[2026-10-11 23:29:18] blazingskully: that was actually kinda funny just billybobs running in and overlook you completely lol
+[2026-10-11 23:30:31] blazingskully: plot twist the covenant word is actually just what they call master chieif lol
+[2026-10-11 23:30:37] blazingskully: cheif*
+[2026-10-11 23:31:43] blazingskully: i heard stimp stompin is that a convoy?
+[2026-10-11 23:33:29] blazingskully: lol the striders are like but we wanted to enjoy a walk
+[2026-10-11 23:35:34] blazingskully: you live cause your a gamer wew!
+[2026-10-11 23:37:01] blazingskully: man clearly it must be true and totally not a lie right? lol
+[2026-10-11 23:37:18] blazingskully: i dunno you seem pretty believable to me
+[2026-10-11 23:38:30] blazingskully: man another strider? much scary such wow
+[2026-10-11 23:39:53] blazingskully: stealth isnt real guys totally
+[2026-10-11 23:40:37] blazingskully: lol the hulk just needed to stomp on a bug
+[2026-10-11 23:43:04] blazingskully: oh my goodness lol
+[2026-10-11 23:47:22] blazingskully: i mean still they tried to defeat you with their silly automabutt guns
+[2026-10-11 23:49:34] blazingskully: darn
+[2026-10-11 23:51:48] blazingskully: i thought so to
+[2026-10-11 23:54:02] blazingskully: the game thinks your outside
+[2026-10-11 23:55:30] blazingskully: bruh how many devastators need to be there? lol
+[2026-10-11 23:57:38] blazingskully: bruh what was that swarm lol
+[2026-10-11 23:59:49] blazingskully: innocent falter noises as you look for command bunkers lol
+[2026-10-12 00:01:01] blazingskully: i've had moments like that sometimes yea
+[2026-10-12 00:01:36] blazingskully: i forgot does this planet have fire tornado's or just sandstrms
+[2026-10-12 00:02:21] blazingskully: both sound like a scary combo cause then it makes it harder to predict the tornados
+[2026-10-12 00:04:11] blazingskully: the game was like ok how many zerkers for this drop and AH said Yes lol
+[2026-10-12 00:05:14] blazingskully: yep totally not real stealth moment right there
+[2026-10-12 00:06:56] blazingskully: lol only in 3 seconds no more no less
+[2026-10-12 00:07:36] blazingskully: i need to rewatch monty python stuff again sometime
+[2026-10-12 00:10:43] blazingskully: eagles are weird like that sometimes
+[2026-10-12 00:11:13] blazingskully: pretty good and i tried to do some friendly trolling then i got nuked by a dragon LOL
+[2026-10-12 00:12:12] blazingskully: lol the way the hulk just stared at the floor as he ran at you
+[2026-10-12 00:13:54] blazingskully: you only want the supplies lol
+[2026-10-12 00:14:52] blazingskully: just jet brigade being jet brigade ya know?
+[2026-10-12 00:17:22] blazingskully: scariest combo ive experienced so far after coming back was still the jet bridage and incineration corps that i thought that one time
+[2026-10-12 00:17:33] blazingskully: fought*
+[2026-10-12 00:17:35] blazingskully: words
+[2026-10-12 00:18:49] blazingskully: i did not
+[2026-10-12 00:19:53] blazingskully: lol offering whisper a cookie this late at night? how scandoulus dont you know she'll be awake on sugar now?
+[2026-10-12 00:20:09] blazingskully: i knew it
+[2026-10-12 00:20:33] blazingskully: bruh 11 kills from a silo that is amazing
+[2026-10-12 00:21:25] blazingskully: bruh i actually thought that was a factory strider as well
+[2026-10-12 00:22:54] blazingskully: https://www.twitch.tv/falterxv/clip/GoldenAlertKumquatDansGame-xtMXdXKbcZFluavD Bam
+[2026-10-12 00:23:13] blazingskully: imagine a scout with a jetpack and they just use it to walk at sonic speeds as a normal thing
+[2026-10-12 00:24:39] blazingskully: he's trying ya know
+[2026-10-12 00:26:17] blazingskully: lol he will not
+[2026-10-12 00:27:13] blazingskully: it actually was kind of funny using the strider against the tower like that lol
+[2026-10-12 00:27:43] blazingskully: true tho
+[2026-10-12 00:29:17] blazingskully: its going good
+[2026-10-12 00:29:25] blazingskully: i'm finishing a dungeon
+[2026-10-12 00:30:07] blazingskully: its looking like they'll end at 12 my time so i should be able to join for a few games before i crash myself
+[2026-10-12 00:30:29] blazingskully: like hoo
+[2026-10-12 00:30:57] blazingskully: thats true tomorrow is money i almost thought tomorrow was saturday
+[2026-10-12 00:31:03] blazingskully: monday*
+[2026-10-12 00:31:07] blazingskully: i can english
+[2026-10-12 00:35:23] blazingskully: just casual hulks jetpacking you know the usual
+[2026-10-12 00:38:16] blazingskully: it basically feels like your forced to despawn the enemies when they're in the wall at that point
+[2026-10-12 00:39:28] blazingskully: right
+[2026-10-12 00:40:46] blazingskully: i've had that at least once
+[2026-10-12 00:41:36] blazingskully: imagine getting sponsored by ace combat
+[2026-10-12 00:42:25] blazingskully: its like bleh
+[2026-10-12 00:42:55] blazingskully: like i said i've only ever had that pain behind my eyes once
+[2026-10-12 00:43:55] blazingskully: bruh wut lol
+[2026-10-12 00:44:33] blazingskully: this is just hilarious
+[2026-10-12 00:46:42] blazingskully: i'm down for whatever i'm not sure if you planned on switching games or just continuing diver divers
+[2026-10-12 00:47:34] blazingskully: i mean i'm down to do risk of rain 2 again if thats relatively easy on your brain
+[2026-10-12 00:47:45] blazingskully: oml the same brain wavelength
+[2026-10-12 00:47:52] blazingskully: i was gonna suggest it
+[2026-10-12 00:48:57] blazingskully: i can join early if you want the energy is basically dying down here and i'm just running on energy from my chicken pot pie i had for breakfast earlier
+[2026-10-12 01:13:36] blazingskully: this game is always so silly at times and i love it
+[2026-10-12 01:55:20] blazingskully: you lived because your a gamer
+[2026-10-12 02:23:02] blazingskully: !lurk
+[2026-10-12 03:17:14] blazingskully: the floor looked like a floor one could even say
+[2026-10-12 03:48:06] blazingskully: when the game asks how many drones do you want dont say 1 or 2 say Yes lol
+[2026-10-12 03:59:52] blazingskully: which came first the chicken or the egg trick question it was actually a drone the whole time
+[2026-10-12 04:00:16] Whisper__Wolf: Colors
+[2026-10-12 04:01:57] Whisper__Wolf: What the heck is going on lol
+[2026-10-12 04:19:09] somegirlsname: !lurk
+[2026-10-12 04:19:11] FalterXV: !so @somegirlsname
+[2026-10-12 04:40:07] blazingskully: i was as fast as a tortise at best lol
+[2026-10-12 05:33:04] blazingskully: i was being a innocent skully enjoying my walk to the boss
+[2026-10-12 05:55:17] blazingskully: look i am a very innocent skully here and then suddenly i got blown up
+[2026-10-12 06:26:02] blazingskully: maximum silly mode engaged right there
+[2026-10-12 06:34:09] blazingskully: so many effects xD
+[2026-10-12 06:40:58] blazingskully: remember when finding drones buy more drones
