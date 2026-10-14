@@ -1,0 +1,46 @@
+Streamlabs observed chat log started 2026-10-13 21:27:38
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-13 21:28:15] blazingskully: hello dere
+[2026-10-13 21:28:21] FalterXV: hello
+[2026-10-13 21:28:25] FalterXV: can hear m00sic?
+[2026-10-13 21:29:06] blazingskully: i can indeed
+[2026-10-13 21:29:10] FalterXV: woot
+[2026-10-13 21:32:13] blazingskully: ace combat music is pretty good tho tbf
+[2026-10-13 21:34:01] FalterXV: it is
+[2026-10-13 21:36:29] FalterXV: hey @whisper__wolf wanna VC?
+[2026-10-13 21:36:36] FalterXV: hey @whisper__wolf wanna VC? hey @whisper__wolf wanna VC?
+[2026-10-13 21:36:43] FalterXV: all hug
+[2026-10-13 21:36:43] Whisper__Wolf: I cant'z : (
+[2026-10-13 21:36:50] FalterXV: nooooooooooooooo
+[2026-10-13 21:37:06] Whisper__Wolf: I have dinner and ma friend wanted to Valhimez
+[2026-10-13 21:37:09] Whisper__Wolf: doggo good
+[2026-10-13 21:37:27] Whisper__Wolf: I can hangout tomorrow
+[2026-10-13 21:38:02] Whisper__Wolf: Im not really ever busy lol It's just whoever takes me first kinda and if no one does then I go Fallout
+[2026-10-13 21:38:02] Whisper__Wolf: Im not really ever busy lol It's just whoever takes me first kinda
+[2026-10-13 21:38:04] blazingskully: innocent falter noises over here
+[2026-10-13 21:40:21] johnwick_426: Sup yall
+[2026-10-13 21:40:32] johnwick_426: Doing good
+[2026-10-13 21:41:18] Whisper__Wolf: WAAAA
+[2026-10-13 21:41:58] johnwick_426: I killed a saturation with a stim
+[2026-10-13 21:43:15] johnwick_426: I want that multi camo warbond
+[2026-10-13 21:43:49] johnwick_426: When does it come out
+[2026-10-13 21:44:04] johnwick_426: Gotcha
+[2026-10-13 21:44:26] johnwick_426: Im in texas
+[2026-10-13 21:46:52] Whisper__Wolf: LET ME LOVE YOU
+[2026-10-13 21:48:00] johnwick_426: Im excited for the new biom that they are gonna bring out
+[2026-10-13 21:48:13] johnwick_426: Ya
+[2026-10-13 21:48:19] johnwick_426: All
+[2026-10-13 21:53:41] johnwick_426: Iv never seen this map your on
+[2026-10-13 21:55:24] johnwick_426: Man I need to find a solid squad to play with these random people are just daft hahaha
+[2026-10-13 21:55:33] FalterXV: !rules
+[2026-10-13 21:56:13] johnwick_426: Gotcha im only a level 35
+[2026-10-13 22:27:22] makitovevo: I like guard dog’s but the supply pack is practically the crutches I can’t put away 😭
+[2026-10-13 22:27:33] makitovevo: Mission complete, gg!
+[2026-10-13 22:28:07] blazingskully: look in my defense i thought i could sneak behind the chinnies and survive lol
+[2026-10-13 22:29:36] makitovevo: That was me 😔
+[2026-10-13 22:30:13] makitovevo: okey dokey 🫡
