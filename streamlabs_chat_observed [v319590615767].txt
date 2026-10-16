@@ -1,0 +1,52 @@
+Streamlabs observed chat log started 2026-10-16 07:18:51
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-16 07:19:26] army_of_me11: hey los its me
+[2026-10-16 07:19:54] army_of_me11: yeah I accidentally joined your lobby with my lowlevel friend
+[2026-10-16 07:21:13] army_of_me11: mb coach
+[2026-10-16 07:21:37] army_of_me11: I made sure to leave behind my exo for the dude
+[2026-10-16 07:21:42] army_of_me11: i'm pretty sure
+[2026-10-16 07:22:49] Whisper__Wolf: What’s going on I fell asleep on the couch.
+[2026-10-16 07:24:45] Whisper__Wolf: I just got into my bed and saw you were streaming. You need to go to bed lol
+[2026-10-16 07:26:48] Whisper__Wolf: Okay, I’m going back to sleep you two have fun. Love you
+[2026-10-16 07:26:54] army_of_me11: I forgot to mention my Internet was really shi and I kept crashing from games and my Discord wasn't working for my friend
+[2026-10-16 07:26:58] army_of_me11: I did rage quit
+[2026-10-16 07:27:03] army_of_me11: tho
+[2026-10-16 07:27:24] Whisper__Wolf: It’s at night thou ill be okay
+[2026-10-16 07:28:31] Whisper__Wolf: I noticed you left but I thought it was cause I didn’t deploy you lol
+[2026-10-16 07:28:35] Whisper__Wolf: Army
+[2026-10-16 07:29:08] army_of_me11: I wasn't mad that you didn't deploy me
+[2026-10-16 07:32:47] Whisper__Wolf: Well, shouldn’t have quit what made you rage lol
+[2026-10-16 07:32:54] Whisper__Wolf: Army?
+[2026-10-16 07:33:16] army_of_me11: oh shi we got Eagle star on senge 23
+[2026-10-16 07:33:42] army_of_me11: sry for that
+[2026-10-16 07:34:33] army_of_me11: I was running in place and I couldn't move or look around due to my Internet
+[2026-10-16 07:35:43] Whisper__Wolf: Oh..okay well anyways I go to the void I sleep
+[2026-10-16 07:36:10] army_of_me11: and I'm pretty sure it was just my cat messing with my ethernet cord
+[2026-10-16 07:40:28] army_of_me11: what's your thoughts on the new warbond
+[2026-10-16 07:44:06] army_of_me11: i bought like two of my friends helldivers the other day
+[2026-10-16 07:52:46] blazingskully: i shouldnt have hid behind you and i realize that i just thought i was helping by foing for the fabricators first
+[2026-10-16 07:59:13] blazingskully: i failed the mission
+[2026-10-16 08:03:00] blazingskully: i blew up a jetpack that was in my face
+[2026-10-16 08:08:15] blazingskully: then i'll practice and try to learn from my mistakes
+[2026-10-16 08:13:31] blazingskully: your closer because you know how to engage your targets where as i keep running in blind and aggroing the objective when i could have been taking out the guarders from a distance
+[2026-10-16 08:14:48] blazingskully: so then what should i change it to?
+[2026-10-16 08:17:35] blazingskully: i saw it was medium pen and i guess i just assumed as long as i land my shots right i can get away with firing it outside 30 meters
+[2026-10-16 08:19:47] blazingskully: yeah i remember
+[2026-10-16 08:20:40] blazingskully: i remember yes
+[2026-10-16 08:21:54] blazingskully: not trying to sound passive aggressive just to clarify, like i said when i first unlocked it my assumption was if i land shots right even outside the range then i should be able to get away with being medium or long range with it
+[2026-10-16 08:23:52] blazingskully: because the leg has higher durable right? or is it higher health
+[2026-10-16 08:27:02] blazingskully: i guess i never noticed it no
+[2026-10-16 08:27:23] blazingskully: i just assumed if its light pen then light pen weapons are weaker then medium or heavy
+[2026-10-16 08:30:18] blazingskully: what warbond was the solo silo? cause this 7 i'm trying to practice on has a convoy
+[2026-10-16 08:31:47] blazingskully: ok thank you
+[2026-10-16 08:32:44] blazingskully: i dunno i guess i got too confident after clearing a single solo 6 despite having 4 deaths
+[2026-10-16 08:33:23] blazingskully: i went for main objectives only not full map clears
+[2026-10-16 08:34:06] blazingskully: it was the desert map with the sandstorms i forgot the planet but that was the general environment
+[2026-10-16 09:03:07] FalterXV: !guides
+[2026-10-16 09:56:39] FluffyRussie: Hey are you that guy that likes to Micromanage is squad members?
+[2026-10-16 10:11:08] blazingskully: if he ate humble pie he'd spit it out because strawberries
