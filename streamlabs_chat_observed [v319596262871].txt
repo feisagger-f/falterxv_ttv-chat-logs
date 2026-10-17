@@ -1,0 +1,18 @@
+Streamlabs observed chat log started 2026-10-16 20:40:38
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-16 20:41:06] FalterXV: !lurk
+[2026-10-16 21:22:40] blazingskully: all hail malfoid
+[2026-10-16 21:29:48] blazingskully: welcome to risk of rain 2 how many voids do you want lol
+[2026-10-16 21:30:47] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw?t=10
+[2026-10-16 21:31:18] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw
+[2026-10-16 21:41:18] blazingskully: did you know that there is an amazing streamer named FalterXV
+[2026-10-16 22:45:28] blazingskully: just moar missiles
+[2026-10-16 23:04:25] blazingskully: funny falter over here
+[2026-10-16 23:14:34] blazingskully: did you know that the floor is actually made out of floor
+[2026-10-16 23:20:46] blazingskully: your seeing this right? falter being the sillies
+[2026-10-17 00:05:57] blazingskully: innocent falter noises
