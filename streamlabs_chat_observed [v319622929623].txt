@@ -1,0 +1,115 @@
+Streamlabs observed chat log started 2026-10-18 21:08:09
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-18 21:08:56] FalterXV: !rules
+[2026-10-18 21:08:57] FalterXV: !giudes
+[2026-10-18 21:08:59] FalterXV: !loadout
+[2026-10-18 21:09:44] FalterXV: !guides
+[2026-10-18 21:09:47] FalterXV: !solos
+[2026-10-18 21:09:51] FalterXV: !vanguard
+[2026-10-18 21:09:52] blazingskully: ahoy dere
+[2026-10-18 21:09:52] FalterXV: !commands
+[2026-10-18 21:09:55] FalterXV: !lurk
+[2026-10-18 21:10:11] blazingskully: lol
+[2026-10-18 21:52:10] blazingskully: Lets groove tonight
+[2026-10-18 23:32:48] blazingskully: https://www.twitch.tv/falterxv/clip/HilariousBlatantBananaTwitchRaid-95jQGnmfHquuUIMg What Factory Strider? Those dont exist Clipped by blazingskully
+[2026-10-18 23:38:12] blazingskully: https://www.twitch.tv/falterxv/clip/VenomousAntediluvianHamburgerUnSane-qx2Thv3i397VD11w Turret User thinks they can sneak in but fails with flying colors. Clipped by blazingskully
+[2026-10-18 23:39:19] blazingskully: and he thought he could be sneaky
+[2026-10-18 23:41:30] army_of_me11: I just finished my first D10 commando operation
+[2026-10-18 23:41:44] blazingskully: man its almost like turrets didnt help
+[2026-10-18 23:42:55] army_of_me11: I was scared the entire time doing it😭✌️
+[2026-10-19 00:27:30] blazingskully: i bet he got bored
+[2026-10-19 00:27:54] blazingskully: his totally real wife that isnt actually his sister but is also his girlfriend?
+[2026-10-19 00:32:16] blazingskully: https://www.twitch.tv/falterxv/clip/AntsySavoryWolfCoolStoryBro-bFe3CqzBba9Mcden When CMU thought he could sneak into a skilled lobby Clipped by blazingskully
+[2026-10-19 00:34:31] blazingskully: https://www.twitch.tv/falterxv/clip/IntelligentBreakableBarracudaTriHard-hg5zunQGd4Ivrlvq 300 Meter Shot and a third snipe? Expert Aim going on 10/10 Clipped by blazingskully
+[2026-10-19 00:39:21] blazingskully: stealth doesnt exist totally
+[2026-10-19 00:43:37] blazingskully: https://www.twitch.tv/falterxv/clip/RamshacklePolishedWaffleTheTarFu-4AuFoDarsWoD7wsx CMU experiencing Self defense after trying to use an eagle to kill falter and failed Spectacularly. Clipped by blazingskully
+[2026-10-19 00:48:37] thephlip: lol its funny ggs
+[2026-10-19 00:48:43] thephlip: you shot me while i was chillin
+[2026-10-19 00:48:45] thephlip: ggs
+[2026-10-19 00:49:02] thephlip: naw first 3 kilsl i was chillin
+[2026-10-19 00:49:07] thephlip: then i came to try to kill you lol
+[2026-10-19 00:49:10] thephlip: you got me good brotha
+[2026-10-19 00:49:28] thephlip: i didnt have it
+[2026-10-19 00:49:33] thephlip: other guy
+[2026-10-19 00:49:59] thephlip: naw we were trying to clear the mission you were sniping us
+[2026-10-19 00:50:11] thephlip: I didnt have the erupter
+[2026-10-19 00:50:17] thephlip: i was at the flag
+[2026-10-19 00:50:21] thephlip: 1
+[2026-10-19 00:50:28] thephlip: i dropped in
+[2026-10-19 00:50:41] thephlip: all good brotha
+[2026-10-19 00:50:52] thephlip: i was wondering why you were killing us
+[2026-10-19 00:50:58] thephlip: i thought you were mad at us
+[2026-10-19 00:51:13] thephlip: take it easy man ggs
+[2026-10-19 00:51:32] blazingskully: who's mad? lol all i hear is laughter
+[2026-10-19 00:51:47] thephlip: i'm on an add ill watch it for you lol
+[2026-10-19 01:38:09] blazingskully: Maximum silly mode engage lol
+[2026-10-19 01:56:48] danydg2: so getting ready for the new warbond?
+[2026-10-19 01:57:08] danydg2: hahahahaha
+[2026-10-19 01:57:23] danydg2: damn calling everyone out
+[2026-10-19 01:58:26] danydg2: yeah i was looking for works
+[2026-10-19 01:59:37] danydg2: wait what?
+[2026-10-19 01:59:44] danydg2: im sorry to hear that flater
+[2026-10-19 01:59:57] danydg2: one sec
+[2026-10-19 02:13:05] Whisper__Wolf: I did yes I replied
+[2026-10-19 02:13:30] Whisper__Wolf: Oh okay
+[2026-10-19 02:13:45] Whisper__Wolf: How did you know it was him?
+[2026-10-19 02:14:03] Whisper__Wolf: da f a q lol
+[2026-10-19 02:15:45] Whisper__Wolf: What did he say in chat?
+[2026-10-19 02:17:46] Whisper__Wolf: That's funny lol
+[2026-10-19 02:18:26] Whisper__Wolf: I am eating dinner
+[2026-10-19 02:19:31] FalterXV: avast ye' matey
+[2026-10-19 02:24:35] danydg2: sorry about that i got a call and it was a interview
+[2026-10-19 02:27:50] Whisper__Wolf: I need a jamba Juice
+[2026-10-19 02:27:54] koofroot: legendary duo
+[2026-10-19 02:28:01] Whisper__Wolf: It was boring lol
+[2026-10-19 02:28:47] blazingskully: Falter carried i'm not that legendary
+[2026-10-19 02:29:11] Whisper__Wolf: I would but I can't tonight I'm kinda tiredz and hungry I don't think i'd be fun lol
+[2026-10-19 02:29:27] Whisper__Wolf: Love you too
+[2026-10-19 02:30:47] koofroot: hes lying
+[2026-10-19 02:31:25] koofroot: supsup
+[2026-10-19 02:34:04] koofroot: HOW DEAR YOU SPEAK ABOUT MY BABY DEADLOCK
+[2026-10-19 02:34:15] koofroot: shes not even born yet
+[2026-10-19 02:34:31] blazingskully: https://www.twitch.tv/falterxv/clip/HilariousBlatantBananaTwitchRaid-95jQGnmfHquuUIMg
+[2026-10-19 02:34:38] koofroot: ahahh
+[2026-10-19 02:34:48] koofroot: its always the team ngl
+[2026-10-19 02:35:29] koofroot: do you also have deadlock on stream?
+[2026-10-19 02:35:29] blazingskully: https://www.twitch.tv/falterxv/clip/VenomousAntediluvianHamburgerUnSane-qx2Thv3i397VD11w
+[2026-10-19 02:35:37] koofroot: am i missing something
+[2026-10-19 02:37:01] Whisper__Wolf: I have mash potatoes
+[2026-10-19 02:42:54] blazingskully: and you know they angered every single bug before even touching the flag
+[2026-10-19 02:50:52] blazingskully: i mean its funny seeing them argue regardless lol
+[2026-10-19 02:52:00] Whisper__Wolf: I liked the convo I was just eatin food Silly
+[2026-10-19 02:52:06] Whisper__Wolf: \
+[2026-10-19 02:52:45] koofroot: i dont have the skill in general ngl
+[2026-10-19 02:53:31] blazingskully: https://www.twitch.tv/falterxv/clip/AntsySavoryWolfCoolStoryBro-bFe3CqzBba9Mcden
+[2026-10-19 02:53:38] koofroot: sniper-fire-shotguns i loved it
+[2026-10-19 02:54:32] blazingskully: https://www.twitch.tv/falterxv/clip/IntelligentBreakableBarracudaTriHard-hg5zunQGd4Ivrlvq
+[2026-10-19 02:54:51] koofroot: imagine working on a feature for a 3 month and then just not releasing it
+[2026-10-19 02:54:57] koofroot: fells bad men
+[2026-10-19 02:55:12] koofroot: in hd2
+[2026-10-19 02:55:26] koofroot: they gave us easy win just cause they worked so hard on the content
+[2026-10-19 02:56:32] Whisper__Wolf: I want more
+[2026-10-19 02:56:57] blazingskully: https://www.twitch.tv/falterxv/clip/RamshacklePolishedWaffleTheTarFu-4AuFoDarsWoD7wsx
+[2026-10-19 02:57:53] blazingskully: whisper over here trying to steal stolen souls
+[2026-10-19 02:57:53] thephlip: message deleted by a moderator.
+[2026-10-19 02:58:11] koofroot: hehe
+[2026-10-19 02:58:26] koofroot: you dont have any
+[2026-10-19 02:58:29] koofroot: youre ginger
+[2026-10-19 02:59:03] koofroot: is that a bad word? hah?
+[2026-10-19 02:59:08] koofroot: what?
+[2026-10-19 03:04:12] koofroot: i see you prefer the alternative util on that guy
+[2026-10-19 03:07:13] Whisper__Wolf: ima go mod Fallout and pet ma Doggo I will talk to you all laters
+[2026-10-19 03:10:29] koofroot: @blazingskully you can try to stack mushrooms, its insane if you can get enough
+[2026-10-19 03:10:45] koofroot: ye
+[2026-10-19 03:10:49] varondtox: is your avatar a character from a game or an oc shipgirl?
+[2026-10-19 03:14:07] koofroot: hm, do you still keep the extra health even if the blood temp?
+[2026-10-19 03:14:45] koofroot: yoo
+[2026-10-19 03:14:57] koofroot: oh wait, you have a perma one
+[2026-10-19 03:16:23] koofroot: i liked to have firewerks with this one and a orange that spawns an interactable on use
+[2026-10-19 03:17:08] koofroot: hehehe
+[2026-10-19 03:51:39] blazingskully: the builds are getting memey i love it
