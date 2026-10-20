@@ -1,0 +1,73 @@
+Streamlabs observed chat log started 2026-10-19 23:10:53
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-19 23:53:32] blazingskully: our a gamer
+[2026-10-19 23:53:38] blazingskully: you're**
+[2026-10-20 00:39:39] blazingskully: bruh how many ragdolls in this mission the answer is yes lol
+[2026-10-20 01:13:41] pileofbears: Genuinely
+[2026-10-20 01:13:43] pileofbears: Go outside
+[2026-10-20 01:13:46] blazingskully: !solos
+[2026-10-20 01:13:47] FalterXV: !solos
+[2026-10-20 01:14:02] pileofbears: You're teamkilling in a co-op game.
+[2026-10-20 01:14:13] pileofbears: Your lobby is open.
+[2026-10-20 01:15:16] FalterXV: !ri;es
+[2026-10-20 01:15:21] FalterXV: !rules
+[2026-10-20 01:16:46] blazingskully: yep
+[2026-10-20 01:18:20] blazingskully: i mean even then the fact they run two turrets kind of just shows they cant aim both their primary and secondary
+[2026-10-20 01:25:06] blazingskully: youd think a music overhaul would work no matter where you are
+[2026-10-20 01:54:00] Firedork5000: get a life
+[2026-10-20 01:54:07] Firedork5000: calm down
+[2026-10-20 02:17:17] Leafushu: Hiii Falter :3
+[2026-10-20 02:17:42] Leafushu: nope LOL
+[2026-10-20 02:22:18] cheese_duster: Man I wish I could play Helldivers I have no internet T-T
+[2026-10-20 02:34:17] koofroot: suup
+[2026-10-20 02:34:54] warriorsmash06: Is that why I got kicked?
+[2026-10-20 02:34:54] koofroot: im being so toxic bug rn
+[2026-10-20 02:35:19] warriorsmash06: I didn't get to pick a kit XD
+[2026-10-20 02:35:36] warriorsmash06: I quick joined lol
+[2026-10-20 02:36:07] koofroot: hah? what can possibly be called a retarded loadout?
+[2026-10-20 02:37:40] koofroot: whats wrong with beign a bit silly sometimes?
+[2026-10-20 02:38:17] koofroot: unerstandable
+[2026-10-20 02:42:58] koofroot: hm, i like cremator and mid armor for predator and explody bugs. Works well for me
+[2026-10-20 02:43:26] koofroot: i dont think i can solo v10
+[2026-10-20 02:44:47] koofroot: i dont think there is a build that i can complete bugs at lvl 10 with
+[2026-10-20 02:44:55] koofroot: solo
+[2026-10-20 02:46:12] koofroot: lmao okay
+[2026-10-20 02:46:17] blazingskully: wew amr
+[2026-10-20 02:46:26] blazingskully: unironically amr slaps
+[2026-10-20 02:52:02] koofroot: liberator carabine?
+[2026-10-20 02:52:41] koofroot: it is
+[2026-10-20 02:55:16] koofroot: hah?
+[2026-10-20 02:55:25] koofroot: dual liberation?
+[2026-10-20 02:55:31] koofroot: not better?
+[2026-10-20 02:55:39] koofroot: ye
+[2026-10-20 02:55:56] koofroot: 2 shots 4-5 kills ;D
+[2026-10-20 02:56:20] koofroot: its fine, i got you
+[2026-10-20 02:56:27] koofroot: it staggers
+[2026-10-20 02:57:48] nohaydequeso: Poor pdf lover, you know what i mean
+[2026-10-20 02:57:57] koofroot: better version of what you can find on the ground
+[2026-10-20 02:58:55] koofroot: yea, the best part of it. Removes skill from missins that requires it
+[2026-10-20 02:59:38] xMERCYKILL_: Hi
+[2026-10-20 03:00:22] PandoraOfTheBox: !rules
+[2026-10-20 03:00:54] xMERCYKILL_: Im good haven't been here in forever
+[2026-10-20 03:01:53] xMERCYKILL_: Ive been working a lot and selling my soul in apex
+[2026-10-20 03:02:04] xMERCYKILL_: Good
+[2026-10-20 03:05:05] koofroot: hm
+[2026-10-20 03:14:14] xMERCYKILL_: 100
+[2026-10-20 03:14:52] xMERCYKILL_: no ads
+[2026-10-20 03:15:28] xMERCYKILL_: yea
+[2026-10-20 03:15:49] xMERCYKILL_: 100 100
+[2026-10-20 03:16:23] xMERCYKILL_: Im a ganji main
+[2026-10-20 03:16:32] xMERCYKILL_: genji
+[2026-10-20 03:17:02] xMERCYKILL_: not anymore i was but left for reasons
+[2026-10-20 03:17:18] xMERCYKILL_: i was cleaning the cord out
+[2026-10-20 03:17:48] xMERCYKILL_: i got hacked so i left all servers and wiped my acount
+[2026-10-20 03:17:48] pileofbears: message deleted by a moderator.
+[2026-10-20 03:19:26] xMERCYKILL_: i have a new acount
+[2026-10-20 03:24:23] xMERCYKILL_: not really still only dbd apex and overwatch wich i havent got on the pc yet also moved to pc
+[2026-10-20 03:24:53] xMERCYKILL_: its nice
+[2026-10-20 03:27:44] xMERCYKILL_: I need to get helldivers i thought about it but never got it but now that im watching it again it looks fun
