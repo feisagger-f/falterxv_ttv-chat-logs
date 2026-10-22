@@ -1,0 +1,38 @@
+Streamlabs observed chat log started 2026-10-21 21:52:36
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-21 21:53:41] blazingskully: hello dere
+[2026-10-21 21:53:47] FalterXV: hello hello!
+[2026-10-21 22:00:55] blazingskully: decided to try on my new shirt
+[2026-10-21 22:08:14] blazingskully: what even lol
+[2026-10-21 22:10:49] FalterXV: https://steamcommunity.com/id/Spaz-kun/
+[2026-10-21 22:15:19] blazingskully: this is just getting funnier and funnier
+[2026-10-21 22:20:36] FalterXV: !commands
+[2026-10-21 22:20:38] FalterXV: !vanguard
+[2026-10-21 22:20:44] blazingskully: his behavior is getting funny
+[2026-10-21 22:21:16] blazingskully: like does he think we werent gonna laugh at the fact he's throwing a tantrum?
+[2026-10-21 22:23:04] blazingskully: just sayin lol
+[2026-10-21 23:00:42] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw?t=10
+[2026-10-21 23:01:12] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw
+[2026-10-21 23:01:28] blazingskully: i told you i made it in
+[2026-10-21 23:48:37] blazingskully: cause remember stealth it doesnt exist cause flip said so so it must be true lol
+[2026-10-22 00:02:48] blazingskully: full damage protection my ass lol
+[2026-10-22 00:28:09] blazingskully: i bet you anything he's gonna whine a ton once he realizes you got him
+[2026-10-22 00:34:00] blazingskully: i mean somehow that doesnt surprise me given how bad at shooting they usually are so if they die its not their fault its the worlds fault
+[2026-10-22 01:16:32] blazingskully: factory striders and scout striders are nerds lol
+[2026-10-22 01:19:39] Astronomally01: Omg, a sniper.
+[2026-10-22 01:20:10] Astronomally01: well that I guess, but I meant you.
+[2026-10-22 01:20:34] Astronomally01: Only one I've found that stream at least.
+[2026-10-22 01:22:42] Astronomally01: Baby diver?
+[2026-10-22 01:23:22] Astronomally01: Ahhhh, returning veteran diver.
+[2026-10-22 01:23:26] FalterXV: !solos
+[2026-10-22 01:32:44] Astronomally01: You got this veteran. Hwaiting.
+[2026-10-22 01:33:40] Astronomally01: oh? maddening. I'm trying to be better with a sniper, I can only run hyena up to 4
+[2026-10-22 01:36:33] Astronomally01: ah, no! ads interupted your spiel.
+[2026-10-22 02:07:49] blazingskully: man my ship is suddenly falterless lol
+[2026-10-22 03:04:28] blazingskully: they always trying to be cheating
+[2026-10-22 03:49:14] blazingskully: they are the dumb lol
