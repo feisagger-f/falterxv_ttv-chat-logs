@@ -1,0 +1,43 @@
+Streamlabs observed chat log started 2026-10-22 22:39:14
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-22 22:41:30] blazingskully: what if i'm actually right here
+[2026-10-22 22:58:41] xMERCYKILL_: Im good
+[2026-10-22 22:58:55] xMERCYKILL_: Got off work about an hour ago
+[2026-10-22 22:59:10] xMERCYKILL_: It was good
+[2026-10-22 23:00:10] xMERCYKILL_: Yea ima play apex till the sun rises or watch some anime
+[2026-10-22 23:00:17] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw?t=10
+[2026-10-22 23:00:47] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw
+[2026-10-22 23:00:50] xMERCYKILL_: Ill have to find something all the shows im into ive finished
+[2026-10-22 23:01:32] xMERCYKILL_: I just finished Mushoko Tensei
+[2026-10-22 23:01:47] xMERCYKILL_: I did
+[2026-10-22 23:01:53] xMERCYKILL_: Im so happy about it
+[2026-10-22 23:02:35] xMERCYKILL_: Im waiting for more episodes of firefly wedding I love dark romance
+[2026-10-22 23:02:52] xMERCYKILL_: All three
+[2026-10-22 23:23:25] blazingskully: i am not awesome i said it here first
+[2026-10-22 23:24:03] blazingskully: Under duress of of my amazing friend falter i am awesome
+[2026-10-22 23:24:15] FalterXV: Listen here you awesome you
+[2026-10-22 23:44:03] dibercho: ?
+[2026-10-22 23:44:11] FalterXV: ?
+[2026-10-22 23:44:13] blazingskully: ?
+[2026-10-22 23:44:31] ChaosofJerome: Killed me for lit no reason but okay…
+[2026-10-22 23:44:35] dibercho: ????
+[2026-10-22 23:44:50] dibercho: Like this guy is special
+[2026-10-22 23:44:59] dibercho: Lmao
+[2026-10-23 00:10:02] blazingskully: lol your funny
+[2026-10-23 00:11:51] FalterXV: your mom's ftl was successful
+[2026-10-23 00:31:30] xMERCYKILL_: I shall lurk
+[2026-10-23 00:31:50] xMERCYKILL_: !lurk
+[2026-10-23 00:32:09] xMERCYKILL_: Im actually watching SAO
+[2026-10-23 00:33:36] xMERCYKILL_: Its just something to put me to sleep
+[2026-10-23 00:34:18] xMERCYKILL_: The only thing I like about Sao is the fight scenes the animation is pretty decent
+[2026-10-23 00:35:37] xMERCYKILL_: I dont know if you saw the latest episode of black clover but they fucking cooked with the fight scenes
+[2026-10-23 00:51:32] blazingskully: this is actually ridiculous
+[2026-10-23 00:52:21] dreadnox05: just put the session private... wasting time blocking people. and that make them like quit the game
+[2026-10-23 01:14:17] blazingskully: comedy gold as it is called lol
+[2026-10-23 01:46:59] blazingskully: i am innocent here guys
+[2026-10-23 02:03:29] blazingskully: i got a widdle cheated by the connection borking itself lol
