@@ -1,0 +1,28 @@
+Streamlabs observed chat log started 2026-10-25 07:14:50
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-25 07:15:16] blazingskully: !lurk
+[2026-10-25 07:15:47] FalterXV: !rules
+[2026-10-25 07:15:50] FalterXV: !guides
+[2026-10-25 07:15:55] FalterXV: !loadout
+[2026-10-25 07:41:37] mysticzealot24: with the latest warbond stealth is little easier
+[2026-10-25 07:41:51] Jaynee_Ethlwynn: just got out of the ad break, have a good stream!
+[2026-10-25 07:42:23] mysticzealot24: i was reading the loadout and im more of a brawler
+[2026-10-25 07:44:25] mysticzealot24: laser and rocket turrets, either jump pack, eagle napalm while i was fighting bugs
+[2026-10-25 07:45:44] mysticzealot24: for bots apex, laser orbital, tesla and laser turret.
+[2026-10-25 07:46:38] mysticzealot24: i like to play on full teams but mostly solo
+[2026-10-25 07:47:05] mysticzealot24: really don't like joining random lobbies in helldivers2
+[2026-10-25 07:50:39] mysticzealot24: loadout for illuminate the primary sniper rifle, bolt pistol, incendiary grenade. stalwart, warp pack, orbital railgun, eagle 500k. latest warbond armor. muscle enhancement is my favorite booster
+[2026-10-25 07:53:06] mysticzealot24: if im in a full team i switch out bolt pistol for the missile pistol to take out the flying detectors
+[2026-10-25 07:53:55] mysticzealot24: i skipped the latest smg and caltrops
+[2026-10-25 07:54:12] deadspace743: Sup
+[2026-10-25 07:56:15] mysticzealot24: stalwart is pretty good the illuminate. aim for the bright light and it clears the voteless.
+[2026-10-25 08:01:22] mysticzealot24: i tried the airburst rocket launcher recently and it is enjoyable to use in every situation
+[2026-10-25 08:09:07] vento_norte: I have been summoned by Super Earth
+[2026-10-25 08:09:41] vento_norte: I'm saving up for a Xbox series X so I can get Helldiver's 2
+[2026-10-25 08:24:35] blazingskully: they're crossing the streams!
+[2026-10-25 08:28:47] blazingskully: cause your a strong indepandant streamer
