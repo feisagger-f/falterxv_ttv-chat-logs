@@ -1,0 +1,46 @@
+Streamlabs observed chat log started 2026-10-25 20:42:27
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-25 20:43:36] blazingskully: hello dere
+[2026-10-25 20:45:05] FalterXV: !rules
+[2026-10-25 20:45:14] FalterXV: !commands
+[2026-10-25 20:45:25] FalterXV: !lurk
+[2026-10-25 20:57:33] slanderarono: Hi, is Scout passive stealth or not?
+[2026-10-25 20:57:39] slanderarono: message deleted by a moderator.
+[2026-10-25 20:59:34] blazingskully: why even make a burner seriously it's going to be found out fairly quickly anyways
+[2026-10-25 21:24:34] blazingskully: stealth isnt real flip said so, it must be true
+[2026-10-25 21:30:19] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw?t=10
+[2026-10-25 21:30:49] FalterXV: 🛸 The ultimate space horror experience awaits! Secure your copy of Nemesis Legacy now: https://instream.ly/AQqw1QunTw
+[2026-10-25 21:40:40] blazingskully: i can hear you
+[2026-10-25 21:40:51] blazingskully: i'm gonna use twitch on my phone and restart my pc
+[2026-10-25 21:41:10] blazingskully: no i can hear you just fine
+[2026-10-25 21:41:40] blazingskully: windows 11 version 26h2
+[2026-10-25 21:42:28] blazingskully: Like I said what a start to the day
+[2026-10-25 21:43:19] blazingskully: I'll just do a quick one after stream to make up for it unless I manage to make it back in time in which case you know Bing bang boom
+[2026-10-25 21:45:23] blazingskully: no wayyyy
+[2026-10-25 22:01:33] blazingskully: literally and the excuse the used to play off joining the fake too
+[2026-10-25 22:10:37] xMERCYKILL_: Im good playing apex
+[2026-10-25 22:10:58] xMERCYKILL_: I did win a game
+[2026-10-25 22:29:10] blazingskully: dont gotta scream if you aint got a mouth!
+[2026-10-25 22:33:20] blazingskully: She was a traitor and a part of the rebel alliance! Take Her away!
+[2026-10-25 22:49:50] blazingskully: the fact she tried to bargain so early at all astounded me
+[2026-10-25 22:50:39] tekno_witch: !lurk
+[2026-10-25 22:51:09] blazingskully: Happy Liberty Day!
+[2026-10-25 23:20:27] blazingskully: lol must be true
+[2026-10-26 00:07:24] blazingskully: did you know
+[2026-10-26 00:07:26] blazingskully: Unless
+[2026-10-26 00:27:35] blazingskully: but did you know?
+[2026-10-26 00:27:41] blazingskully: the floor is made out of floor
+[2026-10-26 00:37:05] blazingskully: she needs to make the effort basically
+[2026-10-26 00:42:37] blazingskully: i grabbed another coffee cake
+[2026-10-26 00:54:45] blazingskully: not to mention the turret users are currently whining at AH since Lua doesnt work to prevent the turrets from tking
+[2026-10-26 01:04:51] blazingskully: at the end of the day there had to be a reason
+[2026-10-26 01:09:58] blazingskully: stream you heard it from me here audibly falter is amazing
+[2026-10-26 01:28:17] SuperEarthMinistryofTruth: Sir all I’m out of grenades all I have is a portable hellbomb! My son you are the last grenade
+[2026-10-26 01:29:01] blazingskully: man who could have seen that coming
+[2026-10-26 01:34:54] blazingskully: but did you know
+[2026-10-26 02:34:15] blazingskully: guess what your awesome
