@@ -1,0 +1,53 @@
+Streamlabs observed chat log started 2026-10-26 21:35:05
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-10-26 21:37:00] blazingskully: hello dere
+[2026-10-26 21:43:05] blazingskully: but what about the tactical confetti?
+[2026-10-26 22:18:52] blazingskully: whisper carried and is cute
+[2026-10-26 22:38:51] blazingskully: we are all gamers
+[2026-10-26 22:39:00] blazingskully: the three amigo's one would say
+[2026-10-26 22:43:10] blazingskully: whisper carried us the entire time even when she isnt here she actually carried this entire time
+[2026-10-26 22:45:50] blazingskully: what about hear me out whisper is a gamer
+[2026-10-26 23:05:41] blazingskully: its blub blub
+[2026-10-26 23:35:40] blazingskully: remember guys whisper is a gamer
+[2026-10-26 23:50:56] thwipl: wow the boss melted
+[2026-10-26 23:51:38] thwipl: ohh i see
+[2026-10-26 23:53:02] thwipl: whats her big damage loadout??
+[2026-10-26 23:53:37] thwipl: ohh good choice
+[2026-10-26 23:54:44] thwipl: oh i havent played destiny in a minutee
+[2026-10-26 23:54:49] thwipl: but i loved that void auto
+[2026-10-26 23:54:56] thwipl: the special one it fired really slow
+[2026-10-26 23:55:09] thwipl: exotic exotic
+[2026-10-26 23:55:44] thwipl: no it was special ammo
+[2026-10-26 23:55:46] thwipl: it didnt fire primary
+[2026-10-26 23:56:05] thwipl: yes choir of one!
+[2026-10-26 23:56:23] thwipl: i didnt like the shotgun mode very much but i liked the ads mode
+[2026-10-26 23:56:29] thwipl: it did a lottt of headshot
+[2026-10-26 23:56:58] thwipl: probably had like 100k kills on it lol
+[2026-10-27 00:01:21] thwipl: i do not miss doing these conquests
+[2026-10-27 00:01:24] thwipl: the later ones were so boring
+[2026-10-27 00:03:17] thwipl: wtff
+[2026-10-27 00:10:46] thwipl: how long is your session?
+[2026-10-27 00:10:52] thwipl: game can just shit itself from what i remember
+[2026-10-27 00:11:19] thwipl: i was gonna suggest restarting game or something but damn
+[2026-10-27 00:12:17] thwipl: or give som1 else lead? thats fixed things in the past strangely enough
+[2026-10-27 00:14:00] thwipl: i think java had a patch recently to patch a critical issue actually
+[2026-10-27 00:14:05] thwipl: that might be why you need an update
+[2026-10-27 00:14:29] blazingskully: but did you know whisper is a gamer
+[2026-10-27 00:14:57] thwipl: oh thats good
+[2026-10-27 00:16:18] thwipl: you can say wipl thats fine
+[2026-10-27 00:17:01] thwipl: it was originally meant to be "thwip" like spiderman kinda
+[2026-10-27 00:17:11] thwipl: but that wasnt available on twitch so i just added "l" randomly
+[2026-10-27 00:17:16] thwipl: so its thwipl
+[2026-10-27 00:17:43] thwipl: doesnt quite roll off the tongue
+[2026-10-27 00:17:51] thwipl: wipl is grand
+[2026-10-27 00:18:20] thwipl: l, 1 whats the difference
+[2026-10-27 00:22:17] thwipl: probably all of them? they said all of the ones that are gone right
+[2026-10-27 00:22:31] thwipl: all the d2 ones anyway, probably not d1 wrath
+[2026-10-27 00:24:04] thwipl: might be a no arms dealer kind of day
+[2026-10-27 00:46:10] blazingskully: see i heard that falter is amazing and so is whisper who carries all the time
+[2026-10-27 00:47:47] blazingskully: did you know the floor is made out of floor
