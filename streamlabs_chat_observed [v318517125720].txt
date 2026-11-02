@@ -1,0 +1,9 @@
+Streamlabs observed chat log started 2026-11-01 23:46:22
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-11-02 00:30:20] blazingskully: the difference between the floor and the ceiling is that the floor is made out of floor
+[2026-11-02 00:37:52] blazingskully: you're amazing gottem
