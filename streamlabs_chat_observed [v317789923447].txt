@@ -1,0 +1,10 @@
+Streamlabs observed chat log started 2026-11-01 23:22:39
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-11-01 23:23:16] blazingskully: did you know theres this amazing person named FalterXV
+[2026-11-01 23:24:06] FalterXV: !rules
+[2026-11-01 23:24:35] FalterXV: !guides
