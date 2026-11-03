@@ -1,0 +1,44 @@
+Streamlabs observed chat log started 2026-11-02 20:20:44
+URL: https://streamlabs.com/falterxv
+Mode: mutation + review-filtered chat lines only.
+UI/page chrome, bot spam, and stale repeated lines are hidden by default.
+Deleted-message preservation: original text is preserved if captured before deletion; later deletion states are also logged.
+Use --include-bots if StreamElements/Nightbot/SoundAlerts lines are needed.
+
+[2026-11-02 20:22:13] FalterXV: !rule
+[2026-11-02 20:22:15] FalterXV: !rules
+[2026-11-02 20:22:17] FalterXV: !guides
+[2026-11-02 20:22:19] FalterXV: !commands
+[2026-11-02 20:22:20] FalterXV: !loadout
+[2026-11-02 20:22:57] blazingskully: hello dere
+[2026-11-02 20:23:05] FalterXV: tsun-dere you
+[2026-11-02 20:26:06] blazingskully: Wew
+[2026-11-02 20:28:51] blazingskully: trash panda cyborgs? i knew it bently went rogue lol
+[2026-11-02 21:09:07] blazingskully: radicals say no lol
+[2026-11-02 21:26:45] blazingskully: look i'm innocent vox engines just want my super body for not super earth
+[2026-11-02 21:48:22] xMERCYKILL_: 100 100
+[2026-11-02 21:48:48] xMERCYKILL_: Im doing good just got home from work
+[2026-11-02 21:49:04] xMERCYKILL_: fucking w
+[2026-11-02 21:49:49] xMERCYKILL_: W sushi
+[2026-11-02 21:50:50] xMERCYKILL_: Try Gigantify
+[2026-11-02 21:52:18] xMERCYKILL_: I worked haloween
+[2026-11-02 21:52:23] xMERCYKILL_: adut things
+[2026-11-02 21:52:33] xMERCYKILL_: being grown up sucks
+[2026-11-02 21:53:46] xMERCYKILL_: the ragdoll
+[2026-11-02 21:56:02] xMERCYKILL_: oh my steam got fucking hacked before haloween
+[2026-11-02 21:57:39] xMERCYKILL_: no clue but if I didn't get it back id lose my shit my apex is linked to steam and Iv'e spent well over 1k on apex
+[2026-11-02 22:17:51] blazingskully: Wheremst
+[2026-11-02 22:29:50] Truth_Enforcer0: Greetings HellDiver, how is your mission proceeding
+[2026-11-02 22:30:46] Truth_Enforcer0: The title caught my eye as being a fan of Set It Off, Wolf in Sheep’s Clothing
+[2026-11-02 22:32:12] Truth_Enforcer0: You’re asking me, a Truth Enforcer, if I was helping with the MO and the campaign…
+[2026-11-02 22:32:18] Truth_Enforcer0: You dare doubt my actions
+[2026-11-02 22:33:34] Truth_Enforcer0: I did the best I can, helping randoms, picking up every common sample I could find, and yet it was a fail
+[2026-11-02 22:35:23] Truth_Enforcer0: My own squad that I run with was unavailable at that moment in time, I am level 171, joined late but put in the effort to rise to my rank. I only joined to speed up the process of the mission
+[2026-11-02 22:36:08] Truth_Enforcer0: D10 is the only level I dive in, solo or with randoms
+[2026-11-02 22:36:43] FalterXV: !solos
+[2026-11-02 22:41:48] Truth_Enforcer0: Vox Engines were the worst when they first came out, now they made it too easy
+[2026-11-02 22:43:25] Truth_Enforcer0: Or if you aren’t spotted yet, killing one via their vents with the Nova was a way I kill them now
+[2026-11-02 22:47:17] Truth_Enforcer0: 4 shots in the vents, worked for me, had to steal it from a buddy because my FAF-14 spear was on cooldown and my old one was halfway across the map
+[2026-11-02 22:48:22] blazingskully: the nova is dumb
+[2026-11-02 23:00:25] blazingskully: Words you know lol
+[2026-11-02 23:06:57] blazingskully: but did you know you're amazing
