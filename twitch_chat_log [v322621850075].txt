@@ -1,0 +1,21 @@
+Twitch chat log
+Channel: falterxv
+Stream ID: 322621850075
+Timestamps: UTC (Twitch server time where available)
+
+[2026-11-27T08:43:36.898Z] FalterXV: !loadout [id=0d55b751-f86c-4752-a64f-2a3d2ec047cb]
+[2026-11-27T08:43:39.006Z] FalterXV: !razergold [id=727f176d-68cf-4fcb-8943-692f8ce0575c]
+[2026-11-27T08:43:42.017Z] FalterXV: !commands [id=0d25c2da-db36-4122-8dff-f5f38161b37c]
+[2026-11-27T08:43:44.417Z] FalterXV: !razergold [id=c5d1390b-7859-492d-a81b-2beb470d995a]
+[2026-11-27T08:43:46.232Z] FalterXV: !lurk [id=e0d10c78-5097-4dca-9a1c-4819d5f96358]
+[2026-11-27T08:43:48.622Z] FalterXV: !razergold [id=96aa2849-3c99-4ef3-adb4-e59a8d546056]
+[2026-11-27T08:51:24.981Z] FalterXV: !razergold [id=62c04a79-d8b6-4ff7-9dfd-ce31d077493e]
+[2026-11-27T09:19:18.253Z] vexappeal_: vexappSalute vexappSalute vexappSalute [id=cf800966-6fd9-4754-9792-f15ead7681af]
+[2026-11-27T09:27:29.033Z] [Chat cleared: user=vexappeal_]
+[2026-11-27T10:08:46.622Z] alfings: Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧Never Para-GONNA GIVE YOU UP!🐧Never Para-GONNA LET YOU DOWN!🐧 [id=79c09f59-7187-4a02-9ef2-068bc679a213]
+[2026-11-27T10:08:51.083Z] PentalParagona: Never Para-GONNA GIVE YOU UP! pental4Flyingkiss Never Para-GONNA LET YOU DOWN! pental4Flyingkiss Never Para-GONNA GIVE YOU UP! pental4Flyingkiss Never Para-GONNA LET YOU DOWN! pental4Flyingkiss Never Para-GONNA GIVE YOU UP! pental4Flyingkiss Never Para-GONNA LET YOU DOWN! pental4Flyingkiss Never Para-GONNA GIVE YOU UP! pental4Flyingkiss Never Para-GONNA LET YOU DOWN! pental4Flyingkiss Never Para-GONNA GIVE YOU UP! pental4Flyingkiss Never Para-GONNA LET YOU DOWN! pental4Flyingkiss [id=a2827923-e13b-4ae4-9edf-b5f3f0b54205]
+[2026-11-27T10:09:27.661Z] PentalParagona: Seems lke the sounds of democracy is dampening your voice xD [id=f1d4a044-9d77-4d7e-a164-930f5ec0d06d]
+[2026-11-27T10:09:34.607Z] PentalParagona: Have fun! ^^ [id=b286fd1a-5009-4878-9a15-540fd4b41a48]
+[2026-11-27T10:09:47.815Z] PentalParagona: No prob play it as loud as you like [id=184a1c7c-2f0c-442b-9070-b9ff337b75ab]
+[2026-11-27T10:09:51.727Z] PentalParagona: Hahaha [id=6d8d59ab-7060-4d96-8dd8-4f9598972346]
+[2026-11-27T10:09:58.621Z] PentalParagona: You too! [id=0eea8691-e272-4430-836a-dc5f3cea8180]
